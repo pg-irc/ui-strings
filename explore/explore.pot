@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-02-13 13:45-0800\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgid "Things to do right away"
+msgstr ""
+
+msgid "Settling in"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Health care"
+msgstr ""
+
+msgid "Money & banking"
+msgstr ""
+
+msgid "Housing"
+msgstr ""
+
+msgid "Employment"
+msgstr ""
+
+msgid "Legal system & immigration"
+msgstr ""
+
+msgid "Driving"
+msgstr ""
+
+msgid "Help for individuals & families"
+msgstr ""
+
+msgid "Important tasks for settling in your community"
+msgstr ""
+
+msgid "Social customs and getting around your community"
+msgstr ""
+
+msgid "Learning English, schools for children, youth and adults"
+msgstr ""
+
+msgid "Medical insurance, finding a doctor, mental health"
+msgstr ""
+
+msgid "Opening a bank account, filing taxes"
+msgstr ""
+
+msgid "Finding a place to rent or buy, getting rental assistance"
+msgstr ""
+
+msgid "Finding a job, working and workers’ rights"
+msgstr ""
+
+msgid "Immigration and citizenship, legal support, police"
+msgstr ""
+
+msgid "Getting a driver's licence, traffic laws, basic insurance"
+msgstr ""
+
+msgid "For example low-income, disabilities, youth"
+msgstr ""
+
+msgid "THINGS TO DO RIGHT AWAY"
+msgstr ""
+
+msgid "SETTLING IN"
+msgstr ""
+
+msgid "EDUCATION"
+msgstr ""
+
+msgid "HEALTH CARE"
+msgstr ""
+
+msgid "MONEY & BANKING"
+msgstr ""
+
+msgid "HOUSING"
+msgstr ""
+
+msgid "EMPLOYMENT"
+msgstr ""
+
+msgid "LEGAL SYSTEM & IMMIGRATION"
+msgstr ""
+
+msgid "DRIVING"
+msgstr ""
+
+msgid "HELP FOR INDIVIDUALS & FAMILIES"
+msgstr ""
+
+msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
+msgstr ""
+
+msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
+msgstr ""
+
+msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
+msgstr ""
+
+msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
+msgstr ""
+
+msgid "OPENING A BANK ACCOUNT, FILING TAXES"
+msgstr ""
+
+msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
+msgstr ""
+
+msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
+msgstr ""
+
+msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
+msgstr ""
+
+msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
+msgstr ""
+
+msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
+msgstr ""

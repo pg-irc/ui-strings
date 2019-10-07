@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
+"PO-Revision-Date: 2019-09-27 18:43+0000\n"
+"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
+"projects/ui-strings/release_notes/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
+msgid "Thanks for using Arrival Advisor!"
+msgstr "感謝使用 Arrive Advisor"
+
+msgid ""
+"We've made updates and improvements to make your experience even better."
+msgstr "我們的團隊對於 Arrive Advisor 不斷更新與改進, 來提升您的完善體驗。"
+
+msgid "What's new"
+msgstr "新內容"
+
+msgid "New languages:"
+msgstr "新增語言"
+
+msgid "Chinese Traditional, Chinese Simplified, Korean, Punjabi, and Tagalog"
+msgstr "簡體中文、繁體中文、韓語、旁遮普語及塔加路語版"
+
+msgid "Onboarding screens for new users"
+msgstr "新用戶的簡介屏幕"
+
+msgid ""
+"The latest services data from BC211 is now reflected in the service results."
+msgstr "BC 211 的最新網路服務數據目前已被列入在定位服務收尋結果中。"
+
+msgid "Fixed:"
+msgstr "固定"
+
+msgid ""
+"We've improved the service listings you see when you click \"Find Related "
+"Services Near Me\"."
+msgstr "我們對於 “尋查附近相關服務” 的搜尋清單已做改進。"
+
+msgid ""
+"Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
+"and refugees in British Columbia, Canada find information and services to "
+"navigate their settlement journey."
+msgstr ""
+"Arrival Advisor 是一款免費多語言的手機應用程式, 幫助加拿大不列顛哥倫比亞省的"
+"移民和難民在定居的過程中, 找到所需資訊與服務。"
+
+msgid ""
+"Now available in English, French, Arabic, Chinese Simplified, Chinese "
+"Traditional, Korean, Punjabi, and Tagalog."
+msgstr ""
+"目前提供英語 、法語 、阿拉伯語 、簡體中文 、繁體中文 、韓語 、旁遮普語及塔加"
+"路語版"
+
+msgid ""
+"Get reliable and up-to-date information for newcomers, no matter where you "
+"are."
+msgstr "無論您身在何處，都可以透過網路即時獲取信賴可靠的最新消息。"
+
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr "查尋您附近的服務提供點以便安家樂業。"
+
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
