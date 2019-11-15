@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-17 12:45-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ar\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: @lingui/cli\n"
+"Mime-Version: 1.0\n"
+
+msgid "Trusted information for newcomers to British Columbia"
+msgstr ""
+
+msgid "Available in your language"
+msgstr ""
+
+msgid "Get recommendations based on your situation"
+msgstr ""
+
+msgid "Optional questions to find your most relevant information"
+msgstr ""
+
+msgid "Find helpful services nearby"
+msgstr ""
+
+msgid "Keep track of what you need to do next"
+msgstr ""
+
+msgid "Available offline"
+msgstr ""
