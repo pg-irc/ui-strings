@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-10 19:51+0000\n"
+"PO-Revision-Date: 2020-01-10 19:56+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Arabic <https://35.183.116.114/projects/ui-strings/"
 "jsx_strings/ar/>\n"
@@ -362,7 +362,7 @@ msgstr "من"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr "ORGANIZATION"
+msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
