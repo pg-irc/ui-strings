@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2019-09-25 03:37+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
+"PO-Revision-Date: 2020-01-10 19:45+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Punjabi <https://35.183.116.114/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.5.1\n"
+"X-Generator: Weblate 3.8\n"
 
 #: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
@@ -20,7 +20,7 @@ msgstr "ਐਪ ਬਾਰੇ"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr "About"
+msgstr ""
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -142,7 +142,7 @@ msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr "City, address or postal code"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -184,7 +184,7 @@ msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ"
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr "Enter city, address, or postal code"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 #, fuzzy
@@ -304,7 +304,7 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr "Last verified"
+msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -318,7 +318,7 @@ msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵ�
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr "My Location"
+msgstr ""
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
@@ -393,7 +393,7 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr "Provided by"
+msgstr ""
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -437,7 +437,7 @@ msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr "See recommendations"
+msgstr ""
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -454,7 +454,7 @@ msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr "Services"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -472,7 +472,7 @@ msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹ�
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr "Show more services"
+msgstr ""
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -542,7 +542,7 @@ msgstr ""
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr "Topics"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
