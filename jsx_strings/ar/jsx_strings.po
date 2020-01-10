@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2019-09-23 21:37+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Arabic <https://translate.peacegeeks.org/projects/ui-strings/"
+"PO-Revision-Date: 2020-01-10 19:45+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Arabic <https://35.183.116.114/projects/ui-strings/"
 "jsx_strings/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.5.1\n"
+"X-Generator: Weblate 3.8\n"
 
 #: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
@@ -21,7 +21,7 @@ msgstr "نبذة عن التطبيق"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr "About"
+msgstr ""
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -148,7 +148,7 @@ msgstr "تحقق من خدمات الموقع"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr "City, address or postal code"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -190,7 +190,7 @@ msgstr "تمكين خدمات الموقع"
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr "Enter city, address, or postal code"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 #, fuzzy
@@ -313,7 +313,7 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr "Last verified"
+msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -327,7 +327,7 @@ msgstr "خدمات معلومات صحية مقدمة بعدة لغات"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr "My Location"
+msgstr ""
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
@@ -402,7 +402,7 @@ msgstr "سياسة الخصوصية"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr "Provided by"
+msgstr ""
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -446,7 +446,7 @@ msgstr "تحقق من خدمات الموقع"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr "See recommendations"
+msgstr ""
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -463,7 +463,7 @@ msgstr "إصدار رقم:"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr "Services"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -483,7 +483,7 @@ msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي ق
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr "Show more services"
+msgstr ""
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -555,7 +555,7 @@ msgstr ""
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr "Topics"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
