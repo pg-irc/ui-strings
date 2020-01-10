@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-10 19:45+0000\n"
+"PO-Revision-Date: 2020-01-10 19:51+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Punjabi <https://35.183.116.114/projects/ui-strings/"
 "jsx_strings/pa/>\n"
@@ -554,7 +554,7 @@ msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ
 
 #: lib/components/website/website_component.js:13
 msgid "Website"
-msgstr "Website"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
