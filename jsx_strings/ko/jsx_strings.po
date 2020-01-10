@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"POT-Creation-Date: 2020-01-10 10:51-0800\n"
 "PO-Revision-Date: 2019-09-25 03:37+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Korean <https://translate.peacegeeks.org/projects/ui-strings/"
@@ -14,17 +14,23 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:44
+#: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
 msgstr "이 앱에 관하여"
 
+#: lib/components/organizations/organization_detail_component.js:33
+msgid "About"
+msgstr "About"
+
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor에 대하여"
 
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
+#: lib/components/addresses/addresses_component.js:14
+#, fuzzy
+#| msgid "Address:"
+msgid "Address"
 msgstr "주소:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
@@ -35,9 +41,10 @@ msgstr "오류가 발생했습니다. "
 msgid ""
 "Answer a few optional questions to get tailored recommendations for your "
 "needs."
-msgstr "몇 가지 질문에 답하는 것만으로 당신의 필요에 꼭 맞는 추천을 받을 수 있습니다."
+msgstr ""
+"몇 가지 질문에 답하는 것만으로 당신의 필요에 꼭 맞는 추천을 받을 수 있습니다."
 
-#: lib/components/recommended_topics/call_to_action.js:46
+#: lib/components/recommended_topics/call_to_action.js:43
 msgid ""
 "Answer a few questions about your situation to get personalized "
 "recommendations of topics and services to help you settle in British "
@@ -46,7 +53,7 @@ msgstr ""
 "몇 가지 질문에 답한 다음, 브리티시컬럼비아주 정착에 유용한 나만의 맞춤 주제"
 "와 서비스 추천받기."
 
-#: lib/components/recommended_topics/call_to_action.js:55
+#: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
 msgstr "질문에 답하기"
 
@@ -106,11 +113,11 @@ msgstr ""
 "다. 해당 정보는 캐나다 이민 난민 시민권부(IRCC)에 의해 어떠한 목적으로도 활용"
 "되지 않으며, 어떠한 이민 의사 결정에도 활용되지 않습니다."
 
-#: lib/components/questionnaire/questionnaire_component.js:107
+#: lib/components/questionnaire/questionnaire_component.js:111
 msgid "Back"
 msgstr "이전으로"
 
-#: lib/components/recommended_topics/call_to_action.js:99
+#: lib/components/recommended_topics/call_to_action.js:96
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr "귀하의 답변을 바탕으로 다음의 주제를 추천합니다:"
 
@@ -132,7 +139,7 @@ msgstr ""
 msgid "Can't reach the internet"
 msgstr "인터넷에 연결할 수 없습니다. "
 
-#: lib/components/help/help_component.js:125
+#: lib/components/help/help_component.js:131
 msgid "Cancel"
 msgstr "취소"
 
@@ -140,7 +147,11 @@ msgstr "취소"
 msgid "Check location services"
 msgstr "위치 서비스를 확인하세요. "
 
-#: lib/components/help/help_component.js:34
+#: lib/components/search/localized_place_holders.js:6
+msgid "City, address or postal code"
+msgstr "City, address or postal code"
+
+#: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
 msgstr "Arrival Advisor 팀에 연락하기"
 
@@ -148,17 +159,17 @@ msgstr "Arrival Advisor 팀에 연락하기"
 msgid "Created by"
 msgstr "제작"
 
-#: lib/components/help/help_component.js:96
-#: lib/components/help/help_component.js:117
+#: lib/components/help/help_component.js:102
+#: lib/components/help/help_component.js:123
 msgid "Delete all user data"
 msgstr "모든 사용자 데이터 삭제"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
 msgstr "법적 책임 고지"
 
-#: lib/components/help/help_component.js:119
+#: lib/components/help/help_component.js:125
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
@@ -166,7 +177,7 @@ msgstr ""
 "이 폰에서 모든 사용자 데이터를 삭제하시겠습니까? 이는 질문에 선택한 답변과 북"
 "마크한 주제를 포함합니다."
 
-#: lib/components/questionnaire/questionnaire_component.js:114
+#: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "완료"
 
@@ -174,27 +185,33 @@ msgstr "완료"
 msgid "EXPLORE TOPICS"
 msgstr "주제 탐색하기"
 
-#: lib/components/services/service_list_item_component.js:65
-msgid "Email:"
-msgstr "이메일:"
-
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Enable location services"
 msgstr "위치 서비스가 활성화되었습니다."
 
-#: lib/components/services/service_list_component.js:44
+#: lib/components/search/search_input_component.js:71
+msgid "Enter city, address, or postal code"
+msgstr "Enter city, address, or postal code"
+
+#: lib/components/main/header_component.js:37
+#, fuzzy
+#| msgid "FIND A SERVICE NEAR YOU"
+msgid "FIND A SERVICE"
+msgstr "내 주변 서비스 찾기"
+
+#: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "내 주변 서비스 찾기"
 
-#: lib/components/help/help_component.js:60
+#: lib/components/help/help_component.js:66
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "추가 도움을 원할 경우"
 
-#: lib/components/help/help_component.js:72
+#: lib/components/help/help_component.js:78
 msgid "Find a settlement agency near me"
 msgstr "내 주변 이민자 봉사 단체 찾기"
 
-#: lib/components/topics/task_detail_content_component.js:107
+#: lib/components/topics/task_detail_content_component.js:57
 msgid "Find related services near me"
 msgstr "내 주변 연관 서비스 찾기"
 
@@ -227,15 +244,15 @@ msgstr ""
 "며, 사용자의 답변은 오직 앱의 추천 기능을 위해서만 활용됩니다. 사용자의 개인 "
 "정보를 별도로 저장하거나, 후원 단체나 제3자와 공유하지 않습니다."
 
-#: lib/components/recommended_topics/call_to_action.js:33
+#: lib/components/recommended_topics/call_to_action.js:30
 msgid "GETTING STARTED"
 msgstr "시작하기"
 
-#: lib/components/recommended_topics/call_to_action.js:36
+#: lib/components/recommended_topics/call_to_action.js:33
 msgid "Get information based on your needs"
 msgstr "내 필요에 기반한 정보 얻기"
 
-#: lib/components/recommended_topics/call_to_action.js:74
+#: lib/components/recommended_topics/call_to_action.js:71
 msgid "Go back to questions"
 msgstr "질문으로 돌아가기"
 
@@ -243,11 +260,11 @@ msgstr "질문으로 돌아가기"
 msgid "Go to Settings"
 msgstr "설정으로 가세요. "
 
-#: lib/components/help/help_component.js:47
+#: lib/components/help/help_component.js:53
 msgid "Help & Support"
 msgstr "도움과 지원"
 
-#: lib/components/help/help_component.js:50
+#: lib/components/help/help_component.js:56
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -264,11 +281,11 @@ msgstr ""
 "이 앱에 포함된 정보들은 <0>Newcomers Guide to British Columbia</0> 에서 제공"
 "받았으며, 2018 브리티시컬럼비아주가 소유한 저작권의 보호를 받습니다."
 
-#: lib/components/help/help_component.js:25
+#: lib/components/help/help_component.js:29
 msgid "Information on BC211"
 msgstr "BC211에 관한 정보"
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:22
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "헬스링크BC (8-1-1)에 관한 정보"
 
@@ -276,7 +293,7 @@ msgstr "헬스링크BC (8-1-1)에 관한 정보"
 msgid "Information on emergency services (9-1-1)"
 msgstr "응급상황 서비스 (9-1-1)에 관한 정보"
 
-#: lib/components/help/help_component.js:30
+#: lib/components/help/help_component.js:36
 msgid "Information on helplines"
 msgstr "전화 상담 서비스에 관한 정보"
 
@@ -288,29 +305,44 @@ msgstr "위치를 찾는데 너무 오래 걸렸습니다."
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
-msgstr "위치를 찾는데 너무 오래 걸렸습니다. 기기 위치 서비스를 \"높은 정확도\"로 설정하면 이 문제가 해결될 수도 있습니다."
+msgstr ""
+"위치를 찾는데 너무 오래 걸렸습니다. 기기 위치 서비스를 \"높은 정확도\"로 설정"
+"하면 이 문제가 해결될 수도 있습니다."
+
+#: lib/components/content_verification/content_verification_component.js:7
+msgid "Last verified"
+msgstr "Last verified"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "브리티시컬럼비아주에 대해 알아보기"
 
-#: lib/components/help/help_component.js:21
-msgid "Mutlilingual health information services"
+#: lib/components/help/help_component.js:24
+#, fuzzy
+#| msgid "Mutlilingual health information services"
+msgid "Multilingual health information services"
 msgstr "다국어 지원 건강 정보 서비스"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:12
+#: lib/components/search/search_input_component.js:20
+msgid "My Location"
+msgstr "My Location"
+
+#: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "나의 북마크"
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/questionnaire/new_topics_modal_component.js:24
+#, fuzzy
+#| msgid "No new topics recommended based on your answers."
+msgid "New topics have been recommended based on your answers!"
+msgstr "답변에 기반해 추천된 새로운 주제가 없습니다."
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "다음"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:55
-msgid "No new topics recommended based on your answers."
-msgstr "답변에 기반해 추천된 새로운 주제가 없습니다."
-
-#: lib/components/services/service_list_component.js:24
+#: lib/components/bookmarks/service_bookmarks_component.js:9
+#: lib/components/services/service_list_component.js:23
 msgid "No services to show"
 msgstr "표시할 서비스가 없습니다."
 
@@ -322,19 +354,15 @@ msgstr "추천할 주제가 없습니다"
 msgid "No topics to show"
 msgstr "보여드릴 주제가 없습니다"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:43
-msgid "Number of new topics recommended based on your answers:"
-msgstr "답변을 바탕으로 추천된 새로운 주제의 개수:"
-
-#: lib/components/questionnaire/questionnaire_component.js:75
+#: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
 msgstr "/"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:69
-msgid "OK"
-msgstr "네"
+#: lib/components/organizations/organization_detail_component.js:49
+msgid "ORGANIZATION"
+msgstr "ORGANIZATION"
 
-#: lib/components/recommended_topics/call_to_action.js:60
+#: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
 "Once you answer some questions, your recommendations will show up below. For "
 "now, here are some topics we recommend for everyone:"
@@ -342,7 +370,7 @@ msgstr ""
 "질문에 답하면 아래 추천이 나타납니다. 현재, 모두에게 추천된 주제는 다음과 같"
 "습니다:"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+#: lib/components/maps_application_popup/maps_application_popup_component.js:9
 msgid "Open in maps"
 msgstr "지도에서 열기"
 
@@ -361,38 +389,62 @@ msgstr ""
 "민자의 광역 밴쿠버 정착에 도움이 될 만한 서비스와 정보 목록을 제공하기 위해 "
 "만들어졌으며, 공식적인 이민 서비스 기능을 수행하지 않습니다."
 
-#: lib/components/help/help_component.js:16
+#: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "경찰, 소방 및 의료 관련 응급상황"
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "개인정보 정책"
+
+#: lib/components/services/service_detail_component.js:35
+#: lib/components/services/service_list_item_component.js:31
+msgid "Provided by"
+msgstr "Provided by"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
 msgstr "연관 주제들"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read less"
 msgstr "간단히 보기"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read more"
 msgstr "자세히 보기"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:38
-#: lib/components/topics/task_detail_content_component.js:62
+#: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "나만을 위한 추천"
 
-#: lib/components/header_menu/header_menu_component.js:23
+#: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "언어를 선택하세요"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:15
-msgid "Save important topics to build your personal plan for settlement."
+#: lib/components/services/service_detail_component.js:23
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: lib/components/bookmarks/bookmarks_component.js:19
+#, fuzzy
+#| msgid "Save important topics to build your personal plan for settlement."
+msgid ""
+"Save important topics and services to build your personal plan for "
+"settlement."
 msgstr "나만의 정착 계획 수립을 위한 중요 주제 저장하기"
+
+#: lib/components/search/localized_place_holders.js:5
+#: lib/components/search/search_input_component.js:69
+#, fuzzy
+#| msgid "Check location services"
+msgid "Search for services"
+msgstr "위치 서비스를 확인하세요. "
+
+#: lib/components/questionnaire/new_topics_modal_component.js:39
+msgid "See recommendations"
+msgstr "See recommendations"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -406,13 +458,19 @@ msgstr "서비스 오류"
 msgid "Server version:"
 msgstr "서버 버전:"
 
+#: lib/components/bookmarks/tab_switcher.js:36
+#: lib/components/organizations/organization_detail_component.js:40
+msgid "Services"
+msgstr "Services"
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
-msgstr "오프라인에서 서비스를 사용할 수 없습니다. 인터넷에 연결한 후 다시 시도하세요."
+msgstr ""
+"오프라인에서 서비스를 사용할 수 없습니다. 인터넷에 연결한 후 다시 시도하세요."
 
-#: lib/components/help/help_component.js:26
+#: lib/components/help/help_component.js:31
 msgid "Services information and referral"
 msgstr "서비스 정보와 의뢰"
 
@@ -420,7 +478,11 @@ msgstr "서비스 정보와 의뢰"
 msgid "Settling in Canada is now easier."
 msgstr "이제 캐나다에서의 정착이 더욱 쉬워집니다."
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/search/infinite_hits_component.js:34
+msgid "Show more services"
+msgstr "Show more services"
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "넘어가기"
 
@@ -433,7 +495,7 @@ msgstr "시작"
 msgid "Start settling in B.C."
 msgstr "BC주에 정착 시작하기"
 
-#: lib/components/header_menu/header_menu_component.js:52
+#: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
 msgstr "이용 약관"
 
@@ -485,24 +547,42 @@ msgstr "Arrival Advisor 버전:"
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
-msgstr "서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하세요. "
+msgstr ""
+"서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하"
+"세요. "
+
+#: lib/components/bookmarks/tab_switcher.js:33
+msgid "Topics"
+msgstr "Topics"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
 msgstr "다시 시도"
 
-#: lib/components/recommended_topics/call_to_action.js:70
+#: lib/components/recommended_topics/call_to_action.js:67
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "나의 추천 업데이트하기"
 
-#: lib/components/services/service_list_item_component.js:57
-msgid "Web:"
-msgstr "웹:"
+#: lib/components/website/website_component.js:13
+msgid "Website"
+msgstr "Website"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "서버에 연결하는데 어려움을 겪고 있습니다. 나중에 다시 시도하세요."
+
+#~ msgid "Email:"
+#~ msgstr "이메일:"
+
+#~ msgid "Number of new topics recommended based on your answers:"
+#~ msgstr "답변을 바탕으로 추천된 새로운 주제의 개수:"
+
+#~ msgid "OK"
+#~ msgstr "네"
+
+#~ msgid "Web:"
+#~ msgstr "웹:"
 
 #~ msgid ""
 #~ "Fetching your location timed out. On Android devices you may need to set "

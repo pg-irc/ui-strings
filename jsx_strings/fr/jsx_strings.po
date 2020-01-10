@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"POT-Creation-Date: 2020-01-10 10:51-0800\n"
 "PO-Revision-Date: 2019-09-23 21:37+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: French <https://translate.peacegeeks.org/projects/ui-strings/"
@@ -14,17 +14,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:44
+#: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
 msgstr "À PROPOS DE L’APPLICATION"
 
+#: lib/components/organizations/organization_detail_component.js:33
+msgid "About"
+msgstr "About"
+
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "About Arrival Advisor"
 msgstr "À propos d’Arrival Advisor"
 
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
+#: lib/components/addresses/addresses_component.js:14
+#, fuzzy
+#| msgid "Address:"
+msgid "Address"
 msgstr "Adresse :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
@@ -39,7 +45,7 @@ msgstr ""
 "Répondez à quelques questions optionnelles afin d’obtenir des "
 "recommandations qui répondent à vos besoins."
 
-#: lib/components/recommended_topics/call_to_action.js:46
+#: lib/components/recommended_topics/call_to_action.js:43
 msgid ""
 "Answer a few questions about your situation to get personalized "
 "recommendations of topics and services to help you settle in British "
@@ -49,7 +55,7 @@ msgstr ""
 "recommandations personnalisées de sujets et de services qui faciliteront "
 "votre établissement en Colombie-Britannique."
 
-#: lib/components/recommended_topics/call_to_action.js:55
+#: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
 msgstr "Répondre aux questions"
 
@@ -113,11 +119,11 @@ msgstr ""
 "autre fin, et ne sont pas utilisés lors de prises de décisions relatives à "
 "l’immigration."
 
-#: lib/components/questionnaire/questionnaire_component.js:107
+#: lib/components/questionnaire/questionnaire_component.js:111
 msgid "Back"
 msgstr "Question précédente"
 
-#: lib/components/recommended_topics/call_to_action.js:99
+#: lib/components/recommended_topics/call_to_action.js:96
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr ""
 "En nous appuyant sur vos réponses, nous vous recommandons les sujets "
@@ -141,7 +147,7 @@ msgstr ""
 msgid "Can't reach the internet"
 msgstr "Ne peut pas se connecter à Internet"
 
-#: lib/components/help/help_component.js:125
+#: lib/components/help/help_component.js:131
 msgid "Cancel"
 msgstr "ANNULER"
 
@@ -149,7 +155,11 @@ msgstr "ANNULER"
 msgid "Check location services"
 msgstr "Vérifier le service de localisation"
 
-#: lib/components/help/help_component.js:34
+#: lib/components/search/localized_place_holders.js:6
+msgid "City, address or postal code"
+msgstr "City, address or postal code"
+
+#: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
 msgstr "Contacter l’équipe d’Arrival Advisor"
 
@@ -157,17 +167,17 @@ msgstr "Contacter l’équipe d’Arrival Advisor"
 msgid "Created by"
 msgstr "Créé par"
 
-#: lib/components/help/help_component.js:96
-#: lib/components/help/help_component.js:117
+#: lib/components/help/help_component.js:102
+#: lib/components/help/help_component.js:123
 msgid "Delete all user data"
 msgstr "Supprimer toutes les données de l’utilisateur(trice)"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
 msgstr "Avertissement"
 
-#: lib/components/help/help_component.js:119
+#: lib/components/help/help_component.js:125
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
@@ -176,7 +186,7 @@ msgstr ""
 "ce téléphone? Sont inclus les réponses données au questionnaire et les "
 "sujets ajoutés aux favoris."
 
-#: lib/components/questionnaire/questionnaire_component.js:114
+#: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "Terminé"
 
@@ -184,27 +194,33 @@ msgstr "Terminé"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
-#: lib/components/services/service_list_item_component.js:65
-msgid "Email:"
-msgstr "Courriel :"
-
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Enable location services"
 msgstr "Activer le service de localisation"
 
-#: lib/components/services/service_list_component.js:44
+#: lib/components/search/search_input_component.js:71
+msgid "Enter city, address, or postal code"
+msgstr "Enter city, address, or postal code"
+
+#: lib/components/main/header_component.js:37
+#, fuzzy
+#| msgid "FIND A SERVICE NEAR YOU"
+msgid "FIND A SERVICE"
+msgstr "TROUVER UN SERVICE À PROXIMITÉ"
+
+#: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "TROUVER UN SERVICE À PROXIMITÉ"
 
-#: lib/components/help/help_component.js:60
+#: lib/components/help/help_component.js:66
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "POUR DU SOUTIEN ADDITIONNEL"
 
-#: lib/components/help/help_component.js:72
+#: lib/components/help/help_component.js:78
 msgid "Find a settlement agency near me"
 msgstr "Trouver une agence d’établissement à proximité"
 
-#: lib/components/topics/task_detail_content_component.js:107
+#: lib/components/topics/task_detail_content_component.js:57
 msgid "Find related services near me"
 msgstr "Trouver des services connexes à proximité"
 
@@ -243,15 +259,15 @@ msgstr ""
 "sauvegardons jamais vos renseignements personnels et ne les partageons "
 "jamais avec des fournisseurs de fonds ou des tierces parties."
 
-#: lib/components/recommended_topics/call_to_action.js:33
+#: lib/components/recommended_topics/call_to_action.js:30
 msgid "GETTING STARTED"
 msgstr "DÉBUTER"
 
-#: lib/components/recommended_topics/call_to_action.js:36
+#: lib/components/recommended_topics/call_to_action.js:33
 msgid "Get information based on your needs"
 msgstr "Obtenir des renseignements basés sur vos besoins"
 
-#: lib/components/recommended_topics/call_to_action.js:74
+#: lib/components/recommended_topics/call_to_action.js:71
 msgid "Go back to questions"
 msgstr "Revenir aux questions"
 
@@ -259,11 +275,11 @@ msgstr "Revenir aux questions"
 msgid "Go to Settings"
 msgstr "Aller à Réglages"
 
-#: lib/components/help/help_component.js:47
+#: lib/components/help/help_component.js:53
 msgid "Help & Support"
 msgstr "Aide et soutien"
 
-#: lib/components/help/help_component.js:50
+#: lib/components/help/help_component.js:56
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -281,11 +297,11 @@ msgstr ""
 "l'intention des nouveaux arrivants en Colombie-Britannique</0>. Copyright "
 "2018 Province de la Colombie-Britannique. Tous droits réservés."
 
-#: lib/components/help/help_component.js:25
+#: lib/components/help/help_component.js:29
 msgid "Information on BC211"
 msgstr "Renseignements relatifs à BC211"
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:22
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "Renseignements relatifs à HealthLink BC (8-1-1)"
 
@@ -293,7 +309,7 @@ msgstr "Renseignements relatifs à HealthLink BC (8-1-1)"
 msgid "Information on emergency services (9-1-1)"
 msgstr "Renseignements relatifs au service d’urgence 9-1-1"
 
-#: lib/components/help/help_component.js:30
+#: lib/components/help/help_component.js:36
 msgid "Information on helplines"
 msgstr "Renseignements relatifs aux lignes d’aide"
 
@@ -310,27 +326,40 @@ msgstr ""
 "localisation de votre appareil à « haute précision » permet parfois de "
 "résoudre ce problème."
 
+#: lib/components/content_verification/content_verification_component.js:7
+msgid "Last verified"
+msgstr "Last verified"
+
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "Tout savoir sur la C.-B."
 
-#: lib/components/help/help_component.js:21
-msgid "Mutlilingual health information services"
+#: lib/components/help/help_component.js:24
+#, fuzzy
+#| msgid "Mutlilingual health information services"
+msgid "Multilingual health information services"
 msgstr "Services de conseils médicaux multilingues"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:12
+#: lib/components/search/search_input_component.js:20
+msgid "My Location"
+msgstr "My Location"
+
+#: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "Mes favoris"
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/questionnaire/new_topics_modal_component.js:24
+#, fuzzy
+#| msgid "No new topics recommended based on your answers."
+msgid "New topics have been recommended based on your answers!"
+msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "Prochaine question"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:55
-msgid "No new topics recommended based on your answers."
-msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
-
-#: lib/components/services/service_list_component.js:24
+#: lib/components/bookmarks/service_bookmarks_component.js:9
+#: lib/components/services/service_list_component.js:23
 msgid "No services to show"
 msgstr "Pas de services à proposer"
 
@@ -342,19 +371,15 @@ msgstr "Aucun sujet à recommander"
 msgid "No topics to show"
 msgstr "Aucun sujet à afficher"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:43
-msgid "Number of new topics recommended based on your answers:"
-msgstr "Nombre de nouveaux sujets recommandés, selon vos réponses :"
-
-#: lib/components/questionnaire/questionnaire_component.js:75
+#: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
 msgstr "SUR"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:69
-msgid "OK"
-msgstr "OK"
+#: lib/components/organizations/organization_detail_component.js:49
+msgid "ORGANIZATION"
+msgstr "ORGANIZATION"
 
-#: lib/components/recommended_topics/call_to_action.js:60
+#: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
 "Once you answer some questions, your recommendations will show up below. For "
 "now, here are some topics we recommend for everyone:"
@@ -363,7 +388,7 @@ msgstr ""
 "apparaîtront ci-dessous. Pour le moment, voici quelques sujets que nous "
 "recommandons à tous :"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+#: lib/components/maps_application_popup/maps_application_popup_component.js:9
 msgid "Open in maps"
 msgstr "Voir sur une carte"
 
@@ -384,40 +409,64 @@ msgstr ""
 "pour faciliter l’établissement dans le Grand Vancouver. PeaceGeeks n’existe "
 "pas à titre de service d’immigration officiel."
 
-#: lib/components/help/help_component.js:16
+#: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "Police, pompiers et urgences médicales"
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "Politique de confidentialité"
+
+#: lib/components/services/service_detail_component.js:35
+#: lib/components/services/service_list_item_component.js:31
+msgid "Provided by"
+msgstr "Provided by"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
 msgstr "SUJETS CONNEXES"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read less"
 msgstr "En lire moins"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read more"
 msgstr "En lire davantage"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:38
-#: lib/components/topics/task_detail_content_component.js:62
+#: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "Recommandé pour vous"
 
-#: lib/components/header_menu/header_menu_component.js:23
+#: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "CHOISIR LA LANGUE"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:15
-msgid "Save important topics to build your personal plan for settlement."
+#: lib/components/services/service_detail_component.js:23
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: lib/components/bookmarks/bookmarks_component.js:19
+#, fuzzy
+#| msgid "Save important topics to build your personal plan for settlement."
+msgid ""
+"Save important topics and services to build your personal plan for "
+"settlement."
 msgstr ""
 "Sauvegardez les sujets importants afin de créer votre plan personnalisé "
 "d’établissement."
+
+#: lib/components/search/localized_place_holders.js:5
+#: lib/components/search/search_input_component.js:69
+#, fuzzy
+#| msgid "Check location services"
+msgid "Search for services"
+msgstr "Vérifier le service de localisation"
+
+#: lib/components/questionnaire/new_topics_modal_component.js:39
+msgid "See recommendations"
+msgstr "See recommendations"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -431,6 +480,11 @@ msgstr "Erreur du serveur"
 msgid "Server version:"
 msgstr "Version du serveur :"
 
+#: lib/components/bookmarks/tab_switcher.js:36
+#: lib/components/organizations/organization_detail_component.js:40
+msgid "Services"
+msgstr "Services"
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
@@ -439,7 +493,7 @@ msgstr ""
 "Les services ne sont pas offerts hors ligne. Veuillez vous connecter à "
 "Internet et essayer de nouveau."
 
-#: lib/components/help/help_component.js:26
+#: lib/components/help/help_component.js:31
 msgid "Services information and referral"
 msgstr "Renseignements relatifs aux services et à l’orientation"
 
@@ -447,7 +501,11 @@ msgstr "Renseignements relatifs aux services et à l’orientation"
 msgid "Settling in Canada is now easier."
 msgstr "S’établir au Canada est maintenant plus facile."
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/search/infinite_hits_component.js:34
+msgid "Show more services"
+msgstr "Show more services"
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "Ignorer la question"
 
@@ -460,7 +518,7 @@ msgstr "Débuter"
 msgid "Start settling in B.C."
 msgstr "Amorcer l’établissement en C.-B."
 
-#: lib/components/header_menu/header_menu_component.js:52
+#: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
 msgstr "Conditions d'utilisation"
 
@@ -521,17 +579,21 @@ msgstr ""
 "Pour trouver des services, veuillez activer le service de localisation pour "
 "Arrival Advisor dans les réglages et essayer de nouveau."
 
+#: lib/components/bookmarks/tab_switcher.js:33
+msgid "Topics"
+msgstr "Topics"
+
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
 msgstr "Essayer de nouveau"
 
-#: lib/components/recommended_topics/call_to_action.js:70
+#: lib/components/recommended_topics/call_to_action.js:67
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
-#: lib/components/services/service_list_item_component.js:57
-msgid "Web:"
-msgstr "Site Web :"
+#: lib/components/website/website_component.js:13
+msgid "Website"
+msgstr "Website"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
@@ -539,6 +601,18 @@ msgid ""
 msgstr ""
 "Nous éprouvons de la difficulté à nous connecter au serveur. Veuillez "
 "essayer de nouveau plus tard."
+
+#~ msgid "Email:"
+#~ msgstr "Courriel :"
+
+#~ msgid "Number of new topics recommended based on your answers:"
+#~ msgstr "Nombre de nouveaux sujets recommandés, selon vos réponses :"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Web:"
+#~ msgstr "Site Web :"
 
 #~ msgid ""
 #~ "Fetching your location timed out. On Android devices you may need to set "

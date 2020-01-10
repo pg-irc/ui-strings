@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"POT-Creation-Date: 2020-01-10 10:51-0800\n"
 "PO-Revision-Date: 2019-09-23 21:37+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Arabic <https://translate.peacegeeks.org/projects/ui-strings/"
@@ -15,17 +15,23 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:44
+#: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
 msgstr "نبذة عن التطبيق"
 
+#: lib/components/organizations/organization_detail_component.js:33
+msgid "About"
+msgstr "About"
+
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "About Arrival Advisor"
 msgstr "نبذة عن Arrival Advisor"
 
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
+#: lib/components/addresses/addresses_component.js:14
+#, fuzzy
+#| msgid "Address:"
+msgid "Address"
 msgstr "العنوان:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
@@ -40,7 +46,7 @@ msgstr ""
 "أجب عن بضع أسئلة اختيارية واحصل على قائمة مخصصة بالموضوعات التي نوصي بها حسب "
 "احتياجاتك."
 
-#: lib/components/recommended_topics/call_to_action.js:46
+#: lib/components/recommended_topics/call_to_action.js:43
 msgid ""
 "Answer a few questions about your situation to get personalized "
 "recommendations of topics and services to help you settle in British "
@@ -49,7 +55,7 @@ msgstr ""
 "أجب عن بضع أسئلة تتعلق بموقفك كي تحصل على توصيات مخصصة بالموضوعات والخدمات "
 "التي تساعدك في الاستقرار في بريتيش كولومبيا."
 
-#: lib/components/recommended_topics/call_to_action.js:55
+#: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
 msgstr "أجب عن الأسئلة"
 
@@ -108,11 +114,11 @@ msgstr ""
 "الهجرة واللاجئين والجنسية الكندية المعلومات لأي غرض آخر كما أنها لا تستخدم "
 "في اتخاذ أي قرار يتعلق بالهجرة."
 
-#: lib/components/questionnaire/questionnaire_component.js:107
+#: lib/components/questionnaire/questionnaire_component.js:111
 msgid "Back"
 msgstr "رجوع"
 
-#: lib/components/recommended_topics/call_to_action.js:99
+#: lib/components/recommended_topics/call_to_action.js:96
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr "استنادا إلى إجاباتك، نوصي بهذه الموضوعات إليك:"
 
@@ -132,7 +138,7 @@ msgstr "قم بالتعليم على الموضوعات التي تجدها مف
 msgid "Can't reach the internet"
 msgstr "لا يمكن الاتصال بالإنترنت"
 
-#: lib/components/help/help_component.js:125
+#: lib/components/help/help_component.js:131
 msgid "Cancel"
 msgstr "إلغاء"
 
@@ -140,7 +146,11 @@ msgstr "إلغاء"
 msgid "Check location services"
 msgstr "تحقق من خدمات الموقع"
 
-#: lib/components/help/help_component.js:34
+#: lib/components/search/localized_place_holders.js:6
+msgid "City, address or postal code"
+msgstr "City, address or postal code"
+
+#: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
 msgstr "تواصل مع فريق Arrival Advisor"
 
@@ -148,17 +158,17 @@ msgstr "تواصل مع فريق Arrival Advisor"
 msgid "Created by"
 msgstr "صممته"
 
-#: lib/components/help/help_component.js:96
-#: lib/components/help/help_component.js:117
+#: lib/components/help/help_component.js:102
+#: lib/components/help/help_component.js:123
 msgid "Delete all user data"
 msgstr "حذف جميع بيانات المستخدم"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
 msgstr "إخلاء مسؤولية"
 
-#: lib/components/help/help_component.js:119
+#: lib/components/help/help_component.js:125
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
@@ -166,7 +176,7 @@ msgstr ""
 "هل تريد حذف جميع بيانات المستخدم من هذا الهاتف؟ يتضمن ذلك الإجابات التي "
 "اخترتها في الاستبيان وما هي المواضيع التي وسمتها بعلامة مرجعية."
 
-#: lib/components/questionnaire/questionnaire_component.js:114
+#: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "انتهى"
 
@@ -174,27 +184,33 @@ msgstr "انتهى"
 msgid "EXPLORE TOPICS"
 msgstr "تصفح الموضوعات"
 
-#: lib/components/services/service_list_item_component.js:65
-msgid "Email:"
-msgstr "البريد الإلكتروني:"
-
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Enable location services"
 msgstr "تمكين خدمات الموقع"
 
-#: lib/components/services/service_list_component.js:44
+#: lib/components/search/search_input_component.js:71
+msgid "Enter city, address, or postal code"
+msgstr "Enter city, address, or postal code"
+
+#: lib/components/main/header_component.js:37
+#, fuzzy
+#| msgid "FIND A SERVICE NEAR YOU"
+msgid "FIND A SERVICE"
+msgstr "ابحث عن خدمة بالقرب منك"
+
+#: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "ابحث عن خدمة بالقرب منك"
 
-#: lib/components/help/help_component.js:60
+#: lib/components/help/help_component.js:66
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "للمزيد من المساعدة."
 
-#: lib/components/help/help_component.js:72
+#: lib/components/help/help_component.js:78
 msgid "Find a settlement agency near me"
 msgstr "ابحث عن وكالة استقرار قريبة من."
 
-#: lib/components/topics/task_detail_content_component.js:107
+#: lib/components/topics/task_detail_content_component.js:57
 msgid "Find related services near me"
 msgstr "ابحث عن خدمات ذات صلة بالقرب مني"
 
@@ -229,15 +245,15 @@ msgstr ""
 "التطبيق. نحن لا نحفظ أو نشارك مطلقا بياناتك الشخصية مع الجهات الممولة أو "
 "الغير."
 
-#: lib/components/recommended_topics/call_to_action.js:33
+#: lib/components/recommended_topics/call_to_action.js:30
 msgid "GETTING STARTED"
 msgstr "بدء الاستخدام"
 
-#: lib/components/recommended_topics/call_to_action.js:36
+#: lib/components/recommended_topics/call_to_action.js:33
 msgid "Get information based on your needs"
 msgstr "أحصل على المعلومات استنادا إلى احتياجاتك"
 
-#: lib/components/recommended_topics/call_to_action.js:74
+#: lib/components/recommended_topics/call_to_action.js:71
 msgid "Go back to questions"
 msgstr "العودة إلى الأسئلة"
 
@@ -245,11 +261,11 @@ msgstr "العودة إلى الأسئلة"
 msgid "Go to Settings"
 msgstr "اذهب إلى الإعدادات"
 
-#: lib/components/help/help_component.js:47
+#: lib/components/help/help_component.js:53
 msgid "Help & Support"
 msgstr "للمساعدة والدعم"
 
-#: lib/components/help/help_component.js:50
+#: lib/components/help/help_component.js:56
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -267,11 +283,11 @@ msgstr ""
 "Columbia</0> حقوق الطبع 2018 ترجع إلى مقاطعة بريتيش كولومبيا. حقوق الطبع "
 "محفوظة."
 
-#: lib/components/help/help_component.js:25
+#: lib/components/help/help_component.js:29
 msgid "Information on BC211"
 msgstr "معلومات مقدمة على BC211"
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:22
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "معلومات تتعلق بخدمات HealthLinkBC (811)"
 
@@ -279,7 +295,7 @@ msgstr "معلومات تتعلق بخدمات HealthLinkBC (811)"
 msgid "Information on emergency services (9-1-1)"
 msgstr "معلومات تتعلق بخدمات الطوارئ (911)"
 
-#: lib/components/help/help_component.js:30
+#: lib/components/help/help_component.js:36
 msgid "Information on helplines"
 msgstr "معلومات تتعلق بخطوط المساعدة على الهاتف"
 
@@ -295,27 +311,40 @@ msgstr ""
 "لقد استغرق الأمر طويلا للعثور على موقعك. قد يساعد في بعض الأحيان ضبط خدمات "
 "موقع جهازك إلى «دقة عالية» في التغلب على هذه المشكلة."
 
+#: lib/components/content_verification/content_verification_component.js:7
+msgid "Last verified"
+msgstr "Last verified"
+
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "تعرف على كل شيء عن بريتيش كولومبيا."
 
-#: lib/components/help/help_component.js:21
-msgid "Mutlilingual health information services"
+#: lib/components/help/help_component.js:24
+#, fuzzy
+#| msgid "Mutlilingual health information services"
+msgid "Multilingual health information services"
 msgstr "خدمات معلومات صحية مقدمة بعدة لغات"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:12
+#: lib/components/search/search_input_component.js:20
+msgid "My Location"
+msgstr "My Location"
+
+#: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "علاماتي المرجعية"
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/questionnaire/new_topics_modal_component.js:24
+#, fuzzy
+#| msgid "No new topics recommended based on your answers."
+msgid "New topics have been recommended based on your answers!"
+msgstr "لا توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "التالي"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:55
-msgid "No new topics recommended based on your answers."
-msgstr "لا توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
-
-#: lib/components/services/service_list_component.js:24
+#: lib/components/bookmarks/service_bookmarks_component.js:9
+#: lib/components/services/service_list_component.js:23
 msgid "No services to show"
 msgstr "لا توجد خدمات كي نعرضها"
 
@@ -327,19 +356,15 @@ msgstr "لا توجد موضوعات نوصي بها"
 msgid "No topics to show"
 msgstr "لا توجد موضوعات كي نعرضها"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:43
-msgid "Number of new topics recommended based on your answers:"
-msgstr "عدد الموضوعات الجديدة التي نوصي بها استنادا إلى إجاباتك:"
-
-#: lib/components/questionnaire/questionnaire_component.js:75
+#: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
 msgstr "من"
 
-#: lib/components/questionnaire/new_topics_modal_component.js:69
-msgid "OK"
-msgstr "حسنا"
+#: lib/components/organizations/organization_detail_component.js:49
+msgid "ORGANIZATION"
+msgstr "ORGANIZATION"
 
-#: lib/components/recommended_topics/call_to_action.js:60
+#: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
 "Once you answer some questions, your recommendations will show up below. For "
 "now, here are some topics we recommend for everyone:"
@@ -347,7 +372,7 @@ msgstr ""
 "حالما انتهيت من الإجابة عن بضع أسئلة، سوف تظهر توصياتك المخصصة تاليا. إليك "
 "في الوقت الراهن بعض الموضوعات التي نوصي بها للجميع:"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+#: lib/components/maps_application_popup/maps_application_popup_component.js:9
 msgid "Open in maps"
 msgstr "فتح في الخرائط"
 
@@ -366,38 +391,62 @@ msgstr ""
 "Arrival Advisor هو تقديم دليل بالخدمات والموارد للقادمين الجدد ليساعدهم في "
 "الاستقرار في مترو فانكوفر وليس الغرض منه أن يقدم خدمات هجرة ذات طابع رسمي."
 
-#: lib/components/help/help_component.js:16
+#: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "الشرطة والمطافئ والطوارئ الصحية"
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "سياسة الخصوصية"
+
+#: lib/components/services/service_detail_component.js:35
+#: lib/components/services/service_list_item_component.js:31
+msgid "Provided by"
+msgstr "Provided by"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
 msgstr "موضوعات ذات صلة"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read less"
 msgstr "تقليل النص"
 
-#: lib/components/expandable_content/expandable_content_component.js:77
+#: lib/components/expandable_content/expandable_content_component.js:83
 msgid "Read more"
 msgstr "زيادة النص"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:38
-#: lib/components/topics/task_detail_content_component.js:62
+#: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "توصيات إليك"
 
-#: lib/components/header_menu/header_menu_component.js:23
+#: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "اختر لغتك"
 
-#: lib/components/bookmarked_topics/bookmarked_topics_component.js:15
-msgid "Save important topics to build your personal plan for settlement."
+#: lib/components/services/service_detail_component.js:23
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: lib/components/bookmarks/bookmarks_component.js:19
+#, fuzzy
+#| msgid "Save important topics to build your personal plan for settlement."
+msgid ""
+"Save important topics and services to build your personal plan for "
+"settlement."
 msgstr "احفظ الموضوعات المهمة كي تنشئ خطتك للاستقرار المخصصة."
+
+#: lib/components/search/localized_place_holders.js:5
+#: lib/components/search/search_input_component.js:69
+#, fuzzy
+#| msgid "Check location services"
+msgid "Search for services"
+msgstr "تحقق من خدمات الموقع"
+
+#: lib/components/questionnaire/new_topics_modal_component.js:39
+msgid "See recommendations"
+msgstr "See recommendations"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -411,6 +460,11 @@ msgstr "خطأ من الخادم"
 msgid "Server version:"
 msgstr "إصدار رقم:"
 
+#: lib/components/bookmarks/tab_switcher.js:36
+#: lib/components/organizations/organization_detail_component.js:40
+msgid "Services"
+msgstr "Services"
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
@@ -419,7 +473,7 @@ msgstr ""
 "الخدمات غير متاحة دون اتصال بالإنترنت. يرجى الاتصال بالإنترنت والمحاولة مرة "
 "أخرى."
 
-#: lib/components/help/help_component.js:26
+#: lib/components/help/help_component.js:31
 msgid "Services information and referral"
 msgstr "معلومات عن الخدمات وإحالات إلى خدمات"
 
@@ -427,7 +481,11 @@ msgstr "معلومات عن الخدمات وإحالات إلى خدمات"
 msgid "Settling in Canada is now easier."
 msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي قبل."
 
-#: lib/components/questionnaire/questionnaire_component.js:97
+#: lib/components/search/infinite_hits_component.js:34
+msgid "Show more services"
+msgstr "Show more services"
+
+#: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "تخطى"
 
@@ -440,7 +498,7 @@ msgstr "ابدأ"
 msgid "Start settling in B.C."
 msgstr "بدء الاستقرار في بريتيش كولومبيا."
 
-#: lib/components/header_menu/header_menu_component.js:52
+#: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
 msgstr "شروط الاستخدام"
 
@@ -495,22 +553,38 @@ msgstr ""
 "كي تجد الخدمات، يرجى تفعيل خدمات الموقع لتطبيق Arrival Advisor من الإعدادات "
 "وحاول مرة أخرى."
 
+#: lib/components/bookmarks/tab_switcher.js:33
+msgid "Topics"
+msgstr "Topics"
+
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
 msgstr "حاول مرة أخرى"
 
-#: lib/components/recommended_topics/call_to_action.js:70
+#: lib/components/recommended_topics/call_to_action.js:67
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "تحديث توصياتي"
 
-#: lib/components/services/service_list_item_component.js:57
-msgid "Web:"
-msgstr "الموقع الشبكي:"
+#: lib/components/website/website_component.js:13
+msgid "Website"
+msgstr "Website"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "تواجهنا صعوبات في الاتصال بالخادم. يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#~ msgid "Email:"
+#~ msgstr "البريد الإلكتروني:"
+
+#~ msgid "Number of new topics recommended based on your answers:"
+#~ msgstr "عدد الموضوعات الجديدة التي نوصي بها استنادا إلى إجاباتك:"
+
+#~ msgid "OK"
+#~ msgstr "حسنا"
+
+#~ msgid "Web:"
+#~ msgstr "الموقع الشبكي:"
 
 #~ msgid ""
 #~ "Fetching your location timed out. On Android devices you may need to set "
