@@ -74,3 +74,21 @@ msgid ""
 "Answer a few optional questions to get tailored recommendations for your "
 "needs."
 msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
+
+msgid "You can now search for services!"
+msgstr ""
+
+msgid "Search is available in English."
+msgstr ""
+
+msgid "You can now save services to your Bookmarks."
+msgstr ""
+
+msgid "App notifications and error screens have been added."
+msgstr ""
+
+msgid "We reorganized and renamed some topics."
+msgstr ""
+
+msgid "The topics are now sorted in a more user-friendly manner."
+msgstr ""

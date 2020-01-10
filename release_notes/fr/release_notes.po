@@ -88,3 +88,21 @@ msgid ""
 msgstr ""
 "Répondez à quelques questions optionnelles afin d’obtenir des "
 "recommandations qui répondent à vos besoins."
+
+msgid "You can now search for services!"
+msgstr ""
+
+msgid "Search is available in English."
+msgstr ""
+
+msgid "You can now save services to your Bookmarks."
+msgstr ""
+
+msgid "App notifications and error screens have been added."
+msgstr ""
+
+msgid "We reorganized and renamed some topics."
+msgstr ""
+
+msgid "The topics are now sorted in a more user-friendly manner."
+msgstr ""
