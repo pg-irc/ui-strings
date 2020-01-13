@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-10 19:56+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
+"PO-Revision-Date: 2020-01-13 23:22+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Korean <https://35.183.116.114/projects/ui-strings/"
 "jsx_strings/ko/>\n"
 "Language: ko\n"
@@ -35,7 +35,7 @@ msgstr "주소:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
 msgid "An error occurred"
-msgstr "오류가 발생했습니다. "
+msgstr "오류가 발생했습니다."
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -137,7 +137,7 @@ msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
 msgid "Can't reach the internet"
-msgstr "인터넷에 연결할 수 없습니다. "
+msgstr "인터넷에 연결할 수 없습니다."
 
 #: lib/components/help/help_component.js:131
 msgid "Cancel"
@@ -145,7 +145,7 @@ msgstr "취소"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Check location services"
-msgstr "위치 서비스를 확인하세요. "
+msgstr "위치 서비스를 확인하세요."
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
@@ -258,7 +258,7 @@ msgstr "질문으로 돌아가기"
 
 #: lib/components/app_settings_button/app_settings_button_component.js:17
 msgid "Go to Settings"
-msgstr "설정으로 가세요. "
+msgstr "설정으로 가세요."
 
 #: lib/components/help/help_component.js:53
 msgid "Help & Support"
@@ -547,9 +547,7 @@ msgstr "Arrival Advisor 버전:"
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
-msgstr ""
-"서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하"
-"세요. "
+msgstr "서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하세요."
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
