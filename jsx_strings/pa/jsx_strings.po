@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-29 19:51+0000\n"
+"PO-Revision-Date: 2020-02-04 16:57+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Punjabi <https://35.183.203.130/projects/ui-strings/"
-"jsx_strings/pa/>\n"
+"Language-Team: Punjabi <https://35.182.8.157/projects/ui-strings/jsx_strings/"
+"pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr "Arrival Advisor ਬਾਰੇ"
 
 #: lib/components/addresses/addresses_component.js:14
 msgid "Address"
-msgstr "ਪਤਾ:"
+msgstr "ਪਤਾ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
 msgid "An error occurred"
