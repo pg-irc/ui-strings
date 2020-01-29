@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-29 19:51+0000\n"
+"PO-Revision-Date: 2020-01-29 20:10+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://35.183.203.130/projects/"
+"Language-Team: Chinese (Traditional) <https://35.182.231.65/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -28,8 +28,6 @@ msgid "About Arrival Advisor"
 msgstr "有關 Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
 msgstr "地址："
 
@@ -184,8 +182,6 @@ msgid "Enter city, address, or postal code"
 msgstr "請輸入居住城市、地址、或郵遞區號"
 
 #: lib/components/main/header_component.js:37
-#, fuzzy
-#| msgid "FIND A SERVICE NEAR YOU"
 msgid "FIND A SERVICE"
 msgstr "尋找就近服務"
 
@@ -303,8 +299,6 @@ msgid "Learn all about B.C."
 msgstr "了解所有關於B.C.的資訊"
 
 #: lib/components/help/help_component.js:24
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Multilingual health information services"
 msgstr "多種語言健康資訊服務處"
 
@@ -317,8 +311,6 @@ msgid "My bookmarks"
 msgstr "我的最愛"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
-#, fuzzy
-#| msgid "No new topics recommended based on your answers."
 msgid "New topics have been recommended based on your answers!"
 msgstr "根據您的答案，沒有新主題資訊可推薦。"
 
@@ -412,8 +404,6 @@ msgid "SERVICE"
 msgstr "服務項目"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
-#, fuzzy
-#| msgid "Save important topics to build your personal plan for settlement."
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
@@ -421,14 +411,12 @@ msgstr "儲存重要主題以建立個人定居計畫。"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
-#, fuzzy
-#| msgid "Check location services"
 msgid "Search for services"
 msgstr "檢查網路定位服務"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr "請參考  "
+msgstr "請參考"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
