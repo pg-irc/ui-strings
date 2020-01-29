@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-13 23:22+0000\n"
+"PO-Revision-Date: 2020-01-29 19:51+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Korean <https://35.183.116.114/projects/ui-strings/"
+"Language-Team: Korean <https://35.183.203.130/projects/ui-strings/"
 "jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "이 앱에 관하여"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr ""
+msgstr "소개"
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -28,8 +28,6 @@ msgid "About Arrival Advisor"
 msgstr "Arrival Advisor에 대하여"
 
 #: lib/components/addresses/addresses_component.js:14
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
 msgstr "주소:"
 
@@ -149,7 +147,7 @@ msgstr "위치 서비스를 확인하세요."
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr ""
+msgstr "시, 주소 또는 우편번호"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -191,11 +189,9 @@ msgstr "위치 서비스가 활성화되었습니다."
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr ""
+msgstr "시, 주소 또는 우편번호를 입력하세요"
 
 #: lib/components/main/header_component.js:37
-#, fuzzy
-#| msgid "FIND A SERVICE NEAR YOU"
 msgid "FIND A SERVICE"
 msgstr "내 주변 서비스 찾기"
 
@@ -311,29 +307,25 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr ""
+msgstr "최신 업데이트"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "브리티시컬럼비아주에 대해 알아보기"
 
 #: lib/components/help/help_component.js:24
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Multilingual health information services"
 msgstr "다국어 지원 건강 정보 서비스"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr ""
+msgstr "내 위치"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "나의 북마크"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
-#, fuzzy
-#| msgid "No new topics recommended based on your answers."
 msgid "New topics have been recommended based on your answers!"
 msgstr "답변에 기반해 추천된 새로운 주제가 없습니다."
 
@@ -360,7 +352,7 @@ msgstr "/"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr ""
+msgstr "단체"
 
 #: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
@@ -400,7 +392,7 @@ msgstr "개인정보 정책"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr ""
+msgstr "제공"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -425,11 +417,9 @@ msgstr "언어를 선택하세요"
 
 #: lib/components/services/service_detail_component.js:23
 msgid "SERVICE"
-msgstr ""
+msgstr "서비스"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
-#, fuzzy
-#| msgid "Save important topics to build your personal plan for settlement."
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
@@ -437,14 +427,12 @@ msgstr "나만의 정착 계획 수립을 위한 중요 주제 저장하기"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
-#, fuzzy
-#| msgid "Check location services"
 msgid "Search for services"
-msgstr "위치 서비스를 확인하세요. "
+msgstr "위치 서비스를 확인하세요."
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr ""
+msgstr "추천 보기"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -461,7 +449,7 @@ msgstr "서버 버전:"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr ""
+msgstr "서비스"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -480,7 +468,7 @@ msgstr "이제 캐나다에서의 정착이 더욱 쉬워집니다."
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr ""
+msgstr "서비스 더 보기"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -551,7 +539,7 @@ msgstr "서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비�
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr ""
+msgstr "주제"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
@@ -563,7 +551,7 @@ msgstr "나의 추천 업데이트하기"
 
 #: lib/components/website/website_component.js:13
 msgid "Website"
-msgstr ""
+msgstr "웹사이트"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
