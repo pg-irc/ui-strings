@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-10 19:56+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://35.183.116.114/projects/ui-strings/"
+"PO-Revision-Date: 2020-01-29 19:18+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
+"Language-Team: Arabic <https://35.183.203.130/projects/ui-strings/"
 "jsx_strings/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "نبذة عن التطبيق"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr ""
+msgstr "نبذة"
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -29,8 +29,6 @@ msgid "About Arrival Advisor"
 msgstr "نبذة عن Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
 msgstr "العنوان:"
 
@@ -148,7 +146,7 @@ msgstr "تحقق من خدمات الموقع"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr ""
+msgstr "المدينة أو العنوان أو الرمز البريدي"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -190,13 +188,11 @@ msgstr "تمكين خدمات الموقع"
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr ""
+msgstr "أدخل المدينة أو العنوان أو الرمز البريدي"
 
 #: lib/components/main/header_component.js:37
-#, fuzzy
-#| msgid "FIND A SERVICE NEAR YOU"
 msgid "FIND A SERVICE"
-msgstr "ابحث عن خدمة بالقرب منك"
+msgstr "ابحث عن خدمة"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -313,31 +309,27 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr ""
+msgstr "آخر تحقق"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "تعرف على كل شيء عن بريتيش كولومبيا."
 
 #: lib/components/help/help_component.js:24
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Multilingual health information services"
 msgstr "خدمات معلومات صحية مقدمة بعدة لغات"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr ""
+msgstr "موقعي"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "علاماتي المرجعية"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
-#, fuzzy
-#| msgid "No new topics recommended based on your answers."
 msgid "New topics have been recommended based on your answers!"
-msgstr "لا توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
+msgstr "توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
@@ -362,7 +354,7 @@ msgstr "من"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr ""
+msgstr "المنظمة"
 
 #: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
@@ -402,7 +394,7 @@ msgstr "سياسة الخصوصية"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr ""
+msgstr "يقدمه لكم"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -427,26 +419,22 @@ msgstr "اختر لغتك"
 
 #: lib/components/services/service_detail_component.js:23
 msgid "SERVICE"
-msgstr ""
+msgstr "الخدمة"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
-#, fuzzy
-#| msgid "Save important topics to build your personal plan for settlement."
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
-msgstr "احفظ الموضوعات المهمة كي تنشئ خطتك للاستقرار المخصصة."
+msgstr "احفظ المواضيع والخدمات المهمة كي تنشئ خطتك للاستقرار المخصصة."
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
-#, fuzzy
-#| msgid "Check location services"
 msgid "Search for services"
-msgstr "تحقق من خدمات الموقع"
+msgstr "البحث عن الخدمات"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr ""
+msgstr "طالع التوصيات"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -463,7 +451,7 @@ msgstr "إصدار رقم:"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr ""
+msgstr "الخدمات"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -483,7 +471,7 @@ msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي ق
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr ""
+msgstr "عرض المزيد من الخدمات"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -555,7 +543,7 @@ msgstr ""
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr ""
+msgstr "المواضيع"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
@@ -567,7 +555,7 @@ msgstr "تحديث توصياتي"
 
 #: lib/components/website/website_component.js:13
 msgid "Website"
-msgstr ""
+msgstr "الموقع الشبكي"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
