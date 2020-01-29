@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-29 19:51+0000\n"
+"PO-Revision-Date: 2020-01-29 20:10+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.203.130/projects/"
+"Language-Team: Chinese (Simplified) <https://35.182.231.65/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -28,8 +28,6 @@ msgid "About Arrival Advisor"
 msgstr "有关Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
 msgstr "地址："
 
@@ -185,8 +183,6 @@ msgid "Enter city, address, or postal code"
 msgstr "请输入城市、地址或邮编"
 
 #: lib/components/main/header_component.js:37
-#, fuzzy
-#| msgid "FIND A SERVICE NEAR YOU"
 msgid "FIND A SERVICE"
 msgstr "就近查找服务"
 
@@ -303,8 +299,6 @@ msgid "Learn all about B.C."
 msgstr "了解所有有关B.C.省的信息"
 
 #: lib/components/help/help_component.js:24
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Multilingual health information services"
 msgstr "多语种健康信息服务"
 
@@ -317,8 +311,6 @@ msgid "My bookmarks"
 msgstr "我的网页书签"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
-#, fuzzy
-#| msgid "No new topics recommended based on your answers."
 msgid "New topics have been recommended based on your answers!"
 msgstr "根据您的回答，没有新主题信息推荐。"
 
@@ -412,8 +404,6 @@ msgid "SERVICE"
 msgstr "服务"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
-#, fuzzy
-#| msgid "Save important topics to build your personal plan for settlement."
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
@@ -421,8 +411,6 @@ msgstr "保存重要的主题，以便制定您个人的安家落户计划。"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
-#, fuzzy
-#| msgid "Check location services"
 msgid "Search for services"
 msgstr "检查获取地点服务"
 
