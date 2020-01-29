@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-13 23:22+0000\n"
+"PO-Revision-Date: 2020-01-29 19:51+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: French <https://35.183.116.114/projects/ui-strings/"
+"Language-Team: French <https://35.183.203.130/projects/ui-strings/"
 "jsx_strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "À PROPOS DE L’APPLICATION"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -155,7 +155,7 @@ msgstr "Vérifier le service de localisation"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr ""
+msgstr "Ville, adresse ou code postal"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -198,11 +198,9 @@ msgstr "Activer le service de localisation"
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr ""
+msgstr "Entrer la ville, l'adresse ou le code postal"
 
 #: lib/components/main/header_component.js:37
-#, fuzzy
-#| msgid "FIND A SERVICE NEAR YOU"
 msgid "FIND A SERVICE"
 msgstr "TROUVER UN SERVICE À PROXIMITÉ"
 
@@ -326,29 +324,25 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr ""
+msgstr "Dernière vérification"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "Tout savoir sur la C.-B."
 
 #: lib/components/help/help_component.js:24
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Multilingual health information services"
 msgstr "Services de conseils médicaux multilingues"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr ""
+msgstr "Mon emplacement"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "Mes favoris"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
-#, fuzzy
-#| msgid "No new topics recommended based on your answers."
 msgid "New topics have been recommended based on your answers!"
 msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
 
@@ -375,7 +369,7 @@ msgstr "SUR"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr ""
+msgstr "ORGANISATION"
 
 #: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
@@ -418,7 +412,7 @@ msgstr "Politique de confidentialité"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr ""
+msgstr "Fournisseur"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -443,11 +437,9 @@ msgstr "CHOISIR LA LANGUE"
 
 #: lib/components/services/service_detail_component.js:23
 msgid "SERVICE"
-msgstr ""
+msgstr "SERVICE"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
-#, fuzzy
-#| msgid "Save important topics to build your personal plan for settlement."
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
@@ -457,14 +449,12 @@ msgstr ""
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
-#, fuzzy
-#| msgid "Check location services"
 msgid "Search for services"
 msgstr "Vérifier le service de localisation"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr ""
+msgstr "Voir les recommandations"
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -481,7 +471,7 @@ msgstr "Version du serveur :"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr ""
+msgstr "Services"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -501,7 +491,7 @@ msgstr "S’établir au Canada est maintenant plus facile."
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr ""
+msgstr "Voir davantage de services"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -579,7 +569,7 @@ msgstr ""
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr ""
+msgstr "Sujets"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
@@ -591,7 +581,7 @@ msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
 #: lib/components/website/website_component.js:13
 msgid "Website"
-msgstr ""
+msgstr "Site Web"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
