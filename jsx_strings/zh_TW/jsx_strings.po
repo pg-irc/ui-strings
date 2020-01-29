@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-14 00:51+0000\n"
+"PO-Revision-Date: 2020-01-29 19:51+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://35.183.135.234/projects/"
+"Language-Team: Chinese (Traditional) <https://35.183.203.130/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "關於此應用程式"
 
 #: lib/components/organizations/organization_detail_component.js:33
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #: lib/components/about/about_component.js:21
 #: lib/components/header_menu/header_menu_component.js:50
@@ -139,7 +139,7 @@ msgstr "檢查網路定位服務"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr ""
+msgstr "城市、地址或郵遞區號"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -181,7 +181,7 @@ msgstr "啟動網路定位服務"
 
 #: lib/components/search/search_input_component.js:71
 msgid "Enter city, address, or postal code"
-msgstr ""
+msgstr "請輸入居住城市、地址、或郵遞區號"
 
 #: lib/components/main/header_component.js:37
 #, fuzzy
@@ -296,7 +296,7 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
-msgstr ""
+msgstr "上次確認"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -310,7 +310,7 @@ msgstr "多種語言健康資訊服務處"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
-msgstr ""
+msgstr "我的地點"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
@@ -345,7 +345,7 @@ msgstr "/"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr ""
+msgstr "組織機構"
 
 #: lib/components/recommended_topics/call_to_action.js:57
 msgid ""
@@ -384,7 +384,7 @@ msgstr "隱私政策"
 #: lib/components/services/service_detail_component.js:35
 #: lib/components/services/service_list_item_component.js:31
 msgid "Provided by"
-msgstr ""
+msgstr "提供者"
 
 #: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
@@ -409,7 +409,7 @@ msgstr "選擇您的語言"
 
 #: lib/components/services/service_detail_component.js:23
 msgid "SERVICE"
-msgstr ""
+msgstr "服務項目"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
 #, fuzzy
@@ -428,7 +428,7 @@ msgstr "檢查網路定位服務"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
-msgstr ""
+msgstr "請參考  "
 
 #: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
@@ -445,7 +445,7 @@ msgstr "伺服器版本：{0}"
 #: lib/components/bookmarks/tab_switcher.js:36
 #: lib/components/organizations/organization_detail_component.js:40
 msgid "Services"
-msgstr ""
+msgstr "服務"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid ""
@@ -463,7 +463,7 @@ msgstr "現在，定居加拿大變得更容易"
 
 #: lib/components/search/infinite_hits_component.js:34
 msgid "Show more services"
-msgstr ""
+msgstr "更多服務"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
@@ -530,7 +530,7 @@ msgstr ""
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
-msgstr ""
+msgstr "討論主題"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
@@ -542,7 +542,7 @@ msgstr "更新我的推薦信息"
 
 #: lib/components/website/website_component.js:13
 msgid "Website"
-msgstr ""
+msgstr "網站"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
