@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-01-29 19:51+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: French <https://35.183.203.130/projects/ui-strings/"
+"PO-Revision-Date: 2020-02-04 17:13+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: French <https://35.183.184.105/projects/ui-strings/"
 "jsx_strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -202,7 +202,7 @@ msgstr "Entrer la ville, l'adresse ou le code postal"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "TROUVER UN SERVICE À PROXIMITÉ"
+msgstr "TROUVER UN SERVICE"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -344,7 +344,7 @@ msgstr "Mes favoris"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
-msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
+msgstr "De nouveaux sujets ont été recommandés en fonction de vos réponses!"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
@@ -444,13 +444,13 @@ msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
 msgstr ""
-"Sauvegardez les sujets importants afin de créer votre plan personnalisé "
-"d’établissement."
+"Sauvegardez les sujets et les services importants afin de créer votre plan "
+"personnalisé d’établissement."
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "Vérifier le service de localisation"
+msgstr "Chercher des services"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
