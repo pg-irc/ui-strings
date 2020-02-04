@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 16:57+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://35.182.8.157/projects/"
+"PO-Revision-Date: 2020-02-04 17:42+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.184.105/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -412,7 +412,7 @@ msgstr "保存重要的主题，以便制定您个人的安家落户计划。"
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "检查获取地点服务"
+msgstr "搜索并获取服务信息"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
