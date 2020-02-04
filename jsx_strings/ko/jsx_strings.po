@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 16:57+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Korean <https://35.182.8.157/projects/ui-strings/jsx_strings/"
-"ko/>\n"
+"PO-Revision-Date: 2020-02-04 17:23+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Korean <https://35.183.184.105/projects/ui-strings/"
+"jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -193,7 +193,7 @@ msgstr "시, 주소 또는 우편번호를 입력하세요"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "내 주변 서비스 찾기"
+msgstr "서비스 찾기"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -315,7 +315,7 @@ msgstr "브리티시컬럼비아주에 대해 알아보기"
 
 #: lib/components/help/help_component.js:24
 msgid "Multilingual health information services"
-msgstr "다국어 지원 건강 정보 서비스"
+msgstr "다국어 건강 정보 서비스"
 
 #: lib/components/search/search_input_component.js:20
 msgid "My Location"
@@ -423,12 +423,12 @@ msgstr "서비스"
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
-msgstr "나만의 정착 계획 수립을 위한 중요 주제 저장하기"
+msgstr "나의 정착 계획 수립을 위한 중요 주제 및 서비스 저장하기"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "위치 서비스를 확인하세요."
+msgstr "서비스 찾기"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
