@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 16:57+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Punjabi <https://35.182.8.157/projects/ui-strings/jsx_strings/"
-"pa/>\n"
+"PO-Revision-Date: 2020-02-04 17:27+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Punjabi <https://35.183.184.105/projects/ui-strings/"
+"jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -186,7 +186,7 @@ msgstr "ਸ਼ਹਿਰ, ਪਤਾ ਜਾਂ ਡਾਕ ਕੋਡ ਦਿਓ"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
+msgstr "ਸੇਵਾ ਲੱਭੋ"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -320,7 +320,7 @@ msgstr "ਮੇਰੇ ਬੁੱਕਮਾਰਕ"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
-msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਕੋਈ ਨਵੇਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਵਿਸ਼ੇ ਨਹੀਂ ਹਨ"
+msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਨਵੇਂ ਵਿਸ਼ੇ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਗਏ ਹਨ"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
@@ -416,12 +416,13 @@ msgstr "ਸੇਵਾਵਾਂ"
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
-msgstr "ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਨੂੰ ਸੰਭਾਲੋ।"
+msgstr ""
+"ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਸੰਭਾਲੋ।"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
+msgstr "ਸੇਵਾਵਾਂ ਖੋਜੋ"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
