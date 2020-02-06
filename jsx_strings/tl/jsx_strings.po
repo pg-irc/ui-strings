@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-06 18:09+0000\n"
+"PO-Revision-Date: 2020-02-06 18:11+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://35.183.114.155/projects/ui-strings/"
 "jsx_strings/tl/>\n"
@@ -203,7 +203,7 @@ msgstr "Ilagay ang lungsod, adres, o postal code"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
+msgstr "HUMANAP NG SERBISYONG"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
