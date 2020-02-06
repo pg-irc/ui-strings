@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2020-01-29 19:10+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
