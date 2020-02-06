@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 16:57+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://35.182.8.157/projects/"
+"PO-Revision-Date: 2020-02-06 20:49+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Traditional) <https://35.183.181.204/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -183,7 +183,7 @@ msgstr "請輸入居住城市、地址、或郵遞區號"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "尋找就近服務"
+msgstr "尋找服務"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -312,7 +312,7 @@ msgstr "我的最愛"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
-msgstr "根據您的答案，沒有新主題資訊可推薦。"
+msgstr "根據您的答案，有新主題資訊可推薦!"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
@@ -407,12 +407,12 @@ msgstr "服務項目"
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
-msgstr "儲存重要主題以建立個人定居計畫。"
+msgstr "儲存重要主題和服務以建立個人定居計畫。"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "檢查網路定位服務"
+msgstr "搜索服務"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
