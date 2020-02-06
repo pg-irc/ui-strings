@@ -10,6 +10,15 @@ This repository is used as a submodule for https://github.com/pg-irc/pathways-fr
 
 The English source strings are found in the `*.pot` files. The msgid's in the `*.pot` files are used to indicate which strings each locale needs to translate on Weblate. 
 
+### Generating a .pot file from a .csv using csv2po
+1. Download the .csv file with the source strings. csv2po makes three assumptions with the layout of the .csv file:
+* Column 1 of the .csv file will contain information of where this string is located
+* Column 2 of the .csv file contains the source string
+* Column 3 of the .csv file contains the target string
+
+2. In terminal run: 
+`csv2po *.csv *.pot`
+
 ### Git Workflow
 
 There are two branches that are used in in this repository: `translate` and `master`. When committing and pushing changes from Weblate, the changes are automatically merged into the `translate` branch. 
@@ -19,10 +28,12 @@ Along with this, a PR is opened into the `master` branch. We are able to test ch
 
 We have four components in our UI-Strings project on Weblate. 
 
-* Questionnaire - this is where you can find the source and translated questionnaire strings 
-* Explore - this is where you can find the source and translated strings in the Explore section of Arrival Advisor 
-* JSX_Strings - this is where you can find the source and translated JSX Strings IE: strings found on the About page. 
-* release_notes - this is where you can find the source and translated strings for use on both the Google and Apple Stores. 
+* Questionnaire - questionnaire strings in the app.  
+* Explore - Explore section strings of Arrival Advisor 
+* JSX_Strings - JSX Strings IE: strings found on the About page. 
+* release_notes - strings for use on both the Google and Apple Stores. 
+* app_screenshots - strings Google Play and Apple Store screen shots
+* marketing - strings for marketing - IE posters and brochers
 
 ### Roles
 
