@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 17:23+0000\n"
+"PO-Revision-Date: 2020-02-06 20:45+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://35.183.184.105/projects/ui-strings/"
+"Language-Team: Korean <https://35.183.181.204/projects/ui-strings/"
 "jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -327,7 +327,7 @@ msgstr "나의 북마크"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
-msgstr "답변에 기반해 추천된 새로운 주제가 없습니다."
+msgstr "답변에 기반한 새로운 주제가 추천되었습니다!"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
