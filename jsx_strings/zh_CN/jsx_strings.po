@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 17:42+0000\n"
+"PO-Revision-Date: 2020-02-06 20:47+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.184.105/projects/"
+"Language-Team: Chinese (Simplified) <https://35.183.181.204/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -184,7 +184,7 @@ msgstr "请输入城市、地址或邮编"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
-msgstr "就近查找服务"
+msgstr "查找服务"
 
 #: lib/components/services/service_list_component.js:59
 msgid "FIND A SERVICE NEAR YOU"
@@ -312,7 +312,7 @@ msgstr "我的网页书签"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
-msgstr "根据您的回答，没有新主题信息推荐。"
+msgstr "根据您的回答，有新主题信息推荐。"
 
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
@@ -407,7 +407,7 @@ msgstr "服务"
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
-msgstr "保存重要的主题，以便制定您个人的安家落户计划。"
+msgstr "保存重要的主题和服务，以便制定您个人的安家落户计划。"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
