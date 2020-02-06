@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 09:08-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.1\n"
+
+#: Large Posters All English
+msgid "New to Canada? "
+msgstr ""
+
+#: Large Posters All English
+msgid "Download the Arrival Advisor app."
+msgstr ""
+
+#: Large Posters All English
+msgid "Always Free. Available in multiple languages. "
+msgstr ""
+
+#: All posters Large Postcard
+msgid "We can help."
+msgstr ""
+
+#: Poster 1 school
+msgid "How do I register my children in school?"
+msgstr ""
+
+#: Poster 2 services
+msgid "What services are available for immigrants and refugees?"
+msgstr ""
+
+#: Poster 3 English
+msgid "Where do I learn English?"
+msgstr ""
+
+#: Poster 4job
+msgid "Where do I find a job?"
+msgstr ""
+
+#: Large Postcard
+msgid "We're new to BC. How do we get started in our community? "
+msgstr ""
+
+#: Large Postcard
+msgid "New to BC? Download the App."
+msgstr ""
+
+#: Large Postcard
+msgid ""
+"Arrival Advisor is a free, multilingual app that helps newcomers to British "
+"Columbia find information and services to plan their settlement journey and "
+"services to get started in your new community."
+msgstr ""
+
+#: Large Postcard
+msgid ""
+"Whether you're looking for a job, applying for healthcare, or want ot enrol "
+"your children in school, Arrival Advisor can help you find the right "
+"information. "
+msgstr ""
+
+#: Large Postcard Small Postcard
+msgid ""
+"Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
+"and Simplified), Korean, Punjabi, and Tagalog. "
+msgstr ""
+
+#: Large Postcard
+msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit. "
+msgstr ""
+
+#: Large Postcard
+msgid "by PeaceGeeks"
+msgstr ""
+
+#: Small Postcard
+msgid ""
+"Arrival Advisor is a free, multilingual app that helps immigrants and "
+"refugees in British Columbia find information and services to plan their "
+"settlement journey."
+msgstr ""
+
+#: Small Postcard
+msgid "New to BC? Learn more at arrivaladvisor.ca"
+msgstr ""
+
+#: Small Postcard
+msgid ""
+"Whether you're looking for a job, applying for healthcare, or want ot enrol "
+"your children in school, Arrival Advisor can help you find the right "
+"information and services to get started in your new community."
+msgstr ""
+
+#: Small Postcard
+msgid ""
+"Arrival Advisor was created by PeaceGeeks (peacegeeks.org), a Vancouver-"
+"based nonprofit, in partnership with settlement organizations across Metro "
+"Vancouver."
+msgstr ""
