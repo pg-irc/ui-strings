@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-01-10 10:51-0800\n"
-"PO-Revision-Date: 2020-02-04 17:38+0000\n"
+"PO-Revision-Date: 2020-02-06 18:09+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.184.105/projects/ui-strings/"
+"Language-Team: Tagalog <https://35.183.114.155/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -450,7 +450,7 @@ msgstr ""
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:69
 msgid "Search for services"
-msgstr "Suriin ang mga serbisyo ng lokasyon"
+msgstr "Maghanap ng mga serbisyo"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:39
 msgid "See recommendations"
