@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 2.3.1\n"
 
 #: Large Posters All English
-msgid "New to Canada? "
+msgid "New to Canada?"
 msgstr ""
 
 #: Large Posters All English
@@ -21,7 +21,7 @@ msgid "Download the Arrival Advisor app."
 msgstr ""
 
 #: Large Posters All English
-msgid "Always Free. Available in multiple languages. "
+msgid "Always Free. Available in multiple languages."
 msgstr ""
 
 #: All posters Large Postcard
@@ -45,7 +45,7 @@ msgid "Where do I find a job?"
 msgstr ""
 
 #: Large Postcard
-msgid "We're new to BC. How do we get started in our community? "
+msgid "We're new to BC. How do we get started in our community?"
 msgstr ""
 
 #: Large Postcard
@@ -61,19 +61,19 @@ msgstr ""
 
 #: Large Postcard
 msgid ""
-"Whether you're looking for a job, applying for healthcare, or want ot enrol "
+"Whether you're looking for a job, applying for healthcare, or want to enroll "
 "your children in school, Arrival Advisor can help you find the right "
-"information. "
+"information."
 msgstr ""
 
-#: Large Postcard Small Postcard
+#: Large Postcard Small
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
-"and Simplified), Korean, Punjabi, and Tagalog. "
+"and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
 
 #: Large Postcard
-msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit. "
+msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
 msgstr ""
 
 #: Large Postcard
