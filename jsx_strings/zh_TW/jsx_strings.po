@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-01-10 10:51-0800\n"
+"POT-Creation-Date: 2020-02-20 09:42-0800\n"
 "PO-Revision-Date: 2020-02-06 20:49+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://35.183.181.204/projects/"
-"ui-strings/jsx_strings/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) <https://35.183.181.204/projects/ui-"
+"strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,11 +27,11 @@ msgstr "關於"
 msgid "About Arrival Advisor"
 msgstr "有關 Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:30
 msgid "Address"
 msgstr "地址"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
 msgstr "發生錯誤"
 
@@ -111,11 +111,11 @@ msgstr "返回"
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr "根據您的回答，我們為您推薦以下主題："
 
-#: lib/components/notifications/notification_content.js:7
+#: lib/components/bookmark_button/bookmark_button_component.js:30
 msgid "Bookmark added"
 msgstr "新增最愛"
 
-#: lib/components/notifications/notification_content.js:12
+#: lib/components/bookmark_button/bookmark_button_component.js:25
 msgid "Bookmark removed"
 msgstr "移除最愛"
 
@@ -123,7 +123,7 @@ msgstr "移除最愛"
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
 msgstr "無法連線"
 
@@ -131,13 +131,25 @@ msgstr "無法連線"
 msgid "Cancel"
 msgstr "取消"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "檢查網路定位服務"
+
+#: lib/components/search/empty_component.js:33
+msgid "Child care"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
+msgid "City - \"Vancouver\""
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
 msgstr "城市、地址或郵遞區號"
+
+#: lib/components/suggest_update/suggest_update_component.js:54
+msgid "Comment or suggest edits"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -165,27 +177,77 @@ msgstr ""
 "你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的"
 "主題。"
 
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+msgid "Do you work at this service or organization?"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:37
+msgid "Don't show again"
+msgstr ""
+
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "完成"
 
-#: lib/components/explore/explore_detail_component.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
+msgid "Double check for spelling"
+msgstr ""
+
+#: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
 msgstr "探索主題"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+#: lib/components/email/email_component.js:22
+#, fuzzy
+#| msgid "Email:"
+msgid "Email"
+msgstr "電子郵件:"
+
+#: lib/components/search/empty_component.js:27
+msgid "Employment"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
 msgstr "啟動網路定位服務"
 
-#: lib/components/search/search_input_component.js:71
+#: lib/components/search/empty_component.js:30
+msgid "English class"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
+msgid "Ensure your search is in English"
+msgstr ""
+
+#: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
 msgstr "請輸入居住城市、地址、或郵遞區號"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+msgid "Enter email"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+msgid "Enter your email if you would like to receive updates about this issue."
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+msgid "Enter your job title"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+msgid "Enter your name"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+msgid "Enter your organization name"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
 msgstr "尋找服務"
 
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:78
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "尋找就近服務"
 
@@ -253,6 +315,12 @@ msgid ""
 "in touch with a settlement worker."
 msgstr "如果您在加拿大有安居上的困難，我們建議您與安置服務人員聯繫。"
 
+#: lib/components/partial_localization/message_component.js:22
+msgid ""
+"Information about services is currently only available in English. For "
+"support in other languages, please"
+msgstr ""
+
 #: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
@@ -278,17 +346,27 @@ msgstr "緊急求助資訊（9-1-1）"
 msgid "Information on helplines"
 msgstr "求助熱線相關資訊"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
+#, fuzzy
+#| msgid "Enable location services"
+msgid "Invalid location. Try:"
+msgstr "啟動網路定位服務"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
 msgstr "花了太長時間找到您的位置"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:48
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
 msgstr ""
 "花了太長時間找到您的位置。請將手機網路定位服務設置為高精度有時可以解決此問"
 "題。"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+msgid "Job Title"
+msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -302,13 +380,24 @@ msgstr "了解所有關於B.C.的資訊"
 msgid "Multilingual health information services"
 msgstr "多種語言健康資訊服務處"
 
-#: lib/components/search/search_input_component.js:20
+#: lib/components/search/search_input_component.js:30
+#: lib/components/search/search_input_component.js:153
 msgid "My Location"
 msgstr "我的地點"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "我的最愛"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
+#, fuzzy
+#| msgid "My Location"
+msgid "My location"
+msgstr "我的地點"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+msgid "Name"
+msgstr ""
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -318,16 +407,22 @@ msgstr "根據您的答案，有新主題資訊可推薦!"
 msgid "Next"
 msgstr "下一個"
 
-#: lib/components/bookmarks/service_bookmarks_component.js:9
-#: lib/components/services/service_list_component.js:23
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
+msgid "No results found. Try to:"
+msgstr ""
+
+#: lib/components/bookmarks/service_bookmarks_component.js:10
+#: lib/components/services/service_list_component.js:44
 msgid "No services to show"
 msgstr "無網路服務顯示"
 
-#: lib/components/topics/task_list_component.js:69
+#: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
 msgstr "沒有可推薦的主題"
 
-#: lib/components/topics/task_list_component.js:68
+#: lib/components/bookmarks/topic_bookmarks_component.js:11
+#: lib/components/explore/explore_detail_component.js:9
+#: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
 msgstr "沒有可顯示的主題"
 
@@ -347,9 +442,9 @@ msgstr ""
 "回答完部分問題後，針對您需求的建議項目將顯示在下方。以下是我們目前為大家推薦"
 "的一些主題："
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:9
-msgid "Open in maps"
-msgstr "在地圖中顯示"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+msgid "Organization"
+msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -369,6 +464,10 @@ msgstr ""
 msgid "Police, fire and medical emergencies"
 msgstr "警察、火災、醫療急診"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr ""
+
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "隱私政策"
@@ -378,7 +477,7 @@ msgstr "隱私政策"
 msgid "Provided by"
 msgstr "提供者"
 
-#: lib/components/topics/task_detail_component.js:21
+#: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
 msgstr "相關主題"
 
@@ -390,7 +489,11 @@ msgstr "顯示更少"
 msgid "Read more"
 msgstr "顯示更多"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+msgid "Receiving Updates"
+msgstr ""
+
+#: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "為您推薦"
@@ -409,8 +512,16 @@ msgid ""
 "settlement."
 msgstr "儲存重要主題和服務以建立個人定居計畫。"
 
+#: lib/components/search/search_input_component.js:79
+msgid "Search"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
+msgid "Search for a different keyword"
+msgstr ""
+
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:69
+#: lib/components/search/search_input_component.js:149
 msgid "Search for services"
 msgstr "搜索服務"
 
@@ -422,7 +533,7 @@ msgstr "請參考"
 msgid "Select your language"
 msgstr "選擇您的語言"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:24
 msgid "Server error"
 msgstr "網路服務錯誤"
 
@@ -435,7 +546,7 @@ msgstr "伺服器版本：{0}"
 msgid "Services"
 msgstr "服務"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:37
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
@@ -449,7 +560,7 @@ msgstr "服務資訊和推薦"
 msgid "Settling in Canada is now easier."
 msgstr "現在，定居加拿大變得更容易"
 
-#: lib/components/search/infinite_hits_component.js:34
+#: lib/components/search/infinite_hits_component.js:60
 msgid "Show more services"
 msgstr "更多服務"
 
@@ -462,9 +573,17 @@ msgstr "跳過"
 msgid "Start"
 msgstr "開始"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:21
+#: lib/components/recommended_topics/recommended_topics_component.js:22
 msgid "Start settling in B.C."
 msgstr "開始在B.C.省定居"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
+msgid "Street - \"Kingsway\""
+msgstr ""
+
+#: lib/components/suggest_update/suggest_update_component.js:41
+msgid "Suggest an update"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -509,7 +628,7 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "這是 Arrival Advisor 版本："
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
@@ -520,7 +639,8 @@ msgstr ""
 msgid "Topics"
 msgstr "討論主題"
 
-#: lib/components/error_screens/ErrorScreenComponent.js:53
+#: lib/components/error_screens/ErrorScreenComponent.js:48
+#: lib/components/services/empty_service_list_component.js:31
 msgid "Try again"
 msgstr "重試"
 
@@ -528,17 +648,29 @@ msgstr "重試"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
 
-#: lib/components/website/website_component.js:13
+#: lib/components/website/website_component.js:21
 msgid "Website"
 msgstr "網站"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "目前無法連接到伺服器, 請稍候再試。"
 
-#~ msgid "Email:"
-#~ msgstr "電子郵件:"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+msgid "Yes"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:25
+msgid "call BC211."
+msgstr ""
+
+#: lib/components/search/search_input_component.js:154
+msgid "near"
+msgstr ""
+
+#~ msgid "Open in maps"
+#~ msgstr "在地圖中顯示"
 
 #~ msgid "Number of new topics recommended based on your answers:"
 #~ msgstr "根據您的答案所推薦的幾項新主題"

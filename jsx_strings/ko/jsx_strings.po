@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-01-10 10:51-0800\n"
+"POT-Creation-Date: 2020-02-20 09:42-0800\n"
 "PO-Revision-Date: 2020-02-06 20:45+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Korean <https://35.183.181.204/projects/ui-strings/"
@@ -27,11 +27,11 @@ msgstr "소개"
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor에 대하여"
 
-#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:30
 msgid "Address"
 msgstr "주소"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
 msgstr "오류가 발생했습니다."
 
@@ -119,11 +119,11 @@ msgstr "이전으로"
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr "귀하의 답변을 바탕으로 다음의 주제를 추천합니다:"
 
-#: lib/components/notifications/notification_content.js:7
+#: lib/components/bookmark_button/bookmark_button_component.js:30
 msgid "Bookmark added"
 msgstr "추가된 북마크"
 
-#: lib/components/notifications/notification_content.js:12
+#: lib/components/bookmark_button/bookmark_button_component.js:25
 msgid "Bookmark removed"
 msgstr "삭제된 북마크"
 
@@ -133,7 +133,7 @@ msgstr ""
 "향후에 유용할 만한 주제는\n"
 " 북마크를 해두세요."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
 msgstr "인터넷에 연결할 수 없습니다."
 
@@ -141,13 +141,25 @@ msgstr "인터넷에 연결할 수 없습니다."
 msgid "Cancel"
 msgstr "취소"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "위치 서비스를 확인하세요."
+
+#: lib/components/search/empty_component.js:33
+msgid "Child care"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
+msgid "City - \"Vancouver\""
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
 msgstr "시, 주소 또는 우편번호"
+
+#: lib/components/suggest_update/suggest_update_component.js:54
+msgid "Comment or suggest edits"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -175,27 +187,77 @@ msgstr ""
 "이 폰에서 모든 사용자 데이터를 삭제하시겠습니까? 이는 질문에 선택한 답변과 북"
 "마크한 주제를 포함합니다."
 
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+msgid "Do you work at this service or organization?"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:37
+msgid "Don't show again"
+msgstr ""
+
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "완료"
 
-#: lib/components/explore/explore_detail_component.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
+msgid "Double check for spelling"
+msgstr ""
+
+#: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
 msgstr "주제 탐색하기"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+#: lib/components/email/email_component.js:22
+#, fuzzy
+#| msgid "Email:"
+msgid "Email"
+msgstr "이메일:"
+
+#: lib/components/search/empty_component.js:27
+msgid "Employment"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
 msgstr "위치 서비스가 활성화되었습니다."
 
-#: lib/components/search/search_input_component.js:71
+#: lib/components/search/empty_component.js:30
+msgid "English class"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
+msgid "Ensure your search is in English"
+msgstr ""
+
+#: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
 msgstr "시, 주소 또는 우편번호를 입력하세요"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+msgid "Enter email"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+msgid "Enter your email if you would like to receive updates about this issue."
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+msgid "Enter your job title"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+msgid "Enter your name"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+msgid "Enter your organization name"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
 msgstr "서비스 찾기"
 
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:78
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "내 주변 서비스 찾기"
 
@@ -268,6 +330,12 @@ msgstr ""
 "캐나다 정착에 어려움을 겪고 있다면, 정착 서비스 담당자에게 연락할 것을 추천합"
 "니다."
 
+#: lib/components/partial_localization/message_component.js:22
+msgid ""
+"Information about services is currently only available in English. For "
+"support in other languages, please"
+msgstr ""
+
 #: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
@@ -293,17 +361,27 @@ msgstr "응급상황 서비스 (9-1-1)에 관한 정보"
 msgid "Information on helplines"
 msgstr "전화 상담 서비스에 관한 정보"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
+#, fuzzy
+#| msgid "Enable location services"
+msgid "Invalid location. Try:"
+msgstr "위치 서비스가 활성화되었습니다."
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
 msgstr "위치를 찾는데 너무 오래 걸렸습니다."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:48
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
 msgstr ""
 "위치를 찾는데 너무 오래 걸렸습니다. 기기 위치 서비스를 \"높은 정확도\"로 설정"
 "하면 이 문제가 해결될 수도 있습니다."
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+msgid "Job Title"
+msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -317,13 +395,24 @@ msgstr "브리티시컬럼비아주에 대해 알아보기"
 msgid "Multilingual health information services"
 msgstr "다국어 건강 정보 서비스"
 
-#: lib/components/search/search_input_component.js:20
+#: lib/components/search/search_input_component.js:30
+#: lib/components/search/search_input_component.js:153
 msgid "My Location"
 msgstr "내 위치"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "나의 북마크"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
+#, fuzzy
+#| msgid "My Location"
+msgid "My location"
+msgstr "내 위치"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+msgid "Name"
+msgstr ""
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -333,16 +422,22 @@ msgstr "답변에 기반한 새로운 주제가 추천되었습니다!"
 msgid "Next"
 msgstr "다음"
 
-#: lib/components/bookmarks/service_bookmarks_component.js:9
-#: lib/components/services/service_list_component.js:23
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
+msgid "No results found. Try to:"
+msgstr ""
+
+#: lib/components/bookmarks/service_bookmarks_component.js:10
+#: lib/components/services/service_list_component.js:44
 msgid "No services to show"
 msgstr "표시할 서비스가 없습니다."
 
-#: lib/components/topics/task_list_component.js:69
+#: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
 msgstr "추천할 주제가 없습니다"
 
-#: lib/components/topics/task_list_component.js:68
+#: lib/components/bookmarks/topic_bookmarks_component.js:11
+#: lib/components/explore/explore_detail_component.js:9
+#: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
 msgstr "보여드릴 주제가 없습니다"
 
@@ -362,9 +457,9 @@ msgstr ""
 "질문에 답하면 아래 추천이 나타납니다. 현재, 모두에게 추천된 주제는 다음과 같"
 "습니다:"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:9
-msgid "Open in maps"
-msgstr "지도에서 열기"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+msgid "Organization"
+msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -385,6 +480,10 @@ msgstr ""
 msgid "Police, fire and medical emergencies"
 msgstr "경찰, 소방 및 의료 관련 응급상황"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr ""
+
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "개인정보 정책"
@@ -394,7 +493,7 @@ msgstr "개인정보 정책"
 msgid "Provided by"
 msgstr "제공"
 
-#: lib/components/topics/task_detail_component.js:21
+#: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
 msgstr "연관 주제들"
 
@@ -406,7 +505,11 @@ msgstr "간단히 보기"
 msgid "Read more"
 msgstr "자세히 보기"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+msgid "Receiving Updates"
+msgstr ""
+
+#: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "나만을 위한 추천"
@@ -425,8 +528,16 @@ msgid ""
 "settlement."
 msgstr "나의 정착 계획 수립을 위한 중요 주제 및 서비스 저장하기"
 
+#: lib/components/search/search_input_component.js:79
+msgid "Search"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
+msgid "Search for a different keyword"
+msgstr ""
+
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:69
+#: lib/components/search/search_input_component.js:149
 msgid "Search for services"
 msgstr "서비스 찾기"
 
@@ -438,7 +549,7 @@ msgstr "추천 보기"
 msgid "Select your language"
 msgstr "언어 선택하기"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:24
 msgid "Server error"
 msgstr "서비스 오류"
 
@@ -451,7 +562,7 @@ msgstr "서버 버전:"
 msgid "Services"
 msgstr "서비스"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:37
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
@@ -466,7 +577,7 @@ msgstr "서비스 정보와 의뢰"
 msgid "Settling in Canada is now easier."
 msgstr "이제 캐나다에서의 정착이 더욱 쉬워집니다."
 
-#: lib/components/search/infinite_hits_component.js:34
+#: lib/components/search/infinite_hits_component.js:60
 msgid "Show more services"
 msgstr "서비스 더 보기"
 
@@ -479,9 +590,17 @@ msgstr "넘어가기"
 msgid "Start"
 msgstr "시작"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:21
+#: lib/components/recommended_topics/recommended_topics_component.js:22
 msgid "Start settling in B.C."
 msgstr "BC주에 정착 시작하기"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
+msgid "Street - \"Kingsway\""
+msgstr ""
+
+#: lib/components/suggest_update/suggest_update_component.js:41
+msgid "Suggest an update"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -531,17 +650,20 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "Arrival Advisor 버전:"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
-msgstr "서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하세요."
+msgstr ""
+"서비스를 찾으려면 설정에서 Arrival Advisor의 위치 서비스를 켠 후 다시 시도하"
+"세요."
 
 #: lib/components/bookmarks/tab_switcher.js:33
 msgid "Topics"
 msgstr "주제"
 
-#: lib/components/error_screens/ErrorScreenComponent.js:53
+#: lib/components/error_screens/ErrorScreenComponent.js:48
+#: lib/components/services/empty_service_list_component.js:31
 msgid "Try again"
 msgstr "다시 시도"
 
@@ -549,17 +671,29 @@ msgstr "다시 시도"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "나의 추천 업데이트하기"
 
-#: lib/components/website/website_component.js:13
+#: lib/components/website/website_component.js:21
 msgid "Website"
 msgstr "웹사이트"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "서버에 연결하는데 어려움을 겪고 있습니다. 나중에 다시 시도하세요."
 
-#~ msgid "Email:"
-#~ msgstr "이메일:"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+msgid "Yes"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:25
+msgid "call BC211."
+msgstr ""
+
+#: lib/components/search/search_input_component.js:154
+msgid "near"
+msgstr ""
+
+#~ msgid "Open in maps"
+#~ msgstr "지도에서 열기"
 
 #~ msgid "Number of new topics recommended based on your answers:"
 #~ msgstr "답변을 바탕으로 추천된 새로운 주제의 개수:"

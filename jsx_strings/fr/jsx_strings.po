@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-01-10 10:51-0800\n"
+"POT-Creation-Date: 2020-02-20 09:42-0800\n"
 "PO-Revision-Date: 2020-02-04 17:13+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: French <https://35.183.184.105/projects/ui-strings/"
@@ -27,11 +27,11 @@ msgstr "À propos"
 msgid "About Arrival Advisor"
 msgstr "À propos d’Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:30
 msgid "Address"
 msgstr "Adresse"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
 msgstr "Une erreur est survenue"
 
@@ -127,11 +127,11 @@ msgstr ""
 "En nous appuyant sur vos réponses, nous vous recommandons les sujets "
 "suivants :"
 
-#: lib/components/notifications/notification_content.js:7
+#: lib/components/bookmark_button/bookmark_button_component.js:30
 msgid "Bookmark added"
 msgstr "Ajouté aux favoris"
 
-#: lib/components/notifications/notification_content.js:12
+#: lib/components/bookmark_button/bookmark_button_component.js:25
 msgid "Bookmark removed"
 msgstr "Retiré des favoris"
 
@@ -141,7 +141,7 @@ msgstr ""
 "Ajoutez à vos favoris les sujets qui vous sont utiles, et consultez-les plus "
 "tard."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
 msgstr "Ne peut pas se connecter à Internet"
 
@@ -149,13 +149,25 @@ msgstr "Ne peut pas se connecter à Internet"
 msgid "Cancel"
 msgstr "ANNULER"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "Vérifier le service de localisation"
+
+#: lib/components/search/empty_component.js:33
+msgid "Child care"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
+msgid "City - \"Vancouver\""
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
 msgstr "Ville, adresse ou code postal"
+
+#: lib/components/suggest_update/suggest_update_component.js:54
+msgid "Comment or suggest edits"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -184,27 +196,77 @@ msgstr ""
 "ce téléphone? Sont inclus les réponses données au questionnaire et les "
 "sujets ajoutés aux favoris."
 
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+msgid "Do you work at this service or organization?"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:37
+msgid "Don't show again"
+msgstr ""
+
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "Terminé"
 
-#: lib/components/explore/explore_detail_component.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
+msgid "Double check for spelling"
+msgstr ""
+
+#: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+#: lib/components/email/email_component.js:22
+#, fuzzy
+#| msgid "Email:"
+msgid "Email"
+msgstr "Courriel :"
+
+#: lib/components/search/empty_component.js:27
+msgid "Employment"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
 msgstr "Activer le service de localisation"
 
-#: lib/components/search/search_input_component.js:71
+#: lib/components/search/empty_component.js:30
+msgid "English class"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
+msgid "Ensure your search is in English"
+msgstr ""
+
+#: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
 msgstr "Entrer la ville, l'adresse ou le code postal"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+msgid "Enter email"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+msgid "Enter your email if you would like to receive updates about this issue."
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+msgid "Enter your job title"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+msgid "Enter your name"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+msgid "Enter your organization name"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
 msgstr "TROUVER UN SERVICE"
 
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:78
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "TROUVER UN SERVICE À PROXIMITÉ"
 
@@ -283,6 +345,12 @@ msgstr ""
 "Si vous éprouvez de la difficulté à vous établir au Canada, nous vous "
 "suggérons de communiquer avec un travailleur en établissement."
 
+#: lib/components/partial_localization/message_component.js:22
+msgid ""
+"Information about services is currently only available in English. For "
+"support in other languages, please"
+msgstr ""
+
 #: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
@@ -309,11 +377,17 @@ msgstr "Renseignements relatifs au service d’urgence 9-1-1"
 msgid "Information on helplines"
 msgstr "Renseignements relatifs aux lignes d’aide"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
+#, fuzzy
+#| msgid "Enable location services"
+msgid "Invalid location. Try:"
+msgstr "Activer le service de localisation"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
 msgstr "Il a fallu trop longtemps pour trouver votre position."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:48
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
@@ -321,6 +395,10 @@ msgstr ""
 "Il a fallu trop longtemps pour trouver votre position. Régler le service de "
 "localisation de votre appareil à « haute précision » permet parfois de "
 "résoudre ce problème."
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+msgid "Job Title"
+msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -334,13 +412,24 @@ msgstr "Tout savoir sur la C.-B."
 msgid "Multilingual health information services"
 msgstr "Services de conseils médicaux multilingues"
 
-#: lib/components/search/search_input_component.js:20
+#: lib/components/search/search_input_component.js:30
+#: lib/components/search/search_input_component.js:153
 msgid "My Location"
 msgstr "Mon emplacement"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "Mes favoris"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
+#, fuzzy
+#| msgid "My Location"
+msgid "My location"
+msgstr "Mon emplacement"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+msgid "Name"
+msgstr ""
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -350,16 +439,22 @@ msgstr "De nouveaux sujets ont été recommandés en fonction de vos réponses!"
 msgid "Next"
 msgstr "Prochaine question"
 
-#: lib/components/bookmarks/service_bookmarks_component.js:9
-#: lib/components/services/service_list_component.js:23
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
+msgid "No results found. Try to:"
+msgstr ""
+
+#: lib/components/bookmarks/service_bookmarks_component.js:10
+#: lib/components/services/service_list_component.js:44
 msgid "No services to show"
 msgstr "Pas de services à proposer"
 
-#: lib/components/topics/task_list_component.js:69
+#: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
 msgstr "Aucun sujet à recommander"
 
-#: lib/components/topics/task_list_component.js:68
+#: lib/components/bookmarks/topic_bookmarks_component.js:11
+#: lib/components/explore/explore_detail_component.js:9
+#: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
 msgstr "Aucun sujet à afficher"
 
@@ -380,9 +475,9 @@ msgstr ""
 "apparaîtront ci-dessous. Pour le moment, voici quelques sujets que nous "
 "recommandons à tous :"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:9
-msgid "Open in maps"
-msgstr "Voir sur une carte"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+msgid "Organization"
+msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -405,6 +500,10 @@ msgstr ""
 msgid "Police, fire and medical emergencies"
 msgstr "Police, pompiers et urgences médicales"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr ""
+
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "Politique de confidentialité"
@@ -414,7 +513,7 @@ msgstr "Politique de confidentialité"
 msgid "Provided by"
 msgstr "Fournisseur"
 
-#: lib/components/topics/task_detail_component.js:21
+#: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
 msgstr "SUJETS CONNEXES"
 
@@ -426,7 +525,11 @@ msgstr "En lire moins"
 msgid "Read more"
 msgstr "En lire davantage"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+msgid "Receiving Updates"
+msgstr ""
+
+#: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "Recommandé pour vous"
@@ -447,8 +550,16 @@ msgstr ""
 "Sauvegardez les sujets et les services importants afin de créer votre plan "
 "personnalisé d’établissement."
 
+#: lib/components/search/search_input_component.js:79
+msgid "Search"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
+msgid "Search for a different keyword"
+msgstr ""
+
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:69
+#: lib/components/search/search_input_component.js:149
 msgid "Search for services"
 msgstr "Chercher des services"
 
@@ -460,7 +571,7 @@ msgstr "Voir les recommandations"
 msgid "Select your language"
 msgstr "Choisir la langue"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:24
 msgid "Server error"
 msgstr "Erreur du serveur"
 
@@ -473,7 +584,7 @@ msgstr "Version du serveur :"
 msgid "Services"
 msgstr "Services"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:37
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
@@ -489,7 +600,7 @@ msgstr "Renseignements relatifs aux services et à l’orientation"
 msgid "Settling in Canada is now easier."
 msgstr "S’établir au Canada est maintenant plus facile."
 
-#: lib/components/search/infinite_hits_component.js:34
+#: lib/components/search/infinite_hits_component.js:60
 msgid "Show more services"
 msgstr "Voir davantage de services"
 
@@ -502,9 +613,17 @@ msgstr "Ignorer la question"
 msgid "Start"
 msgstr "Débuter"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:21
+#: lib/components/recommended_topics/recommended_topics_component.js:22
 msgid "Start settling in B.C."
 msgstr "Amorcer l’établissement en C.-B."
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
+msgid "Street - \"Kingsway\""
+msgstr ""
+
+#: lib/components/suggest_update/suggest_update_component.js:41
+msgid "Suggest an update"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -559,7 +678,7 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "Version d’Arrival Advisor :"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
@@ -571,7 +690,8 @@ msgstr ""
 msgid "Topics"
 msgstr "Sujets"
 
-#: lib/components/error_screens/ErrorScreenComponent.js:53
+#: lib/components/error_screens/ErrorScreenComponent.js:48
+#: lib/components/services/empty_service_list_component.js:31
 msgid "Try again"
 msgstr "Essayer de nouveau"
 
@@ -579,19 +699,31 @@ msgstr "Essayer de nouveau"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
-#: lib/components/website/website_component.js:13
+#: lib/components/website/website_component.js:21
 msgid "Website"
 msgstr "Site Web"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr ""
 "Nous éprouvons de la difficulté à nous connecter au serveur. Veuillez "
 "essayer de nouveau plus tard."
 
-#~ msgid "Email:"
-#~ msgstr "Courriel :"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+msgid "Yes"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:25
+msgid "call BC211."
+msgstr ""
+
+#: lib/components/search/search_input_component.js:154
+msgid "near"
+msgstr ""
+
+#~ msgid "Open in maps"
+#~ msgstr "Voir sur une carte"
 
 #~ msgid "Number of new topics recommended based on your answers:"
 #~ msgstr "Nombre de nouveaux sujets recommandés, selon vos réponses :"

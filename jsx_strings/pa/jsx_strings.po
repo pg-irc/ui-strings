@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-01-10 10:51-0800\n"
+"POT-Creation-Date: 2020-02-20 09:42-0800\n"
 "PO-Revision-Date: 2020-02-04 17:27+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Punjabi <https://35.183.184.105/projects/ui-strings/"
@@ -27,11 +27,11 @@ msgstr "ਇਸ ਬਾਰੇ"
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor ਬਾਰੇ"
 
-#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:30
 msgid "Address"
 msgstr "ਪਤਾ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
 msgstr "ਗਲਤੀ ਵਾਪਰੀ ਹੈ"
 
@@ -114,11 +114,11 @@ msgstr "ਅੱਗੇ"
 msgid "Based on your answers, we recommend these topics for you:"
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਇਹ ਵਿਸ਼ਿਆਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
 
-#: lib/components/notifications/notification_content.js:7
+#: lib/components/bookmark_button/bookmark_button_component.js:30
 msgid "Bookmark added"
 msgstr "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ"
 
-#: lib/components/notifications/notification_content.js:12
+#: lib/components/bookmark_button/bookmark_button_component.js:25
 msgid "Bookmark removed"
 msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 
@@ -126,7 +126,7 @@ msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
 msgstr "ਇੰਟਰਨੈੱਟ ਲਈ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ"
 
@@ -134,13 +134,25 @@ msgstr "ਇੰਟਰਨੈੱਟ ਲਈ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜ�
 msgid "Cancel"
 msgstr "ਰੱਦ ਕਰੋ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
+
+#: lib/components/search/empty_component.js:33
+msgid "Child care"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
+msgid "City - \"Vancouver\""
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
 msgstr "ਸ਼ਹਿਰ, ਪਤਾ ਜਾਂ ਡਾਕ ਕੋਡ"
+
+#: lib/components/suggest_update/suggest_update_component.js:54
+msgid "Comment or suggest edits"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -168,27 +180,77 @@ msgstr ""
 "ਕੀ ਤੁਸੀਂ ਇਸ ਫ਼ੋਨ ਤੋਂ ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਵਿੱਚ ਸਵਾਲਨਾਮੇ ਵਿੱਚ ਚੁਣੇ ਜਵਾਬ ਅਤੇ "
 "ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਗਏ ਵਿਸ਼ੇ ਸ਼ਾਮਲ ਹਨ।"
 
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+msgid "Do you work at this service or organization?"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:37
+msgid "Don't show again"
+msgstr ""
+
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "ਮੁਕੰਮਲ"
 
-#: lib/components/explore/explore_detail_component.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
+msgid "Double check for spelling"
+msgstr ""
+
+#: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+#: lib/components/email/email_component.js:22
+#, fuzzy
+#| msgid "Email:"
+msgid "Email"
+msgstr "ਈਮੇਲ:"
+
+#: lib/components/search/empty_component.js:27
+msgid "Employment"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
 msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ"
 
-#: lib/components/search/search_input_component.js:71
+#: lib/components/search/empty_component.js:30
+msgid "English class"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
+msgid "Ensure your search is in English"
+msgstr ""
+
+#: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
 msgstr "ਸ਼ਹਿਰ, ਪਤਾ ਜਾਂ ਡਾਕ ਕੋਡ ਦਿਓ"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+msgid "Enter email"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+msgid "Enter your email if you would like to receive updates about this issue."
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+msgid "Enter your job title"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+msgid "Enter your name"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+msgid "Enter your organization name"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
 msgstr "ਸੇਵਾ ਲੱਭੋ"
 
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:78
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
 
@@ -261,6 +323,12 @@ msgstr ""
 "ਜੇ ਤੁਹਾਨੂੰ ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲਮੈਂਟ ਨਾਲ ਔਖਿਆਈ ਆ ਰਹੀ ਹੈ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੈਟਲਮੈਂਟ ਵਰਕਰ ਨਾਲ ਸੰਪਰਕ ਕਰਨ "
 "ਦਾ ਸੁਝਾਅ ਦਿੰਦੇ ਹਾਂ।"
 
+#: lib/components/partial_localization/message_component.js:22
+msgid ""
+"Information about services is currently only available in English. For "
+"support in other languages, please"
+msgstr ""
+
 #: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
@@ -286,17 +354,27 @@ msgstr "ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ (9-1-1) ਬਾਰੇ ਜ�
 msgid "Information on helplines"
 msgstr "ਮਦਦ-ਲਾਈਨ ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
+#, fuzzy
+#| msgid "Enable location services"
+msgid "Invalid location. Try:"
+msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
 msgstr "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੱਭਣ ਲਈ ਬਹੁਤ ਵੱਧ ਸਮਾਂ ਲੱਗਾ।"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:48
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
 msgstr ""
 "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੱਭਣ ਲਈ ਬਹੁਤ ਵੱਧ ਸਮਾਂ ਲੱਗਾ। ਕਈ ਵਾਰ ਇਹ ਸਮੱਸਿਆ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀਆਂ ਟਿਕਾਣਾ "
 "ਸੇਵਾਵਾਂ ਦੀਆਂ ਸੈਟਿੰਗਾਂ \"ਉੱਚ ਸਟੀਕਤਾ\" ਨਾਲ ਠੀਕ ਹੋ ਸਕਦੀ ਹੈ।"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+msgid "Job Title"
+msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -310,13 +388,24 @@ msgstr "ਬੀ.ਸੀ. ਬਾਰੇ ਸਭ ਜਾਣੋ"
 msgid "Multilingual health information services"
 msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵਾਵਾਂ"
 
-#: lib/components/search/search_input_component.js:20
+#: lib/components/search/search_input_component.js:30
+#: lib/components/search/search_input_component.js:153
 msgid "My Location"
 msgstr "ਮੇਰਾ ਟਿਕਾਣਾ"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "ਮੇਰੇ ਬੁੱਕਮਾਰਕ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
+#, fuzzy
+#| msgid "My Location"
+msgid "My location"
+msgstr "ਮੇਰਾ ਟਿਕਾਣਾ"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+msgid "Name"
+msgstr ""
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -326,16 +415,22 @@ msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ �
 msgid "Next"
 msgstr "ਅੱਗੇ"
 
-#: lib/components/bookmarks/service_bookmarks_component.js:9
-#: lib/components/services/service_list_component.js:23
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
+msgid "No results found. Try to:"
+msgstr ""
+
+#: lib/components/bookmarks/service_bookmarks_component.js:10
+#: lib/components/services/service_list_component.js:44
 msgid "No services to show"
 msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਸੇਵਾਵਾਂ ਨਹੀਂ"
 
-#: lib/components/topics/task_list_component.js:69
+#: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
 msgstr "ਸਿਫਾਰਸ਼ ਕਰਨ ਲਈ ਕੋਈ ਵਿਸ਼ਾ ਨਹੀਂ ਹੈ"
 
-#: lib/components/topics/task_list_component.js:68
+#: lib/components/bookmarks/topic_bookmarks_component.js:11
+#: lib/components/explore/explore_detail_component.js:9
+#: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
 msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਵਿਸ਼ਾ ਨਹੀਂ ਹੈ"
 
@@ -355,9 +450,9 @@ msgstr ""
 "ਜਦੋਂ ਤੁਸੀਂ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਦਿੱਤੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਹੇਠਾਂ ਦਿਖਾਈਆਂ ਜਾਣਗੀਆਂ। ਹੁਣ ਇਹ ਕੁਝ "
 "ਵਿਸ਼ੇ ਹਨ, ਜੋ ਕਿ ਅਸੀਂ ਹਰੇਕ ਲਈ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:9
-msgid "Open in maps"
-msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+msgid "Organization"
+msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -378,6 +473,10 @@ msgstr ""
 msgid "Police, fire and medical emergencies"
 msgstr "ਪੁਲਸ, ਅੱਗ ਬਝਾਉਣ ਅਤੇ ਮੈਡੀਕਲ ਐਮਰਜੈਂਸੀ"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr ""
+
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
@@ -387,7 +486,7 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 msgid "Provided by"
 msgstr "ਇਸ ਵਲੋਂ ਪੇਸ਼ਕਸ਼"
 
-#: lib/components/topics/task_detail_component.js:21
+#: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
 msgstr "ਸੰਬੰਧਿਤ ਵਿਸ਼ੇ"
 
@@ -399,7 +498,11 @@ msgstr "ਘੱਟ ਪੜ੍ਹੋ"
 msgid "Read more"
 msgstr "ਵੱਧ ਪੜ੍ਹੋ"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+msgid "Receiving Updates"
+msgstr ""
+
+#: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਹਨ"
@@ -416,11 +519,18 @@ msgstr "ਸੇਵਾਵਾਂ"
 msgid ""
 "Save important topics and services to build your personal plan for "
 "settlement."
+msgstr "ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਸੰਭਾਲੋ।"
+
+#: lib/components/search/search_input_component.js:79
+msgid "Search"
 msgstr ""
-"ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਸੰਭਾਲੋ।"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
+msgid "Search for a different keyword"
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:69
+#: lib/components/search/search_input_component.js:149
 msgid "Search for services"
 msgstr "ਸੇਵਾਵਾਂ ਖੋਜੋ"
 
@@ -432,7 +542,7 @@ msgstr "ਸਿਫਾਰਸ਼ਾਂ ਵੇਖੋ"
 msgid "Select your language"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:24
 msgid "Server error"
 msgstr "ਸਰਵਰ ਗਲਤੀ"
 
@@ -445,7 +555,7 @@ msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
 msgid "Services"
 msgstr "ਸੇਵਾਵਾਂ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:37
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
@@ -459,7 +569,7 @@ msgstr "ਸੇਵਾਵਾਂ ਜਾਣਕਾਰੀ ਅਤੇ ਹਵਾਲੇ"
 msgid "Settling in Canada is now easier."
 msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋਇਆ।"
 
-#: lib/components/search/infinite_hits_component.js:34
+#: lib/components/search/infinite_hits_component.js:60
 msgid "Show more services"
 msgstr "ਹੋਰ ਸੇਵਾਵਾਂ ਵੇਖੋ"
 
@@ -472,9 +582,17 @@ msgstr "ਛੱਡੋ"
 msgid "Start"
 msgstr "ਸ਼ੁਰੂ ਕਰੋ"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:21
+#: lib/components/recommended_topics/recommended_topics_component.js:22
 msgid "Start settling in B.C."
 msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕਰੋ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
+msgid "Street - \"Kingsway\""
+msgstr ""
+
+#: lib/components/suggest_update/suggest_update_component.js:41
+msgid "Suggest an update"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -522,7 +640,7 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "ਇਹ Arrival Advisor ਦਾ ਵਰਜ਼ਨ:"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
@@ -533,7 +651,8 @@ msgstr ""
 msgid "Topics"
 msgstr "ਵਿਸ਼ੇ"
 
-#: lib/components/error_screens/ErrorScreenComponent.js:53
+#: lib/components/error_screens/ErrorScreenComponent.js:48
+#: lib/components/services/empty_service_list_component.js:31
 msgid "Try again"
 msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 
@@ -541,17 +660,29 @@ msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ"
 
-#: lib/components/website/website_component.js:13
+#: lib/components/website/website_component.js:21
 msgid "Website"
 msgstr "ਵੈੱਬਸਾਈਟ"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "ਸਾਨੂੰ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਔਖਿਆਈ ਹੋ ਰਹੀ ਹੈ। ਬਾਅਦ 'ਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
-#~ msgid "Email:"
-#~ msgstr "ਈਮੇਲ:"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+msgid "Yes"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:25
+msgid "call BC211."
+msgstr ""
+
+#: lib/components/search/search_input_component.js:154
+msgid "near"
+msgstr ""
+
+#~ msgid "Open in maps"
+#~ msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
 
 #~ msgid "Number of new topics recommended based on your answers:"
 #~ msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਨਵੇਂ ਵਿਸ਼ਿਆਂ ਦੀ ਗਿਣਤੀ:"
