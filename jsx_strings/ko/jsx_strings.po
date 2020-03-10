@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-02-20 09:42-0800\n"
-"PO-Revision-Date: 2020-02-06 20:45+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://35.183.181.204/projects/ui-strings/"
-"jsx_strings/ko/>\n"
+"PO-Revision-Date: 2020-03-10 00:33+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Korean <https://35.183.145.4/projects/ui-strings/jsx_strings/"
+"ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -147,11 +147,11 @@ msgstr "위치 서비스를 확인하세요."
 
 #: lib/components/search/empty_component.js:33
 msgid "Child care"
-msgstr ""
+msgstr "보육 지원"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
 msgid "City - \"Vancouver\""
-msgstr ""
+msgstr "도시 - \"밴쿠버\""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
@@ -159,7 +159,7 @@ msgstr "시, 주소 또는 우편번호"
 
 #: lib/components/suggest_update/suggest_update_component.js:54
 msgid "Comment or suggest edits"
-msgstr ""
+msgstr "코멘트나 수정 제안"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -189,11 +189,11 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
 msgid "Do you work at this service or organization?"
-msgstr ""
+msgstr "해당 서비스 기관이나 단체에서 일하십니까?"
 
 #: lib/components/partial_localization/message_component.js:37
 msgid "Don't show again"
-msgstr ""
+msgstr "다시 보지 않기"
 
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
@@ -201,7 +201,7 @@ msgstr "완료"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
 msgid "Double check for spelling"
-msgstr ""
+msgstr "스펠링 재확인"
 
 #: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
@@ -215,7 +215,7 @@ msgstr "이메일:"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr ""
+msgstr "고용"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
@@ -223,11 +223,11 @@ msgstr "위치 서비스가 활성화되었습니다."
 
 #: lib/components/search/empty_component.js:30
 msgid "English class"
-msgstr ""
+msgstr "영어 수업"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr ""
+msgstr "검색어가 영어인지 확인하시오"
 
 #: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
@@ -235,23 +235,23 @@ msgstr "시, 주소 또는 우편번호를 입력하세요"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
 msgid "Enter email"
-msgstr ""
+msgstr "이메일 주소 입력"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Enter your email if you would like to receive updates about this issue."
-msgstr ""
+msgstr "해당 이슈에 대한 업데이트 수신을 원할 경우 이메일 주소를 입력하시오."
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
 msgid "Enter your job title"
-msgstr ""
+msgstr "직업명을 입력하시오"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
 msgid "Enter your name"
-msgstr ""
+msgstr "이름을 입력하시오"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
 msgid "Enter your organization name"
-msgstr ""
+msgstr "기관명을 입력하시오"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
@@ -334,7 +334,7 @@ msgstr ""
 msgid ""
 "Information about services is currently only available in English. For "
 "support in other languages, please"
-msgstr ""
+msgstr "현재 서비스 정보가 영어로만 지원됩니다. 타 언어 지원을 원할 경우,"
 
 #: lib/components/about/about_component.js:51
 msgid ""
@@ -381,7 +381,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
 msgid "Job Title"
-msgstr ""
+msgstr "직업명"
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -412,7 +412,7 @@ msgstr "내 위치"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -424,7 +424,7 @@ msgstr "다음"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
-msgstr ""
+msgstr "검색 결과가 없습니다. 시도하기:"
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:44
@@ -482,7 +482,7 @@ msgstr "경찰, 소방 및 의료 관련 응급상황"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
 msgid "Postal Code - \"V5Y 1V4\""
-msgstr ""
+msgstr "우편 코드 - \"V5Y 1V4\""
 
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
@@ -507,7 +507,7 @@ msgstr "자세히 보기"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
 msgid "Receiving Updates"
-msgstr ""
+msgstr "업데이트 수신"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
@@ -530,11 +530,11 @@ msgstr "나의 정착 계획 수립을 위한 중요 주제 및 서비스 저장
 
 #: lib/components/search/search_input_component.js:79
 msgid "Search"
-msgstr ""
+msgstr "검색 "
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr ""
+msgstr "다른 키워드로 검색 하기"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:149
@@ -596,11 +596,11 @@ msgstr "BC주에 정착 시작하기"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
 msgid "Street - \"Kingsway\""
-msgstr ""
+msgstr "거리 - \"Kingsway\""
 
 #: lib/components/suggest_update/suggest_update_component.js:41
 msgid "Suggest an update"
-msgstr ""
+msgstr "업데이트 제안"
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -682,15 +682,15 @@ msgstr "서버에 연결하는데 어려움을 겪고 있습니다. 나중에 �
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr ""
+msgstr "BC211로 전화 걸기"
 
 #: lib/components/search/search_input_component.js:154
 msgid "near"
-msgstr ""
+msgstr "근처"
 
 #~ msgid "Open in maps"
 #~ msgstr "지도에서 열기"
