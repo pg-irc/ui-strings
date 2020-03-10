@@ -3,54 +3,56 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-06 09:08-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-03-10 00:46+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.145.4/projects/"
+"ui-strings/marketing/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: Large Posters All English
 msgid "New to Canada?"
-msgstr ""
+msgstr "刚到加拿大？"
 
 #: Large Posters All English
 msgid "Download the Arrival Advisor app."
-msgstr ""
+msgstr "下载应用Arrival Advisor。"
 
 #: Large Posters All English
 msgid "Always Free. Available in multiple languages."
-msgstr ""
+msgstr "提供多种语言版本，终身免费。"
 
 #: All posters Large Postcard
 msgid "We can help."
-msgstr ""
+msgstr "我们帮助您。"
 
 #: Poster 1 school
 msgid "How do I register my children in school?"
-msgstr ""
+msgstr "怎样为孩子注册学校？"
 
 #: Poster 2 services
 msgid "What services are available for immigrants and refugees?"
-msgstr ""
+msgstr "移民和难民可以获得哪些帮助？"
 
 #: Poster 3 English
 msgid "Where do I learn English?"
-msgstr ""
+msgstr "我在哪里学习英语？"
 
 #: Poster 4job
 msgid "Where do I find a job?"
-msgstr ""
+msgstr "我去哪里找工作？"
 
 #: Large Postcard
 msgid "We're new to BC. How do we get started in our community?"
-msgstr ""
+msgstr "我们刚到卑诗省，如何开始社区生活？"
 
 #: Large Postcard
 msgid "New to BC? Download the App."
-msgstr ""
+msgstr "刚到卑诗省？请您下载应用。"
 
 #: Large Postcard
 msgid ""
@@ -58,49 +60,50 @@ msgid ""
 "Columbia find information and services to plan their settlement journey and "
 "services to get started in your new community."
 msgstr ""
+"Arrival Advisor是一款免费应用，提供多种语言界面，帮助卑诗省的新居民获得各种信息和服务，便于他们计划安家之旅，并开始新的社区生活。"
 
 #: Large Postcard
 msgid ""
 "Whether you're looking for a job, applying for healthcare, or want to enroll "
 "your children in school, Arrival Advisor can help you find the right "
 "information."
-msgstr ""
+msgstr "无论您求职、申请医疗健康服务、或为孩子办理入学，Arrival Advisor能够帮助您获得准确的信息。"
 
 #: Large Postcard Small Postcard
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
-msgstr ""
+msgstr "Arrival Advisor提供英文、法语、阿拉伯语、中文（繁体和简体）、韩语、旁遮普语和菲律宾语。"
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
-msgstr ""
+msgstr "Arrival Advisor由位于温哥华的非盈利公司PeaceGeeks创建。"
 
 #: Large Postcard
 msgid "by PeaceGeeks"
-msgstr ""
+msgstr "PeaceGeeks制作"
 
 #: Small Postcard
 msgid ""
 "Arrival Advisor is a free, multilingual app that helps immigrants and "
 "refugees in British Columbia find information and services to plan their "
 "settlement journey."
-msgstr ""
+msgstr "Arrival Advisor是一款免费应用，提供多种语言界面，帮助移民和难民获得卑诗省的各种信息和服务，便于他们计划安家之旅。"
 
 #: Small Postcard
 msgid "New to BC? Learn more at arrivaladvisor.ca"
-msgstr ""
+msgstr "刚到卑诗省？访问arrivaladvisor.ca了解更多信息"
 
 #: Small Postcard
 msgid ""
 "Whether you're looking for a job, applying for healthcare, or want ot enrol "
 "your children in school, Arrival Advisor can help you find the right "
 "information and services to get started in your new community."
-msgstr ""
+msgstr "无论您求职、申请医疗健康服务、或为孩子办理入学，Arrival Advisor能够帮助您获得准确的信息和服务，开始新的社区生活。"
 
 #: Small Postcard
 msgid ""
 "Arrival Advisor was created by PeaceGeeks (peacegeeks.org), a Vancouver-"
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
-msgstr ""
+msgstr "Arrival Advisor由位于温哥华的非盈利公司PeaceGeeks（peacegeeks.org）联合大温地区的安置机构创建。"
