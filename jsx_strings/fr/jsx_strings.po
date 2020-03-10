@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-02-20 09:42-0800\n"
-"PO-Revision-Date: 2020-02-04 17:13+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://35.183.184.105/projects/ui-strings/"
-"jsx_strings/fr/>\n"
+"PO-Revision-Date: 2020-03-10 00:31+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: French <https://35.183.145.4/projects/ui-strings/jsx_strings/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -155,11 +155,11 @@ msgstr "Vérifier le service de localisation"
 
 #: lib/components/search/empty_component.js:33
 msgid "Child care"
-msgstr ""
+msgstr "Soin des enfants"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
 msgid "City - \"Vancouver\""
-msgstr ""
+msgstr "Ville – « Vancouver »"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
@@ -167,7 +167,7 @@ msgstr "Ville, adresse ou code postal"
 
 #: lib/components/suggest_update/suggest_update_component.js:54
 msgid "Comment or suggest edits"
-msgstr ""
+msgstr "Commenter ou suggérer des modifications"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -198,11 +198,11 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
 msgid "Do you work at this service or organization?"
-msgstr ""
+msgstr "Travaillez-vous à ce service ou cette organisation?"
 
 #: lib/components/partial_localization/message_component.js:37
 msgid "Don't show again"
-msgstr ""
+msgstr "Ne plus afficher"
 
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
@@ -210,7 +210,7 @@ msgstr "Terminé"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
 msgid "Double check for spelling"
-msgstr ""
+msgstr "Vérifier l’orthographe"
 
 #: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
@@ -224,7 +224,7 @@ msgstr "Courriel :"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr ""
+msgstr "Travail"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
@@ -232,11 +232,11 @@ msgstr "Activer le service de localisation"
 
 #: lib/components/search/empty_component.js:30
 msgid "English class"
-msgstr ""
+msgstr "Cours d’anglais"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr ""
+msgstr "Assurez-vous que votre recherche est en anglais"
 
 #: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
@@ -244,23 +244,25 @@ msgstr "Entrer la ville, l'adresse ou le code postal"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
 msgid "Enter email"
-msgstr ""
+msgstr "Entrer l’adresse courriel"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr ""
+"Entrez votre adresse courriel si vous souhaitez recevoir des mises à jour au "
+"sujet de cette question."
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
 msgid "Enter your job title"
-msgstr ""
+msgstr "Entrez le titre de votre poste"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
 msgid "Enter your name"
-msgstr ""
+msgstr "Entrez votre nom"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
 msgid "Enter your organization name"
-msgstr ""
+msgstr "Entrez le nom de votre organisation"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
@@ -350,6 +352,8 @@ msgid ""
 "Information about services is currently only available in English. For "
 "support in other languages, please"
 msgstr ""
+"Pour l’instant, l’information sur les services est offerte uniquement en "
+"anglais. Pour obtenir de l’aide dans d’autres langues, veuillez"
 
 #: lib/components/about/about_component.js:51
 msgid ""
@@ -398,7 +402,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
 msgid "Job Title"
-msgstr ""
+msgstr "Titre du poste"
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -429,7 +433,7 @@ msgstr "Mon emplacement"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -441,7 +445,7 @@ msgstr "Prochaine question"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
-msgstr ""
+msgstr "Aucun résultat. Essayez de : "
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:44
@@ -502,7 +506,7 @@ msgstr "Police, pompiers et urgences médicales"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
 msgid "Postal Code - \"V5Y 1V4\""
-msgstr ""
+msgstr "Code postal – « V5Y 1V4 »"
 
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
@@ -527,7 +531,7 @@ msgstr "En lire davantage"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
 msgid "Receiving Updates"
-msgstr ""
+msgstr "Recevoir des mises à jour"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
@@ -552,11 +556,11 @@ msgstr ""
 
 #: lib/components/search/search_input_component.js:79
 msgid "Search"
-msgstr ""
+msgstr "Chercher"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr ""
+msgstr "Chercher un mot-clé différent"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:149
@@ -619,11 +623,11 @@ msgstr "Amorcer l’établissement en C.-B."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
 msgid "Street - \"Kingsway\""
-msgstr ""
+msgstr "Rue – « Kingsway »"
 
 #: lib/components/suggest_update/suggest_update_component.js:41
 msgid "Suggest an update"
-msgstr ""
+msgstr "Suggérer une mise à jour"
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -712,15 +716,15 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr ""
+msgstr "Appeler BC211."
 
 #: lib/components/search/search_input_component.js:154
 msgid "near"
-msgstr ""
+msgstr "près"
 
 #~ msgid "Open in maps"
 #~ msgstr "Voir sur une carte"
