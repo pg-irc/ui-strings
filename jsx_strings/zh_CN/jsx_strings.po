@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-02-20 09:42-0800\n"
-"PO-Revision-Date: 2020-02-06 20:47+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.181.204/projects/ui-"
-"strings/jsx_strings/zh_Hans/>\n"
+"PO-Revision-Date: 2020-03-10 00:29+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.145.4/projects/"
+"ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -138,11 +138,11 @@ msgstr "检查获取地点服务"
 
 #: lib/components/search/empty_component.js:33
 msgid "Child care"
-msgstr ""
+msgstr "托儿服务"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
 msgid "City - \"Vancouver\""
-msgstr ""
+msgstr "城市——“Vancouver”"
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
@@ -150,7 +150,7 @@ msgstr "城市、地址或邮编"
 
 #: lib/components/suggest_update/suggest_update_component.js:54
 msgid "Comment or suggest edits"
-msgstr ""
+msgstr "意见或修改建议"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -180,11 +180,11 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
 msgid "Do you work at this service or organization?"
-msgstr ""
+msgstr "您在该服务地点或机构工作吗？"
 
 #: lib/components/partial_localization/message_component.js:37
 msgid "Don't show again"
-msgstr ""
+msgstr "不要再显示"
 
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
@@ -192,7 +192,7 @@ msgstr "完成"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
 msgid "Double check for spelling"
-msgstr ""
+msgstr "请您再次检查拼写"
 
 #: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
@@ -206,7 +206,7 @@ msgstr "电邮："
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr ""
+msgstr "雇佣情况"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
@@ -214,11 +214,11 @@ msgstr "启动获取地点服务"
 
 #: lib/components/search/empty_component.js:30
 msgid "English class"
-msgstr ""
+msgstr "英语课程"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr ""
+msgstr "请用英文搜索"
 
 #: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
@@ -226,23 +226,23 @@ msgstr "请输入城市、地址或邮编"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
 msgid "Enter email"
-msgstr ""
+msgstr "请输入电子邮件"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Enter your email if you would like to receive updates about this issue."
-msgstr ""
+msgstr "如果希望接收有关问题的更新，请输入电子邮件。"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
 msgid "Enter your job title"
-msgstr ""
+msgstr "请输入职位名称"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
 msgid "Enter your name"
-msgstr ""
+msgstr "请输入您的姓名"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
 msgid "Enter your organization name"
-msgstr ""
+msgstr "请输入机构名称"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
@@ -321,7 +321,7 @@ msgstr "如果您在加拿大安家落户有困难，我们建议您联系安置
 msgid ""
 "Information about services is currently only available in English. For "
 "support in other languages, please"
-msgstr ""
+msgstr "当前服务信息只显示英文。其他语言帮助，请"
 
 #: lib/components/about/about_component.js:51
 msgid ""
@@ -366,7 +366,7 @@ msgstr "获取地点超时。请将设备的获取地点服务设置为“高度
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
 msgid "Job Title"
-msgstr ""
+msgstr "职位名称"
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -397,7 +397,7 @@ msgstr "我的位置"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
 msgid "Name"
-msgstr ""
+msgstr "姓名"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -409,7 +409,7 @@ msgstr "下一个"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
-msgstr ""
+msgstr "无搜索结果。请尝试："
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:44
@@ -466,7 +466,7 @@ msgstr "警察、消防和医疗急诊"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
 msgid "Postal Code - \"V5Y 1V4\""
-msgstr ""
+msgstr "邮编——“V5Y 1V4”"
 
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
@@ -491,7 +491,7 @@ msgstr "展开"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
 msgid "Receiving Updates"
-msgstr ""
+msgstr "接收更新"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
@@ -514,11 +514,11 @@ msgstr "保存重要的主题和服务，以便制定您个人的安家落户计
 
 #: lib/components/search/search_input_component.js:79
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr ""
+msgstr "请使用其他关键词搜索"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:149
@@ -579,11 +579,11 @@ msgstr "开始在B.C.省安家落户"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
 msgid "Street - \"Kingsway\""
-msgstr ""
+msgstr "街名——“Kingsway”"
 
 #: lib/components/suggest_update/suggest_update_component.js:41
 msgid "Suggest an update"
-msgstr ""
+msgstr "更新建议"
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -658,15 +658,15 @@ msgstr "无法连接服务器。请稍后再试。"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr ""
+msgstr "请电话联系BC211。"
 
 #: lib/components/search/search_input_component.js:154
 msgid "near"
-msgstr ""
+msgstr "附近"
 
 #~ msgid "Open in maps"
 #~ msgstr "在地图上打开"
