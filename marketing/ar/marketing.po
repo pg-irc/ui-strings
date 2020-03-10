@@ -3,54 +3,57 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-06 09:08-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-03-10 00:44+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Arabic <https://35.183.145.4/projects/ui-strings/marketing/ar/"
+">\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: Large Posters All English
 msgid "New to Canada?"
-msgstr ""
+msgstr "هل وفدت حديثا إلى كندا؟"
 
 #: Large Posters All English
 msgid "Download the Arrival Advisor app."
-msgstr ""
+msgstr "نزّل تطبيق Arrival Advisor."
 
 #: Large Posters All English
 msgid "Always Free. Available in multiple languages."
-msgstr ""
+msgstr "مجاني دائما. متاح في عدة لغات."
 
 #: All posters Large Postcard
 msgid "We can help."
-msgstr ""
+msgstr "يمكننا المساعدة."
 
 #: Poster 1 school
 msgid "How do I register my children in school?"
-msgstr ""
+msgstr "كيف أقيد أطفالي في المدارس؟"
 
 #: Poster 2 services
 msgid "What services are available for immigrants and refugees?"
-msgstr ""
+msgstr "ما هي الخدمات المتاحة للمهاجرين واللاجئين؟"
 
 #: Poster 3 English
 msgid "Where do I learn English?"
-msgstr ""
+msgstr "أين يمكنني تعلم اللغة الإنجليزية؟"
 
 #: Poster 4job
 msgid "Where do I find a job?"
-msgstr ""
+msgstr "أين يمكنني البحث عن وظيفة؟"
 
 #: Large Postcard
 msgid "We're new to BC. How do we get started in our community?"
-msgstr ""
+msgstr "وفدنا مؤخرا إلى بريتيش كولومبيا. كيف يمكننا الاستقرار في مجتمعنا؟"
 
 #: Large Postcard
 msgid "New to BC? Download the App."
-msgstr ""
+msgstr "هل وفدت حديثا إلى بريتيش كولومبيا؟ نزّل التطبيق."
 
 #: Large Postcard
 msgid ""
@@ -58,6 +61,9 @@ msgid ""
 "Columbia find information and services to plan their settlement journey and "
 "services to get started in your new community."
 msgstr ""
+"تطبيق Arrival Advisor هو تطبيق مجاني متعدد اللغات يساعد الوافدين الجدد إلى "
+"بريتيش كولومبيا في البحث عن المعلومات والخدمات بهدف التخطيط لرحلة استقرارهم "
+"وكذا الخدمات التي تمكنهم من الاستقرار في مجتمعهم الجديد."
 
 #: Large Postcard
 msgid ""
@@ -65,20 +71,27 @@ msgid ""
 "your children in school, Arrival Advisor can help you find the right "
 "information."
 msgstr ""
+"سواء كنت تبحث عن وظيفة أو تتقدم بطلب للحصول على رعاية صحية أو ترغب في قيد "
+"أطفالك في المدارس، يمكن لتطبيق Arrival Advisor مساعدتك في البحث عن المعلومات "
+"المناسبة."
 
 #: Large Postcard Small Postcard
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
+"تطبيق Arrival Advisor متاح باللغات الإنكليزية والفرنسية والعربية والصينية ("
+"التقليدية والمبسطة) والكورية والبنجابية والتاغلوغية."
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
 msgstr ""
+"صممت ونفذت تطبيق Arrival Advisor منظمة PeaceGeeks، وهي منظمة غير هادفة للربح "
+"مقرها فانكوفر."
 
 #: Large Postcard
 msgid "by PeaceGeeks"
-msgstr ""
+msgstr "صممته PeaceGeeks"
 
 #: Small Postcard
 msgid ""
@@ -86,10 +99,14 @@ msgid ""
 "refugees in British Columbia find information and services to plan their "
 "settlement journey."
 msgstr ""
+"تطبيق Arrival Advisor هو تطبيق مجاني متعدد اللغات يساعد المهاجرين واللاجئين "
+"في بريتيتش كولومبيا في البحث عن المعلومات والخدمات بغرض التخطيط لرحلتهم نحو "
+"الاستقرار."
 
 #: Small Postcard
 msgid "New to BC? Learn more at arrivaladvisor.ca"
 msgstr ""
+"هل قدمت مؤخرا إلى بريتيش كولومبيا؟ تعرف على المزيد على موقع arrivaladvisor.ca"
 
 #: Small Postcard
 msgid ""
@@ -97,6 +114,9 @@ msgid ""
 "your children in school, Arrival Advisor can help you find the right "
 "information and services to get started in your new community."
 msgstr ""
+"سواء كنت تبحث عن وظيفة أو تقدم طلب للحصول على رعاية صحية أو ترغب في قيد "
+"أطفالك في المدارس، يمكن لتطبيق Arrival Advisor مساعدتك في البحث عن المعلومات "
+"والخدمات المناسبة بغرض الاستقرار في مجتمعك الجديد."
 
 #: Small Postcard
 msgid ""
@@ -104,3 +124,6 @@ msgid ""
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
 msgstr ""
+"صممت ونفذت تطبيق Arrival Advisor منظمة PeaceGeeks (peacegeeks.org)، وهي "
+"منظمة غير هادفة للربح مقرها فانكوفر بالتعاون مع منظمات استقرار من كافة أنحاء "
+"منطقة مترو فانكوفر."
