@@ -3,54 +3,56 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-06 09:08-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-03-10 00:52+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Punjabi <https://35.183.145.4/projects/ui-strings/marketing/"
+"pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: Large Posters All English
 msgid "New to Canada?"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ 'ਚ ਨਵੇਂ ਹੋ?"
 
 #: Large Posters All English
 msgid "Download the Arrival Advisor app."
-msgstr ""
+msgstr "Arrival Advisor ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ।"
 
 #: Large Posters All English
 msgid "Always Free. Available in multiple languages."
-msgstr ""
+msgstr "ਹਮੇਸ਼ਾ ਮੁਫ਼ਤ। ਕਈ ਭਾਸ਼ਾਵਾਂ 'ਚ ਮੌਜੂਦ ਹੈ।"
 
 #: All posters Large Postcard
 msgid "We can help."
-msgstr ""
+msgstr "ਅਸੀਂ ਮਦਦ ਕਰ ਸਕਦੇ ਹਾਂ।"
 
 #: Poster 1 school
 msgid "How do I register my children in school?"
-msgstr ""
+msgstr "ਮੈਂ ਆਪਣੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ 'ਚ ਰਜਿਸਟਰ ਕਿਵੇਂ ਕਰਾਂ?"
 
 #: Poster 2 services
 msgid "What services are available for immigrants and refugees?"
-msgstr ""
+msgstr "ਇੰਮੀਗਰੈਂਟ ਅਤੇ ਰਿਊਫਜ਼ੀਆਂ ਲਈ ਕਿਹੜੀਆਂ ਸੇਵਾਵਾਂ ਮੌਜੂਦ ਹਨ?"
 
 #: Poster 3 English
 msgid "Where do I learn English?"
-msgstr ""
+msgstr "ਮੈਂ ਅੰਗਰੇਜ਼ੀ ਕਿੱਥੇ ਸਿੱਖਾਂ?"
 
 #: Poster 4job
 msgid "Where do I find a job?"
-msgstr ""
+msgstr "ਮੈਂ ਨੌਕਰੀ ਕਿੱਥੇ ਲੱਭਾਂ?"
 
 #: Large Postcard
 msgid "We're new to BC. How do we get started in our community?"
-msgstr ""
+msgstr "ਅਸੀਂ ਬੀਸੀ 'ਚ ਨਵੇਂ ਹਾਂ। ਅਸੀਂ ਆਪਣੀ ਕਮਿਊਨਟੀ ਨਾਲ ਕਿਵੇਂ ਸ਼ੁਰੂਆਤ ਕਰੀਏ?"
 
 #: Large Postcard
 msgid "New to BC? Download the App."
-msgstr ""
+msgstr "ਬੀਸੀ 'ਚ ਨਵੇਂ ਹੋ? ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ।"
 
 #: Large Postcard
 msgid ""
@@ -58,6 +60,9 @@ msgid ""
 "Columbia find information and services to plan their settlement journey and "
 "services to get started in your new community."
 msgstr ""
+"Arrival Advisor ਮੁਫ਼ਤ, ਬਹੁ-ਭਾਸ਼ਾਈ ਐਪ ਹੈ, ਜੋ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿੱਚ ਨਵੇਂ ਆਉਣ "
+"ਵਾਲਿਆਂ ਨੂੰ ਆਪਣੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਤੇ "
+"ਸੇਵਾਵਾਂ ਵਿਉਂਤਣ ਵਾਸਤੇ ਜਾਣਕਾਰੀ ਤੇ ਸੇਵਾਵਾਂ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ।"
 
 #: Large Postcard
 msgid ""
@@ -65,20 +70,27 @@ msgid ""
 "your children in school, Arrival Advisor can help you find the right "
 "information."
 msgstr ""
+"ਭਾਵੇਂ ਤੁਸੀਂ ਨੌਕਰੀ ਲੱਭ ਰਹੇ ਹੋ, ਹੈਲਥ-ਕੇਅਰ ਲਈ ਅਪਲਾਈ ਕਰ ਰਹੇ ਹੋ ਜਾਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ "
+"ਸਕੂਲ ਵਿੱਚ ਦਾਖਲ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, Arrival Advisor  ਤੁਹਾਨੂੰ ਸਹੀ ਜਾਣਕਾਰੀ ਲੱਭਣ "
+"ਲਈ ਮਦਦ ਕਰ ਸਕਦੀ ਹੈ।"
 
 #: Large Postcard Small Postcard
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
+"Arrival Advisor ਅੰਗਰੇਜ਼ੀ, ਫਰੈਂਚ, ਅਰਬੀ, ਚੀਨੀ (ਪੁਰਾਤਨ ਤੇ ਸਧਾਰਨ), ਕੋਰੀਅਨ, ਪੰਜਾਬੀ"
+" ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਮੌਜੂਦ ਹੈ।"
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
 msgstr ""
+"Arrival Advisor ਨੂੰ ਪੀਸਗੀਕਸ (PeaceGeeks), ਵੈਨਕੂਰਵਰ ਅਧਾਰਿਤ ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰਗਠਨ "
+"ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ"
 
 #: Large Postcard
 msgid "by PeaceGeeks"
-msgstr ""
+msgstr "PeaceGeeks ਵਲੋਂ"
 
 #: Small Postcard
 msgid ""
@@ -86,10 +98,13 @@ msgid ""
 "refugees in British Columbia find information and services to plan their "
 "settlement journey."
 msgstr ""
+"Arrival Advisor ਮੁਫ਼ਤ, ਬਹੁ-ਭਾਸ਼ਾਈ ਐਪ ਹੈ, ਜੋ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿੱਚ ਇੰਮੀਗਰੈਂਟਾਂ"
+" ਅਤੇ ਰਿਊਫਜ਼ੀਆਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿਉਂਤਣ ਵਾਸਤੇ ਜਾਣਕਾਰੀ ਤੇ ਸੇਵਾਵਾਂ ਲੱ"
+"ਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ।"
 
 #: Small Postcard
 msgid "New to BC? Learn more at arrivaladvisor.ca"
-msgstr ""
+msgstr "BC ਵਿੱਚ ਨਵੇਂ ਹੋ?arrivaladvisor.ca ਬਾਰੇ ਜਾਣੋ"
 
 #: Small Postcard
 msgid ""
@@ -97,6 +112,9 @@ msgid ""
 "your children in school, Arrival Advisor can help you find the right "
 "information and services to get started in your new community."
 msgstr ""
+"ਭਾਵੇਂ ਤੁਸੀਂ ਨੌਕਰੀ ਲੱਭ ਰਹੇ ਹੋ, ਹੈਲਥ-ਕੇਅਰ ਲਈ ਅਪਲਾਈ ਕਰ ਰਹੇ ਹੋ ਜਾਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ "
+"ਸਕੂਲ ਵਿੱਚ ਦਾਖਲ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, Arrival Advisor ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਨਵੀਂ "
+"ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਸਹੀ ਜਾਣਕਾਰੀ ਅਤੇ ਸੇਵਾਵਾਂ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰ ਸਕਦੀ ਹੈ।"
 
 #: Small Postcard
 msgid ""
@@ -104,3 +122,6 @@ msgid ""
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
 msgstr ""
+"Arrival Advisor ਨੂੰ ਪੀਸਗੀਕਸ (peacegeeks.org), ਵੈਨਕੂਰਵਰ ਅਧਾਰਿਤ ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰ"
+"ਗਠਨ ਵਲੋਂ ਮੈਟਰੋ ਵੈਨਕੂਰਵਰ ਆਲੇ-ਦੁਆਲੇ ਮੌਜੂਦ ਸੈਟਲਮੈਂਟ ਸੰਗਠਨਾਂ ਨਾਲ ਮਿਲ ਕੇ ਬਣਾਇਆ ਗਿ"
+"ਆ ਸੀ।"
