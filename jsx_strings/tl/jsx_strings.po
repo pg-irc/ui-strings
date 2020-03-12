@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-01-10 10:51-0800\n"
+"POT-Creation-Date: 2020-02-20 09:42-0800\n"
 "PO-Revision-Date: 2020-02-06 18:11+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://35.183.114.155/projects/ui-strings/"
@@ -28,11 +28,11 @@ msgstr "Tungkol sa"
 msgid "About Arrival Advisor"
 msgstr "Tungkol sa Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:30
 msgid "Address"
 msgstr "Address"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
 msgstr "May naganap na error"
 
@@ -129,11 +129,11 @@ msgid "Based on your answers, we recommend these topics for you:"
 msgstr ""
 "Batay sa mga sagot, inirerekomenda namin ang mga paksang ito para sa iyo:"
 
-#: lib/components/notifications/notification_content.js:7
+#: lib/components/bookmark_button/bookmark_button_component.js:30
 msgid "Bookmark added"
 msgstr "Dinagdag ang bookmark"
 
-#: lib/components/notifications/notification_content.js:12
+#: lib/components/bookmark_button/bookmark_button_component.js:25
 msgid "Bookmark removed"
 msgstr "Tinanggal ang bookmark"
 
@@ -142,7 +142,7 @@ msgid "Bookmark the topics that you find helpful for future use."
 msgstr ""
 "Markahan ang mga paksa na sa wari mo ay makatutulong sa iyo sa susunod."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
 msgstr "Hindi mahagip ang internet"
 
@@ -150,13 +150,25 @@ msgstr "Hindi mahagip ang internet"
 msgid "Cancel"
 msgstr "Kanselahin"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "Suriin ang mga serbisyo ng lokasyon"
+
+#: lib/components/search/empty_component.js:33
+msgid "Child care"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
+msgid "City - \"Vancouver\""
+msgstr ""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
 msgstr "Lungsod, adres o postal code"
+
+#: lib/components/suggest_update/suggest_update_component.js:54
+msgid "Comment or suggest edits"
+msgstr ""
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -185,27 +197,77 @@ msgstr ""
 "Kabilang dito ang alin sa mga sagot ang napili sa kuwestiyunaryo at aling "
 "mga paksa ang naka-bookmark."
 
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+msgid "Do you work at this service or organization?"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:37
+msgid "Don't show again"
+msgstr ""
+
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
 msgstr "Tapos na"
 
-#: lib/components/explore/explore_detail_component.js:19
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
+msgid "Double check for spelling"
+msgstr ""
+
+#: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
 msgstr "GALUGARIN ANG MGA PAKSA"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+#: lib/components/email/email_component.js:22
+#, fuzzy
+#| msgid "Email:"
+msgid "Email"
+msgstr "Email:"
+
+#: lib/components/search/empty_component.js:27
+msgid "Employment"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
 msgstr "Paganahin ang mga serbisyo ng lokasyon"
 
-#: lib/components/search/search_input_component.js:71
+#: lib/components/search/empty_component.js:30
+msgid "English class"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
+msgid "Ensure your search is in English"
+msgstr ""
+
+#: lib/components/search/search_input_component.js:151
 msgid "Enter city, address, or postal code"
 msgstr "Ilagay ang lungsod, adres, o postal code"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+msgid "Enter email"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+msgid "Enter your email if you would like to receive updates about this issue."
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+msgid "Enter your job title"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+msgid "Enter your name"
+msgstr ""
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+msgid "Enter your organization name"
+msgstr ""
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
 msgstr "HUMANAP NG SERBISYONG"
 
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:78
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
 
@@ -283,6 +345,12 @@ msgstr ""
 "Kung nahihirapan ka sa paninirahan sa Canada, minumungkahi namin na makipag-"
 "ugnayan sa worker ng paninirahan."
 
+#: lib/components/partial_localization/message_component.js:22
+msgid ""
+"Information about services is currently only available in English. For "
+"support in other languages, please"
+msgstr ""
+
 #: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
@@ -309,11 +377,17 @@ msgstr "Impormasyon sa serbisyong pang-emergency (9-1-1)"
 msgid "Information on helplines"
 msgstr "Impormasyon sa mga helpline"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
+#, fuzzy
+#| msgid "Enable location services"
+msgid "Invalid location. Try:"
+msgstr "Paganahin ang mga serbisyo ng lokasyon"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
 msgstr "Matagal bago mahanap ang lokasyon mo."
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:48
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
@@ -321,6 +395,10 @@ msgstr ""
 "Matagal bago mahanap ang lokasyon mo. Ang pagtatakda sa setting ng mga "
 "Serbisyo ng Lokasyon ng device mo sa “Mataas na Katumpakan” ay nag-aayos "
 "minsan ng problemang ito."
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+msgid "Job Title"
+msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:7
 msgid "Last verified"
@@ -334,13 +412,24 @@ msgstr "Alamin lahat ang tungkol sa B.C."
 msgid "Multilingual health information services"
 msgstr "Maramihang wika na mga serbisyo sa impormasyon sa kalusugan"
 
-#: lib/components/search/search_input_component.js:20
+#: lib/components/search/search_input_component.js:30
+#: lib/components/search/search_input_component.js:153
 msgid "My Location"
 msgstr "Lokasyon Ko"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
 msgstr "Mga bookmark ko"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
+#, fuzzy
+#| msgid "My Location"
+msgid "My location"
+msgstr "Lokasyon Ko"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+msgid "Name"
+msgstr ""
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -350,16 +439,22 @@ msgstr "Mga bagong paksang nirekomenda batay sa mga sagot mo!"
 msgid "Next"
 msgstr "Susunod"
 
-#: lib/components/bookmarks/service_bookmarks_component.js:9
-#: lib/components/services/service_list_component.js:23
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
+msgid "No results found. Try to:"
+msgstr ""
+
+#: lib/components/bookmarks/service_bookmarks_component.js:10
+#: lib/components/services/service_list_component.js:44
 msgid "No services to show"
 msgstr "Walang mga serbisyong ipapakita"
 
-#: lib/components/topics/task_list_component.js:69
+#: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
 msgstr "Walang mga paksang irerekomenda"
 
-#: lib/components/topics/task_list_component.js:68
+#: lib/components/bookmarks/topic_bookmarks_component.js:11
+#: lib/components/explore/explore_detail_component.js:9
+#: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
 msgstr "Walang mga paksang ipapakita"
 
@@ -380,9 +475,9 @@ msgstr ""
 "ipakikita sa ibaba. Sa ngayon, narito ang ilang paksa na nirerekomenda namin "
 "sa lahat:"
 
-#: lib/components/maps_application_popup/maps_application_popup_component.js:9
-msgid "Open in maps"
-msgstr "Buksan sa mga mapa"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+msgid "Organization"
+msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -405,6 +500,10 @@ msgstr ""
 msgid "Police, fire and medical emergencies"
 msgstr "Pulis, sunog at medikal na mga emergency"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr ""
+
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
 msgstr "Patakaran sa Pagkapribado"
@@ -414,7 +513,7 @@ msgstr "Patakaran sa Pagkapribado"
 msgid "Provided by"
 msgstr "Inilaan ng"
 
-#: lib/components/topics/task_detail_component.js:21
+#: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
 msgstr "KAUGNAY NA MGA PAKSA"
 
@@ -426,7 +525,11 @@ msgstr "Basahin ang kaunti"
 msgid "Read more"
 msgstr "Basahin ang higit"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+msgid "Receiving Updates"
+msgstr ""
+
+#: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:35
 msgid "Recommended for you"
 msgstr "Nirerekomenda para sa iyo"
@@ -447,8 +550,16 @@ msgstr ""
 "Itago ang mahahalagang paksa upang bumuo ng iyong personal na plano sa "
 "paninirahan."
 
+#: lib/components/search/search_input_component.js:79
+msgid "Search"
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
+msgid "Search for a different keyword"
+msgstr ""
+
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:69
+#: lib/components/search/search_input_component.js:149
 msgid "Search for services"
 msgstr "Maghanap ng mga serbisyo"
 
@@ -460,7 +571,7 @@ msgstr "Tingnan ang mga rekomendasyon"
 msgid "Select your language"
 msgstr "Pumili ng wika mo"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:24
 msgid "Server error"
 msgstr "Error ng server"
 
@@ -473,7 +584,7 @@ msgstr "Bersyon ng server:"
 msgid "Services"
 msgstr "Mga Serbisyo"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:37
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
@@ -489,7 +600,7 @@ msgstr "Mga serbisyong impormasyon at referral"
 msgid "Settling in Canada is now easier."
 msgstr "Mas madali na ngayon ang paninirahan sa Canada."
 
-#: lib/components/search/infinite_hits_component.js:34
+#: lib/components/search/infinite_hits_component.js:60
 msgid "Show more services"
 msgstr "Ipakita ang higit na mga serbisyo"
 
@@ -502,9 +613,17 @@ msgstr "Laktawan"
 msgid "Start"
 msgstr "Magsimula"
 
-#: lib/components/recommended_topics/recommended_topics_component.js:21
+#: lib/components/recommended_topics/recommended_topics_component.js:22
 msgid "Start settling in B.C."
 msgstr "Simulan ang paninirahan sa B.C."
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
+msgid "Street - \"Kingsway\""
+msgstr ""
+
+#: lib/components/suggest_update/suggest_update_component.js:41
+msgid "Suggest an update"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -558,7 +677,7 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "Ito ay bersyon ng Arrival Advisor:"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
@@ -570,7 +689,8 @@ msgstr ""
 msgid "Topics"
 msgstr "Mga Paksa"
 
-#: lib/components/error_screens/ErrorScreenComponent.js:53
+#: lib/components/error_screens/ErrorScreenComponent.js:48
+#: lib/components/services/empty_service_list_component.js:31
 msgid "Try again"
 msgstr "Subukan muli"
 
@@ -578,17 +698,29 @@ msgstr "Subukan muli"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "I-UPDATE ANG REKOMENDASYON KO"
 
-#: lib/components/website/website_component.js:13
+#: lib/components/website/website_component.js:21
 msgid "Website"
 msgstr "Website"
 
-#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "Nahihirapan kaming kumonekta sa server. Subukan uli mamaya."
 
-#~ msgid "Email:"
-#~ msgstr "Email:"
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+msgid "Yes"
+msgstr ""
+
+#: lib/components/partial_localization/message_component.js:25
+msgid "call BC211."
+msgstr ""
+
+#: lib/components/search/search_input_component.js:154
+msgid "near"
+msgstr ""
+
+#~ msgid "Open in maps"
+#~ msgstr "Buksan sa mga mapa"
 
 #~ msgid "Number of new topics recommended based on your answers:"
 #~ msgstr "Bilang ng mga bagong paksang nirekomenda batay sa iyong mga sagot:"

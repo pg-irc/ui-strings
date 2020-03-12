@@ -3,58 +3,56 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-06 09:08-0700\n"
-"PO-Revision-Date: 2020-03-10 00:48+0000\n"
+"PO-Revision-Date: 2020-03-10 00:50+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: French <https://35.183.145.4/projects/ui-strings/marketing/fr/"
+"Language-Team: Korean <https://35.183.145.4/projects/ui-strings/marketing/ko/"
 ">\n"
-"Language: fr\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.8\n"
 
 #: Large Posters All English
 msgid "New to Canada?"
-msgstr "Vous venez d’arriver au Canada?"
+msgstr "캐나다가 처음인가요?"
 
 #: Large Posters All English
 msgid "Download the Arrival Advisor app."
-msgstr "Téléchargez l’application Arrival Advisor."
+msgstr "Arrival Advisor앱을 다운로드하세요."
 
 #: Large Posters All English
 msgid "Always Free. Available in multiple languages."
-msgstr "L’application est gratuite et offerte en plusieurs langues."
+msgstr "다국어를 지원하는 무료 모바일 앱입니다."
 
 #: All posters Large Postcard
 msgid "We can help."
-msgstr "Nous pouvons vous aider."
+msgstr "저희가 도와드릴게요."
 
 #: Poster 1 school
 msgid "How do I register my children in school?"
-msgstr "Comment puis-je inscrire mes enfants à l’école?"
+msgstr "아이의 학교 등록은 어떻게 하죠?"
 
 #: Poster 2 services
 msgid "What services are available for immigrants and refugees?"
-msgstr "Quels services sont-ils offerts aux immigrants et aux réfugiés?"
+msgstr "이민자와 난민을 위한 서비스가 있나요?"
 
 #: Poster 3 English
 msgid "Where do I learn English?"
-msgstr "Où puis-je apprendre l’anglais?"
+msgstr "영어는 어디서 배울 수 있나요?"
 
 #: Poster 4job
 msgid "Where do I find a job?"
-msgstr "Où puis-je trouver du travail?"
+msgstr "일자리는 어디서 구하죠?"
 
 #: Large Postcard
 msgid "We're new to BC. How do we get started in our community?"
-msgstr ""
-"Nous venons d’arriver en C.-B. Comment pouvons-nous amorcer notre "
-"établissement dans la communauté?"
+msgstr "우리는 BC주 신규 이민자입니다. 새로운 커뮤니티 정착을 위해 무엇부터 해야할까요?"
 
 #: Large Postcard
 msgid "New to BC? Download the App."
-msgstr "Vous venez d’arriver en C.-B.? Téléchargez l’application."
+msgstr "BC주가 처음인가요? 앱을 다운로드하세요."
 
 #: Large Postcard
 msgid ""
@@ -62,37 +60,30 @@ msgid ""
 "Columbia find information and services to plan their settlement journey and "
 "services to get started in your new community."
 msgstr ""
-"Arrival Advisor est une application multilingue gratuite qui fournit aux "
-"nouveaux arrivants en Colombie-Britannique des informations et des services "
-"pour préparer et amorcer leur établissement dans une nouvelle communauté."
+"Arrival Advisor는 신규 이민자가 브리티시컬럼비아주에서 정착하는 과정에 필요한 정보와 서비스 검색을 도와주는 다국어 지원 무료 "
+"모바일 앱입니다. "
 
 #: Large Postcard
 msgid ""
 "Whether you're looking for a job, applying for healthcare, or want to enroll "
 "your children in school, Arrival Advisor can help you find the right "
 "information."
-msgstr ""
-"Que vous cherchiez un emploi, présentiez une demande pour des soins de santé "
-"ou souhaitiez inscrire vos enfants à l’école, Arrival Advisor peut vous "
-"aider à trouver les bons renseignements."
+msgstr "구직부터 의료 서비스 신청과 자녀의 학교 등록까지, Arrival Advisor가 꼭 맞는 정보와 서비스 검색을 도와드립니다. "
 
-#: Large Postcard Small
+#: Large Postcard Small Postcard
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor est offerte en anglais, en français, en arabe, en chinois ("
-"traditionnel et simplifié), en coréen, en punjabi et en tagalog."
+"Arrival Advisor는 영어, 프랑스어, 아랍어, 중국어(번체와 간체), 한국어, 펀자브어 및 타갈로그어로 이용 가능합니다."
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
-msgstr ""
-"L’application Arrival Advisor est le fruit du travail de PeaceGeeks, un "
-"organisme sans but lucratif établi à Vancouver."
+msgstr " Advisor는 밴쿠버 기반의 비영리 기업인 PeaceGeeks에서 제작했습니다."
 
 #: Large Postcard
 msgid "by PeaceGeeks"
-msgstr "par PeaceGeeks"
+msgstr "PeaceGeeks 제작."
 
 #: Small Postcard
 msgid ""
@@ -100,13 +91,12 @@ msgid ""
 "refugees in British Columbia find information and services to plan their "
 "settlement journey."
 msgstr ""
-"Arrival Advisor est une application multilingue gratuite qui fournit aux "
-"immigrants et aux réfugiés en Colombie-Britannique des informations et des "
-"services pour préparer leur établissement."
+"Arrival Advisor는 신규 이민자와 난민이 브리티시컬럼비아주에서 정착하는 과정에 필요한 정보와 서비스 검색을 도와주는 다국어 "
+"지원 무료 모바일 앱입니다. "
 
 #: Small Postcard
 msgid "New to BC? Learn more at arrivaladvisor.ca"
-msgstr "Vous venez d’arriver en C.-B.? Apprenez-en plus à arrivaladvisor.ca"
+msgstr "BC주가 처음인가요? 자세한 정보는 arrivaladvisor.ca를 검색하세요."
 
 #: Small Postcard
 msgid ""
@@ -114,10 +104,8 @@ msgid ""
 "your children in school, Arrival Advisor can help you find the right "
 "information and services to get started in your new community."
 msgstr ""
-"Que vous cherchiez un emploi, présentiez une demande pour des soins de santé "
-"ou souhaitiez inscrire vos enfants à l’école, Arrival Advisor peut vous "
-"aider à trouver les bons renseignements et services pour amorcer votre "
-"établissement dans une nouvelle communauté."
+"구직부터 의료 서비스 신청과 자녀의 학교 등록까지, Arrival Advisor가 새로운 커뮤니티 정착에 꼭 필요한 정보와 서비스 검색을 "
+"도와드립니다. "
 
 #: Small Postcard
 msgid ""
@@ -125,6 +113,5 @@ msgid ""
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
 msgstr ""
-"Arrival Advisor est le fruit du travail de PeaceGeeks (peacegeeks.org), un "
-"organisme sans but lucratif établi à Vancouver, en partenariat avec des "
-"organismes d’aide à l’établissement du Grand Vancouver."
+" Arrival Advisor는 밴쿠버 기반의 비영리 기업인 PeaceGeeks(peacegeeks.org)가 광역 밴쿠버 내 정착 "
+"서비스 기관들과 협업하여 제작했습니다."
