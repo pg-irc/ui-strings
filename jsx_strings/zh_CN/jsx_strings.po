@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-02-20 09:42-0800\n"
+"POT-Creation-Date: 2020-03-13 17:03-0700\n"
 "PO-Revision-Date: 2020-03-10 00:29+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.145.4/projects/"
-"ui-strings/jsx_strings/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.145.4/projects/ui-"
+"strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,8 @@ msgstr "关于"
 msgid "About Arrival Advisor"
 msgstr "有关Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:30
+#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:37
 msgid "Address"
 msgstr "地址"
 
@@ -132,6 +133,10 @@ msgstr "无法连接互联网"
 msgid "Cancel"
 msgstr "取消"
 
+#: lib/components/feedback/feedback_options_modal_component.js:26
+msgid "Change name or other details"
+msgstr ""
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "检查获取地点服务"
@@ -148,7 +153,7 @@ msgstr "城市——“Vancouver”"
 msgid "City, address or postal code"
 msgstr "城市、地址或邮编"
 
-#: lib/components/suggest_update/suggest_update_component.js:54
+#: lib/components/feedback/feedback_component.js:54
 msgid "Comment or suggest edits"
 msgstr "意见或修改建议"
 
@@ -165,6 +170,10 @@ msgstr "创建者"
 msgid "Delete all user data"
 msgstr "删除所有用户数据"
 
+#: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
+msgid "Discard the change you suggested?"
+msgstr ""
+
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
@@ -178,7 +187,7 @@ msgstr ""
 "你确定要删除这个手机上所有用户数据吗？用户数据包括你问卷回答的答案和你收藏的"
 "主题。"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:49
 msgid "Do you work at this service or organization?"
 msgstr "您在该服务地点或机构工作吗？"
 
@@ -198,11 +207,16 @@ msgstr "请您再次检查拼写"
 msgid "EXPLORE TOPICS"
 msgstr "查询不同的主题"
 
-#: lib/components/email/email_component.js:22
+#: lib/components/email/email_component.js:19
+#: lib/components/email/email_component.js:27
 #, fuzzy
 #| msgid "Email:"
 msgid "Email"
 msgstr "电邮："
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Email me updates"
+msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -220,27 +234,27 @@ msgstr "英语课程"
 msgid "Ensure your search is in English"
 msgstr "请用英文搜索"
 
-#: lib/components/search/search_input_component.js:151
+#: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
 msgstr "请输入城市、地址或邮编"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
 msgstr "请输入电子邮件"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:45
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr "如果希望接收有关问题的更新，请输入电子邮件。"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:95
 msgid "Enter your job title"
 msgstr "请输入职位名称"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:93
 msgid "Enter your name"
 msgstr "请输入您的姓名"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
 msgstr "请输入机构名称"
 
@@ -248,7 +262,7 @@ msgstr "请输入机构名称"
 msgid "FIND A SERVICE"
 msgstr "查找服务"
 
-#: lib/components/services/service_list_component.js:78
+#: lib/components/services/service_list_component.js:77
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "就近查找服务"
 
@@ -260,7 +274,7 @@ msgstr "获得更多帮助"
 msgid "Find a settlement agency near me"
 msgstr "就近查找一家安置机构"
 
-#: lib/components/topics/task_detail_content_component.js:57
+#: lib/components/topics/task_detail_content_component.js:54
 msgid "Find related services near me"
 msgstr "就近查找相关服务"
 
@@ -269,6 +283,10 @@ msgid ""
 "Find service providers near you that can help you through your settlement "
 "journey."
 msgstr "就近查找那些可以帮您完成安家落户之旅的服务机构。"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Finish without email"
+msgstr ""
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -364,11 +382,12 @@ msgid ""
 "Services to “High Accuracy” can sometimes fix this problem."
 msgstr "获取地点超时。请将设备的获取地点服务设置为“高度精确”可解决此问题。"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:71
 msgid "Job Title"
 msgstr "职位名称"
 
-#: lib/components/content_verification/content_verification_component.js:7
+#: lib/components/content_verification/content_verification_component.js:10
+#: lib/components/content_verification/content_verification_component.js:14
 msgid "Last verified"
 msgstr "上次验证"
 
@@ -380,8 +399,8 @@ msgstr "了解所有有关B.C.省的信息"
 msgid "Multilingual health information services"
 msgstr "多语种健康信息服务"
 
-#: lib/components/search/search_input_component.js:30
-#: lib/components/search/search_input_component.js:153
+#: lib/components/search/search_input_component.js:136
+#: lib/components/search/search_input_component.js:185
 msgid "My Location"
 msgstr "我的位置"
 
@@ -395,7 +414,7 @@ msgstr "我的网页书签"
 msgid "My location"
 msgstr "我的位置"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
 msgstr "姓名"
 
@@ -412,7 +431,7 @@ msgid "No results found. Try to:"
 msgstr "无搜索结果。请尝试："
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
-#: lib/components/services/service_list_component.js:44
+#: lib/components/services/service_list_component.js:43
 msgid "No services to show"
 msgstr "无法显示所需服务"
 
@@ -442,8 +461,12 @@ msgstr ""
 "一旦您回答了一些问题，向您推荐的信息就会在下方显示。目前，我们向大家推荐了些"
 "以下主题："
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
+msgstr ""
+
+#: lib/components/feedback/feedback_options_modal_component.js:28
+msgid "Other"
 msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
@@ -460,6 +483,10 @@ msgstr ""
 "存在是为了向新移民提供一份服务与资源名录，帮助他们在大温地区安家落户，而不是"
 "以官方移民服务的身份自居。"
 
+#: lib/components/phone_numbers/phone_numbers_component.js:15
+msgid "Phone"
+msgstr ""
+
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "警察、消防和医疗急诊"
@@ -472,8 +499,8 @@ msgstr "邮编——“V5Y 1V4”"
 msgid "Privacy policy"
 msgstr "隐私政策"
 
-#: lib/components/services/service_detail_component.js:35
-#: lib/components/services/service_list_item_component.js:31
+#: lib/components/services/service_detail_component.js:33
+#: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
 msgstr "提供商"
 
@@ -489,20 +516,24 @@ msgstr "收起"
 msgid "Read more"
 msgstr "展开"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Receiving Updates"
 msgstr "接收更新"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
-#: lib/components/topics/task_detail_content_component.js:35
+#: lib/components/topics/task_detail_content_component.js:32
 msgid "Recommended for you"
 msgstr "为您推荐"
+
+#: lib/components/feedback/feedback_options_modal_component.js:27
+msgid "Remove this service"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "选择您的语言"
 
-#: lib/components/services/service_detail_component.js:23
+#: lib/components/services/service_detail_component.js:21
 msgid "SERVICE"
 msgstr "服务"
 
@@ -512,7 +543,7 @@ msgid ""
 "settlement."
 msgstr "保存重要的主题和服务，以便制定您个人的安家落户计划。"
 
-#: lib/components/search/search_input_component.js:79
+#: lib/components/search/search_input_component.js:121
 msgid "Search"
 msgstr "搜索"
 
@@ -521,7 +552,7 @@ msgid "Search for a different keyword"
 msgstr "请使用其他关键词搜索"
 
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:149
+#: lib/components/search/search_input_component.js:181
 msgid "Search for services"
 msgstr "搜索并获取服务信息"
 
@@ -560,7 +591,7 @@ msgstr "服务信息和推荐"
 msgid "Settling in Canada is now easier."
 msgstr "现在更容易在加拿大安家落户了。"
 
-#: lib/components/search/infinite_hits_component.js:60
+#: lib/components/search/infinite_hits_component.js:55
 msgid "Show more services"
 msgstr "显示更多服务"
 
@@ -581,7 +612,13 @@ msgstr "开始在B.C.省安家落户"
 msgid "Street - \"Kingsway\""
 msgstr "街名——“Kingsway”"
 
-#: lib/components/suggest_update/suggest_update_component.js:41
+#: lib/components/feedback/feedback_options_modal_component.js:21
+#, fuzzy
+#| msgid "Suggest an update"
+msgid "Suggest an Update"
+msgstr "更新建议"
+
+#: lib/components/feedback/feedback_component.js:41
 msgid "Suggest an update"
 msgstr "更新建议"
 
@@ -647,7 +684,8 @@ msgstr "请重试"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新向我推荐的信息"
 
-#: lib/components/website/website_component.js:21
+#: lib/components/website/website_component.js:18
+#: lib/components/website/website_component.js:26
 msgid "Website"
 msgstr "网站"
 
@@ -656,17 +694,25 @@ msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "无法连接服务器。请稍后再试。"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:57
 msgid "Yes"
 msgstr "是"
+
+#: lib/components/feedback/feedback_options_modal_component.js:37
+msgid ""
+"Your suggestions will be reviewed by our team before making final changes to "
+"the service information."
+msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "请电话联系BC211。"
 
-#: lib/components/search/search_input_component.js:154
-msgid "near"
-msgstr "附近"
+msgid "Need suggestions? Try:"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "附近"
 
 #~ msgid "Open in maps"
 #~ msgstr "在地图上打开"

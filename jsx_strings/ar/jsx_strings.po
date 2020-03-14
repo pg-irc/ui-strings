@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-02-20 09:42-0800\n"
+"POT-Creation-Date: 2020-03-13 17:03-0700\n"
 "PO-Revision-Date: 2020-03-06 19:39+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Arabic <https://15.223.56.214/projects/ui-strings/jsx_strings/"
@@ -28,7 +28,8 @@ msgstr "نبذة"
 msgid "About Arrival Advisor"
 msgstr "نبذة عن Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:30
+#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:37
 msgid "Address"
 msgstr "العنوان"
 
@@ -140,6 +141,10 @@ msgstr "لا يمكن الاتصال بالإنترنت"
 msgid "Cancel"
 msgstr "إلغاء"
 
+#: lib/components/feedback/feedback_options_modal_component.js:26
+msgid "Change name or other details"
+msgstr ""
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "تحقق من خدمات الموقع"
@@ -156,7 +161,7 @@ msgstr "المدينة - «Vancouver»"
 msgid "City, address or postal code"
 msgstr "المدينة أو العنوان أو الرمز البريدي"
 
-#: lib/components/suggest_update/suggest_update_component.js:54
+#: lib/components/feedback/feedback_component.js:54
 msgid "Comment or suggest edits"
 msgstr "تعليق أو اقتراح تعديلات"
 
@@ -173,6 +178,10 @@ msgstr "صممته"
 msgid "Delete all user data"
 msgstr "حذف جميع بيانات المستخدم"
 
+#: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
+msgid "Discard the change you suggested?"
+msgstr ""
+
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
@@ -186,7 +195,7 @@ msgstr ""
 "هل تريد حذف جميع بيانات المستخدم من هذا الهاتف؟ يتضمن ذلك الإجابات التي "
 "اخترتها في الاستبيان وما هي المواضيع التي وسمتها بعلامة مرجعية."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:49
 msgid "Do you work at this service or organization?"
 msgstr "هل تعمل في هذه الخدمة أو لدى هذه الجهة؟"
 
@@ -206,11 +215,16 @@ msgstr "تحقق مرة أخرى من هجاء الكلمات"
 msgid "EXPLORE TOPICS"
 msgstr "تصفح الموضوعات"
 
-#: lib/components/email/email_component.js:22
+#: lib/components/email/email_component.js:19
+#: lib/components/email/email_component.js:27
 #, fuzzy
 #| msgid "Email:"
 msgid "Email"
 msgstr "البريد الإلكتروني:"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Email me updates"
+msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -228,29 +242,29 @@ msgstr "فصل لتعلم اللغة الإنكليزية"
 msgid "Ensure your search is in English"
 msgstr "تأكد من أن بحثك باللغة الإنكليزية"
 
-#: lib/components/search/search_input_component.js:151
+#: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
 msgstr "أدخل المدينة أو العنوان أو الرمز البريدي"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
 msgstr "أدخل عنوان البريد الإلكتروني"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:45
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr ""
 "أدخل عنوان بريدك الإلكتروني لو كنت ترغب في تلقي آخر الأخبار المتعلقة بهذه "
 "المسألة."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:95
 msgid "Enter your job title"
 msgstr "أدخل مسماك الوظيفي"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:93
 msgid "Enter your name"
 msgstr "أدخل اسمك"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
 msgstr "أدخل اسم المنظمة أو الجهة التي تتبعها"
 
@@ -258,7 +272,7 @@ msgstr "أدخل اسم المنظمة أو الجهة التي تتبعها"
 msgid "FIND A SERVICE"
 msgstr "ابحث عن خدمة"
 
-#: lib/components/services/service_list_component.js:78
+#: lib/components/services/service_list_component.js:77
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "ابحث عن خدمة بالقرب منك"
 
@@ -270,7 +284,7 @@ msgstr "للمزيد من المساعدة."
 msgid "Find a settlement agency near me"
 msgstr "ابحث عن وكالة استقرار قريبة من."
 
-#: lib/components/topics/task_detail_content_component.js:57
+#: lib/components/topics/task_detail_content_component.js:54
 msgid "Find related services near me"
 msgstr "ابحث عن خدمات ذات صلة بالقرب مني"
 
@@ -280,6 +294,10 @@ msgid ""
 "journey."
 msgstr ""
 "ابحث عن مقدمي الخدمات القريبين منك الذين يمكنهم مساعدتك في رحلتك للاستقرار."
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Finish without email"
+msgstr ""
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -385,11 +403,12 @@ msgstr ""
 "لقد استغرق الأمر طويلا للعثور على موقعك. قد يساعد في بعض الأحيان ضبط خدمات "
 "موقع جهازك إلى «دقة عالية» في التغلب على هذه المشكلة."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:71
 msgid "Job Title"
 msgstr "المسمى الوظيفي"
 
-#: lib/components/content_verification/content_verification_component.js:7
+#: lib/components/content_verification/content_verification_component.js:10
+#: lib/components/content_verification/content_verification_component.js:14
 msgid "Last verified"
 msgstr "آخر تحقق"
 
@@ -401,8 +420,8 @@ msgstr "تعرف على كل شيء عن بريتيش كولومبيا."
 msgid "Multilingual health information services"
 msgstr "خدمات معلومات صحية مقدمة بعدة لغات"
 
-#: lib/components/search/search_input_component.js:30
-#: lib/components/search/search_input_component.js:153
+#: lib/components/search/search_input_component.js:136
+#: lib/components/search/search_input_component.js:185
 msgid "My Location"
 msgstr "موقعي"
 
@@ -416,7 +435,7 @@ msgstr "علاماتي المرجعية"
 msgid "My location"
 msgstr "موقعي"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
 msgstr "الاسم"
 
@@ -433,7 +452,7 @@ msgid "No results found. Try to:"
 msgstr "لم نجد أية نتائج. حاول ما يلي:"
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
-#: lib/components/services/service_list_component.js:44
+#: lib/components/services/service_list_component.js:43
 msgid "No services to show"
 msgstr "لا توجد خدمات كي نعرضها"
 
@@ -463,8 +482,12 @@ msgstr ""
 "حالما انتهيت من الإجابة عن بضع أسئلة، سوف تظهر توصياتك المخصصة تاليا. إليك "
 "في الوقت الراهن بعض الموضوعات التي نوصي بها للجميع:"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
+msgstr ""
+
+#: lib/components/feedback/feedback_options_modal_component.js:28
+msgid "Other"
 msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
@@ -482,6 +505,10 @@ msgstr ""
 "Arrival Advisor هو تقديم دليل بالخدمات والموارد للقادمين الجدد ليساعدهم في "
 "الاستقرار في مترو فانكوفر وليس الغرض منه أن يقدم خدمات هجرة ذات طابع رسمي."
 
+#: lib/components/phone_numbers/phone_numbers_component.js:15
+msgid "Phone"
+msgstr ""
+
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "الشرطة والمطافئ والطوارئ الصحية"
@@ -494,8 +521,8 @@ msgstr "الرمز البريدي - «V5Y 1V4»"
 msgid "Privacy policy"
 msgstr "سياسة الخصوصية"
 
-#: lib/components/services/service_detail_component.js:35
-#: lib/components/services/service_list_item_component.js:31
+#: lib/components/services/service_detail_component.js:33
+#: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
 msgstr "يقدمه لكم"
 
@@ -511,20 +538,24 @@ msgstr "تقليل النص"
 msgid "Read more"
 msgstr "زيادة النص"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Receiving Updates"
 msgstr "تلقي آخر الأخبار"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
-#: lib/components/topics/task_detail_content_component.js:35
+#: lib/components/topics/task_detail_content_component.js:32
 msgid "Recommended for you"
 msgstr "توصيات إليك"
+
+#: lib/components/feedback/feedback_options_modal_component.js:27
+msgid "Remove this service"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "اختر لغتك"
 
-#: lib/components/services/service_detail_component.js:23
+#: lib/components/services/service_detail_component.js:21
 msgid "SERVICE"
 msgstr "الخدمة"
 
@@ -534,7 +565,7 @@ msgid ""
 "settlement."
 msgstr "احفظ المواضيع والخدمات المهمة كي تنشئ خطتك للاستقرار المخصصة."
 
-#: lib/components/search/search_input_component.js:79
+#: lib/components/search/search_input_component.js:121
 msgid "Search"
 msgstr "البحث"
 
@@ -543,7 +574,7 @@ msgid "Search for a different keyword"
 msgstr "البحث عن كلمة مفتاحية أخرى"
 
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:149
+#: lib/components/search/search_input_component.js:181
 msgid "Search for services"
 msgstr "البحث عن الخدمات"
 
@@ -584,7 +615,7 @@ msgstr "معلومات عن الخدمات وإحالات إلى خدمات"
 msgid "Settling in Canada is now easier."
 msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي قبل."
 
-#: lib/components/search/infinite_hits_component.js:60
+#: lib/components/search/infinite_hits_component.js:55
 msgid "Show more services"
 msgstr "عرض المزيد من الخدمات"
 
@@ -605,7 +636,13 @@ msgstr "بدء الاستقرار في بريتيش كولومبيا."
 msgid "Street - \"Kingsway\""
 msgstr "الشارع - «Kingsway»"
 
-#: lib/components/suggest_update/suggest_update_component.js:41
+#: lib/components/feedback/feedback_options_modal_component.js:21
+#, fuzzy
+#| msgid "Suggest an update"
+msgid "Suggest an Update"
+msgstr "اقترح تحديث"
+
+#: lib/components/feedback/feedback_component.js:41
 msgid "Suggest an update"
 msgstr "اقترح تحديث"
 
@@ -677,7 +714,8 @@ msgstr "حاول مرة أخرى"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "تحديث توصياتي"
 
-#: lib/components/website/website_component.js:21
+#: lib/components/website/website_component.js:18
+#: lib/components/website/website_component.js:26
 msgid "Website"
 msgstr "الموقع الشبكي"
 
@@ -686,17 +724,25 @@ msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "تواجهنا صعوبات في الاتصال بالخادم. يرجى المحاولة مرة أخرى في وقت لاحق."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:57
 msgid "Yes"
 msgstr "نعم"
+
+#: lib/components/feedback/feedback_options_modal_component.js:37
+msgid ""
+"Your suggestions will be reviewed by our team before making final changes to "
+"the service information."
+msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "اتصل بخدمة BC211."
 
-#: lib/components/search/search_input_component.js:154
-msgid "near"
-msgstr "في الجوار"
+msgid "Need suggestions? Try:"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "في الجوار"
 
 #~ msgid "Open in maps"
 #~ msgstr "فتح في الخرائط"

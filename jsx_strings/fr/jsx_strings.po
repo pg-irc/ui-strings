@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-02-20 09:42-0800\n"
+"POT-Creation-Date: 2020-03-13 17:03-0700\n"
 "PO-Revision-Date: 2020-03-10 00:31+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: French <https://35.183.145.4/projects/ui-strings/jsx_strings/"
@@ -27,7 +27,8 @@ msgstr "À propos"
 msgid "About Arrival Advisor"
 msgstr "À propos d’Arrival Advisor"
 
-#: lib/components/addresses/addresses_component.js:30
+#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:37
 msgid "Address"
 msgstr "Adresse"
 
@@ -149,6 +150,10 @@ msgstr "Ne peut pas se connecter à Internet"
 msgid "Cancel"
 msgstr "ANNULER"
 
+#: lib/components/feedback/feedback_options_modal_component.js:26
+msgid "Change name or other details"
+msgstr ""
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "Vérifier le service de localisation"
@@ -165,7 +170,7 @@ msgstr "Ville – « Vancouver »"
 msgid "City, address or postal code"
 msgstr "Ville, adresse ou code postal"
 
-#: lib/components/suggest_update/suggest_update_component.js:54
+#: lib/components/feedback/feedback_component.js:54
 msgid "Comment or suggest edits"
 msgstr "Commenter ou suggérer des modifications"
 
@@ -182,6 +187,10 @@ msgstr "Créé par"
 msgid "Delete all user data"
 msgstr "Supprimer toutes les données de l’utilisateur(trice)"
 
+#: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
+msgid "Discard the change you suggested?"
+msgstr ""
+
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
@@ -196,7 +205,7 @@ msgstr ""
 "ce téléphone? Sont inclus les réponses données au questionnaire et les "
 "sujets ajoutés aux favoris."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:49
 msgid "Do you work at this service or organization?"
 msgstr "Travaillez-vous à ce service ou cette organisation?"
 
@@ -216,11 +225,16 @@ msgstr "Vérifier l’orthographe"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
-#: lib/components/email/email_component.js:22
+#: lib/components/email/email_component.js:19
+#: lib/components/email/email_component.js:27
 #, fuzzy
 #| msgid "Email:"
 msgid "Email"
 msgstr "Courriel :"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Email me updates"
+msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -238,29 +252,29 @@ msgstr "Cours d’anglais"
 msgid "Ensure your search is in English"
 msgstr "Assurez-vous que votre recherche est en anglais"
 
-#: lib/components/search/search_input_component.js:151
+#: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
 msgstr "Entrer la ville, l'adresse ou le code postal"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
 msgstr "Entrer l’adresse courriel"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:45
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr ""
 "Entrez votre adresse courriel si vous souhaitez recevoir des mises à jour au "
 "sujet de cette question."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:95
 msgid "Enter your job title"
 msgstr "Entrez le titre de votre poste"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:93
 msgid "Enter your name"
 msgstr "Entrez votre nom"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
 msgstr "Entrez le nom de votre organisation"
 
@@ -268,7 +282,7 @@ msgstr "Entrez le nom de votre organisation"
 msgid "FIND A SERVICE"
 msgstr "TROUVER UN SERVICE"
 
-#: lib/components/services/service_list_component.js:78
+#: lib/components/services/service_list_component.js:77
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "TROUVER UN SERVICE À PROXIMITÉ"
 
@@ -280,7 +294,7 @@ msgstr "POUR DU SOUTIEN ADDITIONNEL"
 msgid "Find a settlement agency near me"
 msgstr "Trouver une agence d’établissement à proximité"
 
-#: lib/components/topics/task_detail_content_component.js:57
+#: lib/components/topics/task_detail_content_component.js:54
 msgid "Find related services near me"
 msgstr "Trouver des services connexes à proximité"
 
@@ -291,6 +305,10 @@ msgid ""
 msgstr ""
 "Trouvez des services à proximité qui peuvent vous être utiles tout au long "
 "de votre parcours d’établissement."
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Finish without email"
+msgstr ""
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -400,11 +418,12 @@ msgstr ""
 "localisation de votre appareil à « haute précision » permet parfois de "
 "résoudre ce problème."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:71
 msgid "Job Title"
 msgstr "Titre du poste"
 
-#: lib/components/content_verification/content_verification_component.js:7
+#: lib/components/content_verification/content_verification_component.js:10
+#: lib/components/content_verification/content_verification_component.js:14
 msgid "Last verified"
 msgstr "Dernière vérification"
 
@@ -416,8 +435,8 @@ msgstr "Tout savoir sur la C.-B."
 msgid "Multilingual health information services"
 msgstr "Services de conseils médicaux multilingues"
 
-#: lib/components/search/search_input_component.js:30
-#: lib/components/search/search_input_component.js:153
+#: lib/components/search/search_input_component.js:136
+#: lib/components/search/search_input_component.js:185
 msgid "My Location"
 msgstr "Mon emplacement"
 
@@ -431,7 +450,7 @@ msgstr "Mes favoris"
 msgid "My location"
 msgstr "Mon emplacement"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
 msgstr "Nom"
 
@@ -448,7 +467,7 @@ msgid "No results found. Try to:"
 msgstr "Aucun résultat. Essayez de : "
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
-#: lib/components/services/service_list_component.js:44
+#: lib/components/services/service_list_component.js:43
 msgid "No services to show"
 msgstr "Pas de services à proposer"
 
@@ -479,8 +498,12 @@ msgstr ""
 "apparaîtront ci-dessous. Pour le moment, voici quelques sujets que nous "
 "recommandons à tous :"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
+msgstr ""
+
+#: lib/components/feedback/feedback_options_modal_component.js:28
+msgid "Other"
 msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
@@ -500,6 +523,10 @@ msgstr ""
 "pour faciliter l’établissement dans le Grand Vancouver. PeaceGeeks n’existe "
 "pas à titre de service d’immigration officiel."
 
+#: lib/components/phone_numbers/phone_numbers_component.js:15
+msgid "Phone"
+msgstr ""
+
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "Police, pompiers et urgences médicales"
@@ -512,8 +539,8 @@ msgstr "Code postal – « V5Y 1V4 »"
 msgid "Privacy policy"
 msgstr "Politique de confidentialité"
 
-#: lib/components/services/service_detail_component.js:35
-#: lib/components/services/service_list_item_component.js:31
+#: lib/components/services/service_detail_component.js:33
+#: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
 msgstr "Fournisseur"
 
@@ -529,20 +556,24 @@ msgstr "En lire moins"
 msgid "Read more"
 msgstr "En lire davantage"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Receiving Updates"
 msgstr "Recevoir des mises à jour"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
-#: lib/components/topics/task_detail_content_component.js:35
+#: lib/components/topics/task_detail_content_component.js:32
 msgid "Recommended for you"
 msgstr "Recommandé pour vous"
+
+#: lib/components/feedback/feedback_options_modal_component.js:27
+msgid "Remove this service"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "CHOISIR LA LANGUE"
 
-#: lib/components/services/service_detail_component.js:23
+#: lib/components/services/service_detail_component.js:21
 msgid "SERVICE"
 msgstr "SERVICE"
 
@@ -554,7 +585,7 @@ msgstr ""
 "Sauvegardez les sujets et les services importants afin de créer votre plan "
 "personnalisé d’établissement."
 
-#: lib/components/search/search_input_component.js:79
+#: lib/components/search/search_input_component.js:121
 msgid "Search"
 msgstr "Chercher"
 
@@ -563,7 +594,7 @@ msgid "Search for a different keyword"
 msgstr "Chercher un mot-clé différent"
 
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:149
+#: lib/components/search/search_input_component.js:181
 msgid "Search for services"
 msgstr "Chercher des services"
 
@@ -604,7 +635,7 @@ msgstr "Renseignements relatifs aux services et à l’orientation"
 msgid "Settling in Canada is now easier."
 msgstr "S’établir au Canada est maintenant plus facile."
 
-#: lib/components/search/infinite_hits_component.js:60
+#: lib/components/search/infinite_hits_component.js:55
 msgid "Show more services"
 msgstr "Voir davantage de services"
 
@@ -625,7 +656,13 @@ msgstr "Amorcer l’établissement en C.-B."
 msgid "Street - \"Kingsway\""
 msgstr "Rue – « Kingsway »"
 
-#: lib/components/suggest_update/suggest_update_component.js:41
+#: lib/components/feedback/feedback_options_modal_component.js:21
+#, fuzzy
+#| msgid "Suggest an update"
+msgid "Suggest an Update"
+msgstr "Suggérer une mise à jour"
+
+#: lib/components/feedback/feedback_component.js:41
 msgid "Suggest an update"
 msgstr "Suggérer une mise à jour"
 
@@ -703,7 +740,8 @@ msgstr "Essayer de nouveau"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
-#: lib/components/website/website_component.js:21
+#: lib/components/website/website_component.js:18
+#: lib/components/website/website_component.js:26
 msgid "Website"
 msgstr "Site Web"
 
@@ -714,17 +752,25 @@ msgstr ""
 "Nous éprouvons de la difficulté à nous connecter au serveur. Veuillez "
 "essayer de nouveau plus tard."
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:57
 msgid "Yes"
 msgstr "Oui"
+
+#: lib/components/feedback/feedback_options_modal_component.js:37
+msgid ""
+"Your suggestions will be reviewed by our team before making final changes to "
+"the service information."
+msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "Appeler BC211."
 
-#: lib/components/search/search_input_component.js:154
-msgid "near"
-msgstr "près"
+msgid "Need suggestions? Try:"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "près"
 
 #~ msgid "Open in maps"
 #~ msgstr "Voir sur une carte"
