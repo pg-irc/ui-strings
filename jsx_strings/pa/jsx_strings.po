@@ -209,12 +209,9 @@ msgstr "ਸਪੈਲਿੰਗਾਂ ਲਈ ਦੋ ਵਾਰ ਜਾਂਚੋ"
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "ਈਮੇਲ:"
+msgstr "ਈਮੇਲ"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"

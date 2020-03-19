@@ -216,12 +216,9 @@ msgstr "스펠링 재확인"
 msgid "EXPLORE TOPICS"
 msgstr "주제 탐색하기"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "이메일:"
+msgstr "이메일"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"

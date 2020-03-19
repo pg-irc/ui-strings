@@ -206,12 +206,9 @@ msgstr "請您再次檢查拼寫"
 msgid "EXPLORE TOPICS"
 msgstr "探索主題"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "電子郵件:"
+msgstr "電子郵件"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
