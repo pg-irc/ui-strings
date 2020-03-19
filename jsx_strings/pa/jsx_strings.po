@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
-"POT-Creation-Date: 2020-02-20 09:42-0800\n"
+"POT-Creation-Date: 2020-03-13 17:03-0700\n"
 "PO-Revision-Date: 2020-03-10 00:40+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://35.183.145.4/projects/ui-strings/jsx_strings/"
@@ -27,7 +27,8 @@ msgstr "ਇਸ ਬਾਰੇ"
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor ਬਾਰੇ"
 
-#: lib/components/addresses/addresses_component.js:30
+#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:37
 msgid "Address"
 msgstr "ਪਤਾ"
 
@@ -134,6 +135,10 @@ msgstr "ਇੰਟਰਨੈੱਟ ਲਈ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜ�
 msgid "Cancel"
 msgstr "ਰੱਦ ਕਰੋ"
 
+#: lib/components/feedback/feedback_options_modal_component.js:26
+msgid "Change name or other details"
+msgstr ""
+
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
 msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
@@ -150,7 +155,7 @@ msgstr "ਸ਼ਹਿਰ - \"Vancouver\""
 msgid "City, address or postal code"
 msgstr "ਸ਼ਹਿਰ, ਪਤਾ ਜਾਂ ਡਾਕ ਕੋਡ"
 
-#: lib/components/suggest_update/suggest_update_component.js:54
+#: lib/components/feedback/feedback_component.js:54
 msgid "Comment or suggest edits"
 msgstr "ਟਿੱਪਣੀ ਜਾਂ ਸੋਧ ਲਈ ਸੁਝਾਅ"
 
@@ -167,6 +172,10 @@ msgstr "ਬਣਾਇਆ"
 msgid "Delete all user data"
 msgstr "ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਓ"
 
+#: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
+msgid "Discard the change you suggested?"
+msgstr ""
+
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
@@ -180,7 +189,7 @@ msgstr ""
 "ਕੀ ਤੁਸੀਂ ਇਸ ਫ਼ੋਨ ਤੋਂ ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਵਿੱਚ ਸਵਾਲਨਾਮੇ ਵਿੱਚ ਚੁਣੇ ਜਵਾਬ ਅਤੇ "
 "ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਗਏ ਵਿਸ਼ੇ ਸ਼ਾਮਲ ਹਨ।"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:44
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:49
 msgid "Do you work at this service or organization?"
 msgstr "ਕੀ ਤੁਸੀਂ ਇਸ ਸੇਵਾ ਜਾਂ ਸੰਗਠਨ ਲਈ ਕੰਮ ਕਰਦੇ ਹੋ?"
 
@@ -200,11 +209,14 @@ msgstr "ਸਪੈਲਿੰਗਾਂ ਲਈ ਦੋ ਵਾਰ ਜਾਂਚੋ"
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
-#: lib/components/email/email_component.js:22
-#, fuzzy
-#| msgid "Email:"
+#: lib/components/email/email_component.js:19
+#: lib/components/email/email_component.js:27
 msgid "Email"
-msgstr "ਈਮੇਲ:"
+msgstr "ਈਮੇਲ"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Email me updates"
+msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -222,27 +234,27 @@ msgstr "ਅੰਗਰੇਜ਼ੀ ਕਲਾਸ"
 msgid "Ensure your search is in English"
 msgstr "ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡੀ ਖੋਜ ਅੰਗਰੇਜ਼ੀ 'ਚ ਹੈ"
 
-#: lib/components/search/search_input_component.js:151
+#: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
 msgstr "ਸ਼ਹਿਰ, ਪਤਾ ਜਾਂ ਡਾਕ ਕੋਡ ਦਿਓ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:87
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
 msgstr "ਈਮੇਲ ਦਿਓ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:45
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr "ਜੇ ਤੁਸੀਂ ਇਸ ਮਸਲੇ ਬਾਰੇ ਅੱਪਡੇਟ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੋ ਤਾਂ ਆਪਣਾ ਈਮੇਲ ਦਿਓ।"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:90
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:95
 msgid "Enter your job title"
 msgstr "ਆਪਣੀ ਨੌਕਰੀ ਦਾ ਅਹੁਦਾ ਦਿਓ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:88
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:93
 msgid "Enter your name"
 msgstr "ਆਪਣਾ ਨਾਂ ਦਿਓ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:89
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
 msgstr "ਆਪਣੇ ਸੰਗਠਨ ਦਾ ਨਾਂ ਦਿਓ\n"
 
@@ -250,7 +262,7 @@ msgstr "ਆਪਣੇ ਸੰਗਠਨ ਦਾ ਨਾਂ ਦਿਓ\n"
 msgid "FIND A SERVICE"
 msgstr "ਸੇਵਾ ਲੱਭੋ"
 
-#: lib/components/services/service_list_component.js:78
+#: lib/components/services/service_list_component.js:77
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
 
@@ -262,7 +274,7 @@ msgstr "ਹੋਰ ਸਹਾਇਤਾ ਲਈ"
 msgid "Find a settlement agency near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੈਟਲਮੈਂਟ ਏਜੰਸੀ ਲੱਭੋ"
 
-#: lib/components/topics/task_detail_content_component.js:57
+#: lib/components/topics/task_detail_content_component.js:54
 msgid "Find related services near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੰਬੰਧਿਤ ਸੇਵਾਵਾਂ ਲੱਭੋ"
 
@@ -272,6 +284,10 @@ msgid ""
 "journey."
 msgstr ""
 "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
+
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
+msgid "Finish without email"
+msgstr ""
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -327,9 +343,7 @@ msgstr ""
 msgid ""
 "Information about services is currently only available in English. For "
 "support in other languages, please"
-msgstr ""
-"ਸੇਵਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਾਲੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਹੀ ਮੌਜੂਦ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ "
-"ਕਰਕੇ"
+msgstr "ਸੇਵਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਾਲੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਹੀ ਮੌਜੂਦ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ ਕਰਕੇ"
 
 #: lib/components/about/about_component.js:51
 msgid ""
@@ -374,11 +388,12 @@ msgstr ""
 "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੱਭਣ ਲਈ ਬਹੁਤ ਵੱਧ ਸਮਾਂ ਲੱਗਾ। ਕਈ ਵਾਰ ਇਹ ਸਮੱਸਿਆ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀਆਂ ਟਿਕਾਣਾ "
 "ਸੇਵਾਵਾਂ ਦੀਆਂ ਸੈਟਿੰਗਾਂ \"ਉੱਚ ਸਟੀਕਤਾ\" ਨਾਲ ਠੀਕ ਹੋ ਸਕਦੀ ਹੈ।"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:66
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:71
 msgid "Job Title"
 msgstr "ਕੰਮ ਦਾ ਅਹੁਦਾ"
 
-#: lib/components/content_verification/content_verification_component.js:7
+#: lib/components/content_verification/content_verification_component.js:10
+#: lib/components/content_verification/content_verification_component.js:14
 msgid "Last verified"
 msgstr "ਆਖਰੀ ਵਾਰ ਤਸਦੀਕ ਕੀਤਾ"
 
@@ -390,8 +405,8 @@ msgstr "ਬੀ.ਸੀ. ਬਾਰੇ ਸਭ ਜਾਣੋ"
 msgid "Multilingual health information services"
 msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵਾਵਾਂ"
 
-#: lib/components/search/search_input_component.js:30
-#: lib/components/search/search_input_component.js:153
+#: lib/components/search/search_input_component.js:136
+#: lib/components/search/search_input_component.js:185
 msgid "My Location"
 msgstr "ਮੇਰਾ ਟਿਕਾਣਾ"
 
@@ -405,7 +420,7 @@ msgstr "ਮੇਰੇ ਬੁੱਕਮਾਰਕ"
 msgid "My location"
 msgstr "ਮੇਰਾ ਟਿਕਾਣਾ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:62
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
 msgstr "ਨਾਂ"
 
@@ -422,7 +437,7 @@ msgid "No results found. Try to:"
 msgstr "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਲੱਭਿਆ। ਇਹ ਵਰਤੋਂ:"
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
-#: lib/components/services/service_list_component.js:44
+#: lib/components/services/service_list_component.js:43
 msgid "No services to show"
 msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਸੇਵਾਵਾਂ ਨਹੀਂ"
 
@@ -452,8 +467,12 @@ msgstr ""
 "ਜਦੋਂ ਤੁਸੀਂ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਦਿੱਤੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਹੇਠਾਂ ਦਿਖਾਈਆਂ ਜਾਣਗੀਆਂ। ਹੁਣ ਇਹ ਕੁਝ "
 "ਵਿਸ਼ੇ ਹਨ, ਜੋ ਕਿ ਅਸੀਂ ਹਰੇਕ ਲਈ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:64
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
+msgstr ""
+
+#: lib/components/feedback/feedback_options_modal_component.js:28
+msgid "Other"
 msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:50
@@ -471,6 +490,10 @@ msgstr ""
 "ਨੂੰ ਮੈਟਰੋ ਵੈਨਕੂਵਰ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਲਈ ਸਹਾਇਤਾ ਵਾਸਤੇ ਸੇਵਾਵਾਂ ਤੇ ਸਰੋਤਾਂ ਦੀ ਡਾਇਰੈਕਟਰੀ ਦੇਣ ਲਈ ਮੌਜੂਦ ਹੈ "
 "ਅਤੇ ਅਧਿਕਾਰਿਤ ਇੰਮੀਗਰੇਸ਼ਨ ਸੇਵਾ ਸਮਰੱਥਾ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"
 
+#: lib/components/phone_numbers/phone_numbers_component.js:15
+msgid "Phone"
+msgstr ""
+
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
 msgstr "ਪੁਲਸ, ਅੱਗ ਬਝਾਉਣ ਅਤੇ ਮੈਡੀਕਲ ਐਮਰਜੈਂਸੀ"
@@ -483,8 +506,8 @@ msgstr "ਪੋਸਟਲ ਕੋਡ - \"V5Y 1V4\""
 msgid "Privacy policy"
 msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
-#: lib/components/services/service_detail_component.js:35
-#: lib/components/services/service_list_item_component.js:31
+#: lib/components/services/service_detail_component.js:33
+#: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
 msgstr "ਇਸ ਵਲੋਂ ਪੇਸ਼ਕਸ਼"
 
@@ -500,20 +523,24 @@ msgstr "ਘੱਟ ਪੜ੍ਹੋ"
 msgid "Read more"
 msgstr "ਵੱਧ ਪੜ੍ਹੋ"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:35
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Receiving Updates"
 msgstr "ਅੱਪਡੇਟ ਲਏ ਜਾ ਰਹੇ ਹਨ"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
-#: lib/components/topics/task_detail_content_component.js:35
+#: lib/components/topics/task_detail_content_component.js:32
 msgid "Recommended for you"
 msgstr "ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਹਨ"
+
+#: lib/components/feedback/feedback_options_modal_component.js:27
+msgid "Remove this service"
+msgstr ""
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
-#: lib/components/services/service_detail_component.js:23
+#: lib/components/services/service_detail_component.js:21
 msgid "SERVICE"
 msgstr "ਸੇਵਾਵਾਂ"
 
@@ -523,7 +550,7 @@ msgid ""
 "settlement."
 msgstr "ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਸੰਭਾਲੋ।"
 
-#: lib/components/search/search_input_component.js:79
+#: lib/components/search/search_input_component.js:121
 msgid "Search"
 msgstr "ਖੋਜੋ"
 
@@ -532,7 +559,7 @@ msgid "Search for a different keyword"
 msgstr "ਵੱਖਰੇ ਸ਼ਬਦ ਨਾਲ ਖੋਜੋ"
 
 #: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:149
+#: lib/components/search/search_input_component.js:181
 msgid "Search for services"
 msgstr "ਸੇਵਾਵਾਂ ਖੋਜੋ"
 
@@ -571,7 +598,7 @@ msgstr "ਸੇਵਾਵਾਂ ਜਾਣਕਾਰੀ ਅਤੇ ਹਵਾਲੇ"
 msgid "Settling in Canada is now easier."
 msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋਇਆ।"
 
-#: lib/components/search/infinite_hits_component.js:60
+#: lib/components/search/infinite_hits_component.js:55
 msgid "Show more services"
 msgstr "ਹੋਰ ਸੇਵਾਵਾਂ ਵੇਖੋ"
 
@@ -592,7 +619,13 @@ msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕ�
 msgid "Street - \"Kingsway\""
 msgstr "ਸੜਕ - \"Kingsway\""
 
-#: lib/components/suggest_update/suggest_update_component.js:41
+#: lib/components/feedback/feedback_options_modal_component.js:21
+#, fuzzy
+#| msgid "Suggest an update"
+msgid "Suggest an Update"
+msgstr "ਅੱਪਡੇਟ ਲਈ ਸੁਝਾਅ ਦਿਓ"
+
+#: lib/components/feedback/feedback_component.js:41
 msgid "Suggest an update"
 msgstr "ਅੱਪਡੇਟ ਲਈ ਸੁਝਾਅ ਦਿਓ"
 
@@ -662,7 +695,8 @@ msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ"
 
-#: lib/components/website/website_component.js:21
+#: lib/components/website/website_component.js:18
+#: lib/components/website/website_component.js:26
 msgid "Website"
 msgstr "ਵੈੱਬਸਾਈਟ"
 
@@ -671,17 +705,25 @@ msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
 msgstr "ਸਾਨੂੰ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਔਖਿਆਈ ਹੋ ਰਹੀ ਹੈ। ਬਾਅਦ 'ਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
-#: lib/components/receive_updates_modal/receive_updates_modal_component.js:52
+#: lib/components/receive_updates_modal/receive_updates_modal_component.js:57
 msgid "Yes"
 msgstr "ਹਾਂ"
+
+#: lib/components/feedback/feedback_options_modal_component.js:37
+msgid ""
+"Your suggestions will be reviewed by our team before making final changes to "
+"the service information."
+msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "BC211 ਨੂੰ ਕਾਲ ਕਰੋ"
 
-#: lib/components/search/search_input_component.js:154
-msgid "near"
-msgstr "ਨੇੜੇ"
+msgid "Need suggestions? Try:"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "ਨੇੜੇ"
 
 #~ msgid "Open in maps"
 #~ msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
