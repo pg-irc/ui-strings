@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-10 00:30+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://35.183.145.4/projects/ui-"
-"strings/jsx_strings/zh_Hant/>\n"
+"PO-Revision-Date: 2020-03-19 22:24+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Traditional) <https://35.183.182.132/projects/"
+"ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -217,7 +217,7 @@ msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr "僱傭情況"
+msgstr "就業"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
