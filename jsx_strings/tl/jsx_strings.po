@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-02-06 18:11+0000\n"
+"PO-Revision-Date: 2020-03-19 22:24+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.114.155/projects/ui-strings/"
+"Language-Team: Tagalog <https://35.183.182.132/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr ""
+msgstr "Pagtatrabaho"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
