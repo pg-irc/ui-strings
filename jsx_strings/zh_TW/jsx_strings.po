@@ -206,6 +206,7 @@ msgstr "請您再次檢查拼寫"
 msgid "EXPLORE TOPICS"
 msgstr "探索主題"
 
+#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
 msgid "Email"
 msgstr "電子郵件"

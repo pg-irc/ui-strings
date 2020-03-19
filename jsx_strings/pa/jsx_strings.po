@@ -209,6 +209,7 @@ msgstr "ਸਪੈਲਿੰਗਾਂ ਲਈ ਦੋ ਵਾਰ ਜਾਂਚੋ"
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
+#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
 msgid "Email"
 msgstr "ਈਮੇਲ"

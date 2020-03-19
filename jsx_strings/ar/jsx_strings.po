@@ -215,6 +215,7 @@ msgstr "تحقق مرة أخرى من هجاء الكلمات"
 msgid "EXPLORE TOPICS"
 msgstr "تصفح الموضوعات"
 
+#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
 msgid "Email"
 msgstr "البريد الإلكتروني"

@@ -225,6 +225,7 @@ msgstr "Vérifier l’orthographe"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
+#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
 msgid "Email"
 msgstr "Courriel"

@@ -226,6 +226,7 @@ msgstr ""
 msgid "EXPLORE TOPICS"
 msgstr "GALUGARIN ANG MGA PAKSA"
 
+#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
 msgid "Email"
 msgstr "Email"
