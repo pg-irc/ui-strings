@@ -207,12 +207,9 @@ msgstr "请您再次检查拼写"
 msgid "EXPLORE TOPICS"
 msgstr "查询不同的主题"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "电邮："
+msgstr "电邮"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"

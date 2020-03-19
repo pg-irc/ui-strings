@@ -226,12 +226,9 @@ msgstr ""
 msgid "EXPLORE TOPICS"
 msgstr "GALUGARIN ANG MGA PAKSA"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "Email:"
+msgstr "Email"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"

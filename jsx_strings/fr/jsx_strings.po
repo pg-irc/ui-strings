@@ -225,12 +225,9 @@ msgstr "Vérifier l’orthographe"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
-#: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "Courriel :"
+msgstr "Courriel"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
