@@ -733,6 +733,23 @@ msgstr "BC211로 전화 걸기"
 msgid "Need suggestions? Try:"
 msgstr ""
 
+msgid "COVID-19 information"
+msgstr ""
+
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods."
+msgstr ""
+
+msgid "Please check service providers’ websites for details."
+msgstr ""
+
+msgid "Questions about COVID-19?"
+msgstr ""
+
+msgid "Get the latest information from BC Centre for Disease Control."
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "근처"
 
