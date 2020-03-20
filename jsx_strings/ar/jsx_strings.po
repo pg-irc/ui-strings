@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-19 22:24+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://35.183.182.132/projects/ui-strings/"
-"jsx_strings/ar/>\n"
+"PO-Revision-Date: 2020-03-20 18:58+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Arabic <https://35.183.9.226/projects/ui-strings/jsx_strings/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -462,7 +462,7 @@ msgstr "لا توجد موضوعات نوصي بها"
 #: lib/components/explore/explore_detail_component.js:9
 #: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
-msgstr "لا توجد موضوعات كي نعرضها"
+msgstr "لا توجد مواضيع كي نعرضها"
 
 #: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
@@ -522,7 +522,7 @@ msgstr "سياسة الخصوصية"
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
-msgstr "يقدمه لكم"
+msgstr "يقدمها لكم"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -734,7 +734,7 @@ msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr "اتصل بخدمة BC211."
+msgstr "الاتصال بخدمة BC211."
 
 msgid "Need suggestions? Try:"
 msgstr ""
