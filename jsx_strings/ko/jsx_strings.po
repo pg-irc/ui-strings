@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-10 00:33+0000\n"
+"PO-Revision-Date: 2020-03-20 19:52+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Korean <https://35.183.145.4/projects/ui-strings/jsx_strings/"
+"Language-Team: Korean <https://35.183.9.226/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -239,7 +239,7 @@ msgstr "영어 수업"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr "검색어가 영어인지 확인하시오"
+msgstr "검색어가 영어인지 확인하세요"
 
 #: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
@@ -456,7 +456,7 @@ msgstr "추천할 주제가 없습니다"
 #: lib/components/explore/explore_detail_component.js:9
 #: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
-msgstr "보여드릴 주제가 없습니다"
+msgstr "표시할 주제가 없습니다."
 
 #: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
@@ -563,7 +563,7 @@ msgstr "검색 "
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr "다른 키워드로 검색 하기"
+msgstr "다른 키워드로 검색하기"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:181
