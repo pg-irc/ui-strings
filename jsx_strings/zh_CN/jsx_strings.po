@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-19 22:24+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.182.132/projects/ui-"
-"strings/jsx_strings/zh_Hans/>\n"
+"PO-Revision-Date: 2020-03-20 19:49+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.9.226/projects/"
+"ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -404,7 +404,7 @@ msgstr "我的位置"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
-msgstr "我的网页书签"
+msgstr "我的书签"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
 #, fuzzy
@@ -704,7 +704,7 @@ msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr "请电话联系BC211。"
+msgstr "电话联系BC211。"
 
 msgid "Need suggestions? Try:"
 msgstr ""
