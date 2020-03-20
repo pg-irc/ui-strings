@@ -75,13 +75,13 @@ msgstr ""
 "أطفالك في المدارس، يمكن لتطبيق Arrival Advisor مساعدتك في البحث عن المعلومات "
 "المناسبة."
 
-#: Large Postcard Small Postcard
+#: Large Postcard Small
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
-"تطبيق Arrival Advisor متاح باللغات الإنكليزية والفرنسية والعربية والصينية ("
-"التقليدية والمبسطة) والكورية والبنجابية والتاغلوغية."
+"تطبيق Arrival Advisor متاح باللغات الإنكليزية والفرنسية والعربية والصينية "
+"(التقليدية والمبسطة) والكورية والبنجابية والتاغلوغية."
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
@@ -127,3 +127,7 @@ msgstr ""
 "صممت ونفذت تطبيق Arrival Advisor منظمة PeaceGeeks (peacegeeks.org)، وهي "
 "منظمة غير هادفة للربح مقرها فانكوفر بالتعاون مع منظمات استقرار من كافة أنحاء "
 "منطقة مترو فانكوفر."
+
+#: Brochure
+msgid "Funded by:"
+msgstr ""
