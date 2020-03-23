@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-10 00:40+0000\n"
+"PO-Revision-Date: 2020-03-23 22:52+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Punjabi <https://35.183.145.4/projects/ui-strings/jsx_strings/"
-"pa/>\n"
+"Language-Team: Punjabi <https://99.79.196.197/projects/ui-strings/"
+"jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -137,7 +137,7 @@ msgstr "ਰੱਦ ਕਰੋ"
 
 #: lib/components/feedback/feedback_options_modal_component.js:26
 msgid "Change name or other details"
-msgstr ""
+msgstr "ਨਾਂ ਜਾਂ ਹੋਰ ਵੇਰਵੇ ਬਦਲੋ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
@@ -174,7 +174,7 @@ msgstr "ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਓ"
 
 #: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
 msgid "Discard the change you suggested?"
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਵਲੋਂ ਸੁਝਾਈ ਤਬਦੀਲੀ ਖਾਰਜ ਕਰਨੀ ਹੈ?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
@@ -216,7 +216,7 @@ msgstr "ਈਮੇਲ"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
-msgstr ""
+msgstr "ਅੱਪਡੇਟ ਮੈਨੂੰ ਈਮੇਲ ਕਰੋ"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -287,7 +287,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
-msgstr ""
+msgstr "ਬਿਨਾਂ ਈਮੇਲ ਦੇ ਪੂਰਾ ਕਰੋ"
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -473,7 +473,7 @@ msgstr ""
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
-msgstr ""
+msgstr "ਹੋਰ"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -492,7 +492,7 @@ msgstr ""
 
 #: lib/components/phone_numbers/phone_numbers_component.js:15
 msgid "Phone"
-msgstr ""
+msgstr "ਫ਼ੋਨ"
 
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
@@ -534,7 +534,7 @@ msgstr "ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਹਨ"
 
 #: lib/components/feedback/feedback_options_modal_component.js:27
 msgid "Remove this service"
-msgstr ""
+msgstr "ਇਹ ਸੇਵਾ ਹਟਾਓ"
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
@@ -714,30 +714,34 @@ msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
 msgstr ""
+"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ "
+"ਪੜਤਾਲਿਆ ਜਾਵੇਗਾ।"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "BC211 ਨੂੰ ਕਾਲ ਕਰੋ"
 
 msgid "Need suggestions? Try:"
-msgstr ""
+msgstr "ਸੁਝਾਅ ਚਾਹੀਦੇ ਹਨ? ਕੋਸ਼ਿਸ਼ ਕਰੋ:"
 
 msgid "COVID-19 information"
-msgstr ""
+msgstr "COVID-19 ਜਾਣਕਾਰੀ"
 
 msgid ""
 "Many of our listed services are transitioning to alternate service delivery "
 "methods."
 msgstr ""
+"ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ "
+"ਕਰ ਰਹੀਆਂ ਹਨ।"
 
 msgid "Please check service providers’ websites for details."
-msgstr ""
+msgstr "ਵੇਰਵਿਆਂ ਲਈ ਸੇਵਾ ਪੂਰਕਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ।"
 
 msgid "Questions about COVID-19?"
-msgstr ""
+msgstr "COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?"
 
 msgid "Get the latest information from BC Centre for Disease Control."
-msgstr ""
+msgstr "ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
 
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"
