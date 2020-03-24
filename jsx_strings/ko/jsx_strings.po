@@ -733,22 +733,21 @@ msgstr "BC211로 전화 걸기"
 msgid "Need suggestions? Try:"
 msgstr "제안이 필요하신가요? 제안받기:"
 
+#: lib/components/recommended_topics/call_to_action.js:31
 msgid "COVID-19 information"
 msgstr "코로나-19 정보"
 
-msgid ""
-"Many of our listed services are transitioning to alternate service delivery "
-"methods."
-msgstr "많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다."
+#: lib/components/recommended_topics/call_to_action.js:36
+msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgstr ""
+"많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다."
+"자세한 내용은 서비스 제공자의 웹사이트를 확인해 주세요. "
 
-msgid "Please check service providers’ websites for details."
-msgstr "자세한 내용은 서비스 제공자의 웹사이트를 확인해 주세요. "
-
-msgid "Questions about COVID-19?"
-msgstr "코로나-19 관련 질문이 있으세요?"
-
-msgid "Get the latest information from BC Centre for Disease Control."
-msgstr "BC주 질병관리본부의 최신 소식을 받으세요."
+#: lib/components/recommended_topics/call_to_action.js:43
+msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+"코로나-19 관련 질문이 있으세요?"
+"<0> </0><1>BC주 질병관리본부의 <2> </2><3/></1>최신 소식을 받으세요.<1> </1><2/></0>"
 
 #~ msgid "near"
 #~ msgstr "근처"
