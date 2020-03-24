@@ -724,24 +724,22 @@ msgstr "BC211 ਨੂੰ ਕਾਲ ਕਰੋ"
 msgid "Need suggestions? Try:"
 msgstr "ਸੁਝਾਅ ਚਾਹੀਦੇ ਹਨ? ਕੋਸ਼ਿਸ਼ ਕਰੋ:"
 
+#: lib/components/recommended_topics/call_to_action.js:31
 msgid "COVID-19 information"
 msgstr "COVID-19 ਜਾਣਕਾਰੀ"
 
-msgid ""
-"Many of our listed services are transitioning to alternate service delivery "
-"methods."
+#: lib/components/recommended_topics/call_to_action.js:36
+msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
 msgstr ""
 "ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ "
 "ਕਰ ਰਹੀਆਂ ਹਨ।"
+"ਵੇਰਵਿਆਂ ਲਈ ਸੇਵਾ ਪੂਰਕਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ।"
 
-msgid "Please check service providers’ websites for details."
-msgstr "ਵੇਰਵਿਆਂ ਲਈ ਸੇਵਾ ਪੂਰਕਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ।"
-
-msgid "Questions about COVID-19?"
-msgstr "COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?"
-
-msgid "Get the latest information from BC Centre for Disease Control."
-msgstr "ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+#: lib/components/recommended_topics/call_to_action.js:43
+msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?"
+"<0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
 
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"
