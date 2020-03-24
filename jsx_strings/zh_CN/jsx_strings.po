@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-19 22:24+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.182.132/projects/"
+"PO-Revision-Date: 2020-03-23 20:10+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://99.79.196.197/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -135,7 +135,7 @@ msgstr "取消"
 
 #: lib/components/feedback/feedback_options_modal_component.js:26
 msgid "Change name or other details"
-msgstr ""
+msgstr "更改姓名或其他信息"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
@@ -172,7 +172,7 @@ msgstr "删除所有用户数据"
 
 #: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
 msgid "Discard the change you suggested?"
-msgstr ""
+msgstr "放弃您建议的改变？"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
@@ -214,7 +214,7 @@ msgstr "电邮"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
-msgstr ""
+msgstr "回复到我的电子邮件"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -284,7 +284,7 @@ msgstr "就近查找那些可以帮您完成安家落户之旅的服务机构。
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
-msgstr ""
+msgstr "不加电子邮件完成"
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -404,7 +404,7 @@ msgstr "我的位置"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
-msgstr "我的网页书签"
+msgstr "我的书签"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
 #, fuzzy
@@ -465,7 +465,7 @@ msgstr ""
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -483,7 +483,7 @@ msgstr ""
 
 #: lib/components/phone_numbers/phone_numbers_component.js:15
 msgid "Phone"
-msgstr ""
+msgstr "电话"
 
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
@@ -525,7 +525,7 @@ msgstr "为您推荐"
 
 #: lib/components/feedback/feedback_options_modal_component.js:27
 msgid "Remove this service"
-msgstr ""
+msgstr "删除此服务"
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
@@ -700,14 +700,31 @@ msgstr "是"
 msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
-msgstr ""
+msgstr "在更改服务信息之前，我们的团队会先审核您的建议。"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr "请电话联系BC211。"
+msgstr "电话联系BC211。"
 
 msgid "Need suggestions? Try:"
-msgstr ""
+msgstr "需要建议吗？尝试："
+
+msgid "COVID-19 information"
+msgstr "COVID-19信息"
+
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods."
+msgstr "我们列出的许多服务正在过渡到其他输送方式。"
+
+msgid "Please check service providers’ websites for details."
+msgstr "请查看服务提供商的网站以了解详细信息。"
+
+msgid "Questions about COVID-19?"
+msgstr "对COVID-19有疑问吗？"
+
+msgid "Get the latest information from BC Centre for Disease Control."
+msgstr "从卑诗省疾病控制中心获取最新信息。"
 
 #~ msgid "near"
 #~ msgstr "附近"

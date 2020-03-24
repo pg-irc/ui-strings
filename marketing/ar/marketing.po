@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-06 09:08-0700\n"
-"PO-Revision-Date: 2020-03-10 00:44+0000\n"
+"PO-Revision-Date: 2020-03-23 19:36+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Arabic <https://35.183.145.4/projects/ui-strings/marketing/ar/"
-">\n"
+"Language-Team: Arabic <https://99.79.196.197/projects/ui-strings/marketing/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -75,13 +75,13 @@ msgstr ""
 "أطفالك في المدارس، يمكن لتطبيق Arrival Advisor مساعدتك في البحث عن المعلومات "
 "المناسبة."
 
-#: Large Postcard Small Postcard
+#: Large Postcard Small
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
 msgstr ""
-"تطبيق Arrival Advisor متاح باللغات الإنكليزية والفرنسية والعربية والصينية ("
-"التقليدية والمبسطة) والكورية والبنجابية والتاغلوغية."
+"تطبيق Arrival Advisor متاح باللغات الإنكليزية والفرنسية والعربية والصينية "
+"(التقليدية والمبسطة) والكورية والبنجابية والتاغلوغية."
 
 #: Large Postcard
 msgid "Arrival Advisor is created by PeaceGeeks, a Vancouver-based nonprofit."
@@ -127,3 +127,7 @@ msgstr ""
 "صممت ونفذت تطبيق Arrival Advisor منظمة PeaceGeeks (peacegeeks.org)، وهي "
 "منظمة غير هادفة للربح مقرها فانكوفر بالتعاون مع منظمات استقرار من كافة أنحاء "
 "منطقة مترو فانكوفر."
+
+#: Brochure
+msgid "Funded by:"
+msgstr "ممول من:"

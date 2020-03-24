@@ -104,3 +104,7 @@ msgid ""
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
 msgstr ""
+
+#: Brochure
+msgid "Funded by:"
+msgstr ""

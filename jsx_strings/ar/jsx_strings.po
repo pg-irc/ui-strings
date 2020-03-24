@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-19 22:24+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://35.183.182.132/projects/ui-strings/"
-"jsx_strings/ar/>\n"
+"PO-Revision-Date: 2020-03-23 19:39+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Arabic <https://99.79.196.197/projects/ui-strings/jsx_strings/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -143,7 +143,7 @@ msgstr "إلغاء"
 
 #: lib/components/feedback/feedback_options_modal_component.js:26
 msgid "Change name or other details"
-msgstr ""
+msgstr "تغيير الاسم أو تفاصيل أخرى"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
@@ -180,7 +180,7 @@ msgstr "حذف جميع بيانات المستخدم"
 
 #: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
 msgid "Discard the change you suggested?"
-msgstr ""
+msgstr "هل ترغب في تجاهل التغيير الذي اقترحته؟"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
@@ -222,7 +222,7 @@ msgstr "البريد الإلكتروني"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
-msgstr ""
+msgstr "إرسال آخر الأخبار إليّ بالبريد الإلكتروني"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -295,7 +295,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
-msgstr ""
+msgstr "الانتهاء دون إضافة بريد إلكتروني"
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -462,7 +462,7 @@ msgstr "لا توجد موضوعات نوصي بها"
 #: lib/components/explore/explore_detail_component.js:9
 #: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
-msgstr "لا توجد موضوعات كي نعرضها"
+msgstr "لا توجد مواضيع كي نعرضها"
 
 #: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
@@ -486,7 +486,7 @@ msgstr ""
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
-msgstr ""
+msgstr "أخرى"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -505,7 +505,7 @@ msgstr ""
 
 #: lib/components/phone_numbers/phone_numbers_component.js:15
 msgid "Phone"
-msgstr ""
+msgstr "هاتف"
 
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
@@ -522,7 +522,7 @@ msgstr "سياسة الخصوصية"
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
 msgid "Provided by"
-msgstr "يقدمه لكم"
+msgstr "يقدمها لكم"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -547,7 +547,7 @@ msgstr "توصيات إليك"
 
 #: lib/components/feedback/feedback_options_modal_component.js:27
 msgid "Remove this service"
-msgstr ""
+msgstr "حذف هذه الخدمة"
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
@@ -731,13 +731,31 @@ msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
 msgstr ""
+"سوف يراجع فريقنا اقتراحك قبل تنفيذ التغييرات النهائية على معلومات الخدمة."
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr "اتصل بخدمة BC211."
+msgstr "الاتصال بخدمة BC211."
 
 msgid "Need suggestions? Try:"
-msgstr ""
+msgstr "هل تريد اقتراحات؟ جرب ما يلي:"
+
+msgid "COVID-19 information"
+msgstr "معلومات عن كوفيد-19"
+
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods."
+msgstr "عدد كبير من خدماتنا المدرجة ينتقل إلى سبل بديلة لتقديم الخدمات."
+
+msgid "Please check service providers’ websites for details."
+msgstr "يرجى زيارة المواقع الشبكية لمقدمي الخدمات كي تطلع على التفاصيل."
+
+msgid "Questions about COVID-19?"
+msgstr "هل لديك أسئلة تتعلق بكوفيد-19؟"
+
+msgid "Get the latest information from BC Centre for Disease Control."
+msgstr "طالع آخر المعلومات من مركز مكافحة الأمراض في بريتيش كولومبيا."
 
 #~ msgid "near"
 #~ msgstr "في الجوار"

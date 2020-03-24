@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-10 00:33+0000\n"
+"PO-Revision-Date: 2020-03-23 22:25+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Korean <https://35.183.145.4/projects/ui-strings/jsx_strings/"
+"Language-Team: Korean <https://99.79.196.197/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -144,7 +144,7 @@ msgstr "취소"
 
 #: lib/components/feedback/feedback_options_modal_component.js:26
 msgid "Change name or other details"
-msgstr ""
+msgstr "이름 또는 기타 정보 변경하기"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
@@ -181,7 +181,7 @@ msgstr "모든 사용자 데이터 삭제"
 
 #: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
 msgid "Discard the change you suggested?"
-msgstr ""
+msgstr "변경 사항을 저장하지 말까요?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
@@ -223,7 +223,7 @@ msgstr "이메일"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
-msgstr ""
+msgstr "이메일로 업데이트 받기"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
@@ -239,7 +239,7 @@ msgstr "영어 수업"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr "검색어가 영어인지 확인하시오"
+msgstr "검색어가 영어인지 확인하세요"
 
 #: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
@@ -293,7 +293,7 @@ msgstr "정착에 도움을 줄 서비스 제공자를 주변에서 찾아보세
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
-msgstr ""
+msgstr "이메일 입력 없이 끝내기"
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -456,7 +456,7 @@ msgstr "추천할 주제가 없습니다"
 #: lib/components/explore/explore_detail_component.js:9
 #: lib/components/topics/task_detail_component.js:12
 msgid "No topics to show"
-msgstr "보여드릴 주제가 없습니다"
+msgstr "표시할 주제가 없습니다."
 
 #: lib/components/questionnaire/questionnaire_component.js:79
 msgid "OF"
@@ -480,7 +480,7 @@ msgstr ""
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
-msgstr ""
+msgstr "기타"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -499,7 +499,7 @@ msgstr ""
 
 #: lib/components/phone_numbers/phone_numbers_component.js:15
 msgid "Phone"
-msgstr ""
+msgstr "전화번호"
 
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
@@ -541,7 +541,7 @@ msgstr "나만을 위한 추천"
 
 #: lib/components/feedback/feedback_options_modal_component.js:27
 msgid "Remove this service"
-msgstr ""
+msgstr "서비스 삭제하기"
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
@@ -563,7 +563,7 @@ msgstr "검색 "
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr "다른 키워드로 검색 하기"
+msgstr "다른 키워드로 검색하기"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:181
@@ -724,14 +724,31 @@ msgstr "네"
 msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
-msgstr ""
+msgstr "제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다. "
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
 msgstr "BC211로 전화 걸기"
 
 msgid "Need suggestions? Try:"
-msgstr ""
+msgstr "제안이 필요하신가요? 제안받기:"
+
+msgid "COVID-19 information"
+msgstr "코로나-19 정보"
+
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods."
+msgstr "많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다."
+
+msgid "Please check service providers’ websites for details."
+msgstr "자세한 내용은 서비스 제공자의 웹사이트를 확인해 주세요. "
+
+msgid "Questions about COVID-19?"
+msgstr "코로나-19 관련 질문이 있으세요?"
+
+msgid "Get the latest information from BC Centre for Disease Control."
+msgstr "BC주 질병관리본부의 최신 소식을 받으세요."
 
 #~ msgid "near"
 #~ msgstr "근처"

@@ -66,7 +66,7 @@ msgid ""
 "information."
 msgstr ""
 
-#: Large Postcard Small Postcard
+#: Large Postcard Small
 msgid ""
 "Arrival Advisor is available in Engish, French, Arabic, Chinese (Traditional "
 "and Simplified), Korean, Punjabi, and Tagalog."
@@ -103,4 +103,8 @@ msgid ""
 "Arrival Advisor was created by PeaceGeeks (peacegeeks.org), a Vancouver-"
 "based nonprofit, in partnership with settlement organizations across Metro "
 "Vancouver."
+msgstr ""
+
+#: Brochure
+msgid "Funded by:"
 msgstr ""
