@@ -740,22 +740,21 @@ msgstr "الاتصال بخدمة BC211."
 msgid "Need suggestions? Try:"
 msgstr "هل تريد اقتراحات؟ جرب ما يلي:"
 
+#: lib/components/recommended_topics/call_to_action.js:31
 msgid "COVID-19 information"
 msgstr "معلومات عن كوفيد-19"
 
-msgid ""
-"Many of our listed services are transitioning to alternate service delivery "
-"methods."
-msgstr "عدد كبير من خدماتنا المدرجة ينتقل إلى سبل بديلة لتقديم الخدمات."
+#: lib/components/recommended_topics/call_to_action.js:36
+msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgstr ""
+"عدد كبير من خدماتنا المدرجة ينتقل إلى سبل بديلة لتقديم الخدمات."
+"يرجى زيارة المواقع الشبكية لمقدمي الخدمات كي تطلع على التفاصيل."
 
-msgid "Please check service providers’ websites for details."
-msgstr "يرجى زيارة المواقع الشبكية لمقدمي الخدمات كي تطلع على التفاصيل."
-
-msgid "Questions about COVID-19?"
-msgstr "هل لديك أسئلة تتعلق بكوفيد-19؟"
-
-msgid "Get the latest information from BC Centre for Disease Control."
-msgstr "طالع آخر المعلومات من مركز مكافحة الأمراض في بريتيش كولومبيا."
+#: lib/components/recommended_topics/call_to_action.js:43
+msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+"هل لديك أسئلة تتعلق بكوفيد-19؟"
+"طالع آخر المعلومات من مركز <0> </0><1>مكافحة الأمراض في بريتيش كولومبيا <2> </2><3/></1>."
 
 #~ msgid "near"
 #~ msgstr "في الجوار"

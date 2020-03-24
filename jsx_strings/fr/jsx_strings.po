@@ -769,27 +769,23 @@ msgstr "Appeler BC211."
 msgid "Need suggestions? Try:"
 msgstr "Vous avez besoin de suggestions? Essayez de :"
 
+#: lib/components/recommended_topics/call_to_action.js:31
 msgid "COVID-19 information"
 msgstr "Informations relatives au COVID-19"
 
-msgid ""
-"Many of our listed services are transitioning to alternate service delivery "
-"methods."
+#: lib/components/recommended_topics/call_to_action.js:36
+msgid msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
 msgstr ""
 "La plupart de nos services répertoriés sont en train de passer à d’autres "
 "méthodes de prestations de services."
-
-msgid "Please check service providers’ websites for details."
-msgstr ""
 "Pour plus de détails, veuillez consulter les sites Web des fournisseurs de "
 "services."
 
-msgid "Questions about COVID-19?"
-msgstr "Vous avez des questions au sujet du COVID-19?"
-
-msgid "Get the latest information from BC Centre for Disease Control."
+#: lib/components/recommended_topics/call_to_action.js:43
+msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"Obtenez les informations les plus récentes du BC Centre for Disease Control."
+"Vous avez des questions au sujet du COVID-19?"
+"Obtenez les informations les plus récentes du<0> </0><1>BC Centre for Disease Control.<2> </2><3/></1>"
 
 #~ msgid "near"
 #~ msgstr "près"
