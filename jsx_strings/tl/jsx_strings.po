@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-19 22:24+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.182.132/projects/ui-strings/"
+"PO-Revision-Date: 2020-03-25 23:33+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Tagalog <https://15.223.77.141/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgstr "Kanselahin"
 
 #: lib/components/feedback/feedback_options_modal_component.js:26
 msgid "Change name or other details"
-msgstr ""
+msgstr "Palitan ang pangalan o iba pang detalye"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:21
 msgid "Check location services"
@@ -161,11 +161,11 @@ msgstr "Suriin ang mga serbisyo ng lokasyon"
 
 #: lib/components/search/empty_component.js:33
 msgid "Child care"
-msgstr ""
+msgstr "Pangangalaga sa Bata"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:100
 msgid "City - \"Vancouver\""
-msgstr ""
+msgstr "Siyudad - \"Vancouver\""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
@@ -173,7 +173,7 @@ msgstr "Lungsod, adres o postal code"
 
 #: lib/components/feedback/feedback_component.js:54
 msgid "Comment or suggest edits"
-msgstr ""
+msgstr "Magkomento o magmungkahi ng pagbabago"
 
 #: lib/components/help/help_component.js:40
 msgid "Contact Arrival Advisor team"
@@ -190,7 +190,7 @@ msgstr "Burahin ang lahat ng user data"
 
 #: lib/components/discard_feedback_modal./discard_feedback_modal_component.js:14
 msgid "Discard the change you suggested?"
-msgstr ""
+msgstr "Alisin ang pagbabagong iminungkahi"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:51
@@ -208,11 +208,11 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:49
 msgid "Do you work at this service or organization?"
-msgstr ""
+msgstr "Ikaw ba ay kasalukuyang pumapasok sa tanggapang ito?"
 
 #: lib/components/partial_localization/message_component.js:37
 msgid "Don't show again"
-msgstr ""
+msgstr "Huwag na muling ipakita"
 
 #: lib/components/questionnaire/questionnaire_component.js:118
 msgid "Done"
@@ -220,7 +220,7 @@ msgstr "Tapos na"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
 msgid "Double check for spelling"
-msgstr ""
+msgstr "Suriing muli ang ispeling"
 
 #: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
@@ -233,11 +233,11 @@ msgstr "Email"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
-msgstr ""
+msgstr "Magpadala ng email tungkol sa updates"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr "Pagtatrabaho"
+msgstr "Trabaho"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
@@ -245,11 +245,11 @@ msgstr "Paganahin ang mga serbisyo ng lokasyon"
 
 #: lib/components/search/empty_component.js:30
 msgid "English class"
-msgstr ""
+msgstr "Klase para sa Ingles"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:92
 msgid "Ensure your search is in English"
-msgstr ""
+msgstr "Siguraduhing gumamit ng Ingles sa paghanap"
 
 #: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
@@ -257,23 +257,25 @@ msgstr "Ilagay ang lungsod, adres, o postal code"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
-msgstr ""
+msgstr "Isulat ang inyong email"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:45
 msgid "Enter your email if you would like to receive updates about this issue."
 msgstr ""
+"Isulat ang inyong email kung nais makatanggap ng updates tungkol sa isyung "
+"ito"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:95
 msgid "Enter your job title"
-msgstr ""
+msgstr "Isulat ang Titulo sa trabaho"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:93
 msgid "Enter your name"
-msgstr ""
+msgstr "Isulat ang inyong pangalan"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
-msgstr ""
+msgstr "Isulat ang pangalan ng inyong Organisasyon/Tanggapan"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
@@ -305,7 +307,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
-msgstr ""
+msgstr "Tapusin na walang email"
 
 #: lib/components/about/about_component.js:31
 msgid ""
@@ -365,7 +367,7 @@ msgstr ""
 msgid ""
 "Information about services is currently only available in English. For "
 "support in other languages, please"
-msgstr ""
+msgstr "Ang kaalaman sa serbisyong ito ay kasalukuyang sa Ingles lamang"
 
 #: lib/components/about/about_component.js:51
 msgid ""
@@ -414,7 +416,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:71
 msgid "Job Title"
-msgstr ""
+msgstr "Titulo sa Trabaho"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
@@ -446,7 +448,7 @@ msgstr "Lokasyon Ko"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
-msgstr ""
+msgstr "Pangalan"
 
 #: lib/components/questionnaire/new_topics_modal_component.js:24
 msgid "New topics have been recommended based on your answers!"
@@ -458,7 +460,7 @@ msgstr "Susunod"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
-msgstr ""
+msgstr "Walang resultang nakita. Subukan ang:"
 
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:43
@@ -498,7 +500,7 @@ msgstr ""
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
-msgstr ""
+msgstr "Iba pa"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -519,7 +521,7 @@ msgstr ""
 
 #: lib/components/phone_numbers/phone_numbers_component.js:15
 msgid "Phone"
-msgstr ""
+msgstr "Telepono"
 
 #: lib/components/help/help_component.js:17
 msgid "Police, fire and medical emergencies"
@@ -527,7 +529,7 @@ msgstr "Pulis, sunog at medikal na mga emergency"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:106
 msgid "Postal Code - \"V5Y 1V4\""
-msgstr ""
+msgstr "Postal Code - \"V5Y 1V4\""
 
 #: lib/components/header_menu/header_menu_component.js:52
 msgid "Privacy policy"
@@ -552,7 +554,7 @@ msgstr "Basahin ang higit"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:40
 msgid "Receiving Updates"
-msgstr ""
+msgstr "Pagtanggap ng updates"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:39
 #: lib/components/topics/task_detail_content_component.js:32
@@ -561,7 +563,7 @@ msgstr "Nirerekomenda para sa iyo"
 
 #: lib/components/feedback/feedback_options_modal_component.js:27
 msgid "Remove this service"
-msgstr ""
+msgstr "Alisin ang serbisyong ito"
 
 #: lib/components/header_menu/header_menu_component.js:24
 msgid "SELECT YOUR LANGUAGE"
@@ -581,11 +583,11 @@ msgstr ""
 
 #: lib/components/search/search_input_component.js:121
 msgid "Search"
-msgstr ""
+msgstr "Hanapin"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:86
 msgid "Search for a different keyword"
-msgstr ""
+msgstr "Humanap ng ibang salita"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:181
@@ -648,7 +650,7 @@ msgstr "Simulan ang paninirahan sa B.C."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:103
 msgid "Street - \"Kingsway\""
-msgstr ""
+msgstr "Kalye - \"Kingsway\""
 
 #: lib/components/feedback/feedback_options_modal_component.js:21
 msgid "Suggest an Update"
@@ -743,7 +745,7 @@ msgstr "Nahihirapan kaming kumonekta sa server. Subukan uli mamaya."
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:57
 msgid "Yes"
-msgstr ""
+msgstr "Oo"
 
 #: lib/components/feedback/feedback_options_modal_component.js:37
 msgid ""
@@ -753,22 +755,26 @@ msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr ""
+msgstr "Tumawag sa BC211"
 
 msgid "Need suggestions? Try:"
-msgstr ""
+msgstr "Kailangan ng ibang mungkahi? Subukan ang:"
 
 #: lib/components/recommended_topics/call_to_action.js:31
 msgid "COVID-19 information"
-msgstr ""
+msgstr "Kaalaman tungkol sa COVID-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
 msgstr ""
+"Karamihan sa mga nakatalang serbisyo ay kasalukuyang nasa transisyon para sa "
+"alternatibong serbisyo"
 
 #: lib/components/recommended_topics/call_to_action.js:43
 msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
+"May Tanong ba Kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
+"mula sa BC Centre"
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"
