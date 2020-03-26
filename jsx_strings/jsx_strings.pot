@@ -587,3 +587,9 @@ msgstr ""
 
 msgid "Welcome to Arrival Advisor"
 msgstr ""
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
+msgstr ""
