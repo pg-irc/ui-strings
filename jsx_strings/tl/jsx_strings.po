@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 00:33+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"PO-Revision-Date: 2020-03-26 01:33+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://15.223.77.141/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
@@ -496,7 +496,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
-msgstr ""
+msgstr "Organisasyon"
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
@@ -654,11 +654,11 @@ msgstr "Kalye - \"Kingsway\""
 
 #: lib/components/feedback/feedback_options_modal_component.js:21
 msgid "Suggest an Update"
-msgstr ""
+msgstr "Magmungkahi ng Update"
 
 #: lib/components/feedback/feedback_component.js:41
 msgid "Suggest an update"
-msgstr ""
+msgstr "Magmungkahi ng update"
 
 #: lib/components/header_menu/header_menu_component.js:53
 msgid "Terms of Use"
@@ -774,7 +774,7 @@ msgstr ""
 msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
 "May Tanong ba Kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
-"mula sa BC Centre"
+"mula sa <0> </0><1>BC Centre<2> </2><3/></1>."
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"
