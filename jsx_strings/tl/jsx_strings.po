@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:22+0000\n"
+"PO-Revision-Date: 2020-03-26 21:54+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://35.183.118.100/projects/ui-strings/"
 "jsx_strings/tl/>\n"
@@ -389,10 +389,8 @@ msgid "Information on helplines"
 msgstr "Impormasyon sa mga helpline"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "Paganahin ang mga serbisyo ng lokasyon"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -776,19 +774,11 @@ msgstr ""
 "mula sa <0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
 
 #: lib/components/onboarding/onboarding_component.js:18
-#, fuzzy
-#| msgid ""
-#| "Arrival Advisor is your go-to guide to getting settled in your new "
-#| "community."
 msgid "Your go-to guide to getting settled in your new community."
 msgstr ""
-"Arrival Advisor ang gabay mo habang nagpapatuloy na manirahan sa bago mong "
-"komunidad."
 
-#, fuzzy
-#| msgid "About Arrival Advisor"
 msgid "Welcome to Arrival Advisor"
-msgstr "Tungkol sa Arrival Advisor"
+msgstr ""
 
 msgid "Search is currently in beta and only available in English."
 msgstr ""
