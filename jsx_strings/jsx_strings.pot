@@ -49,10 +49,6 @@ msgstr ""
 msgid "Arrival Advisor is a free, multilingual, mobile app that helps immigrants and refugees in British Columbia, Canada find information and services to navigate their settlement journey. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
 msgstr ""
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid "Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid "Arrival Advisor respects and maintains the privacy and anonymity of its users. Users do not need to provide personal information in order to use the app. The questionnaire is designed to assist in personalizing services and resources required by the user, and answers are only saved to enhance the usability of the app over time. Users of the Arrival Advisor app do so at their own discretion. The answers you provide will be used for the operation of this tool to provide you with guidance on resources and services that can help you adjust to life in Canada. Users cannot be identified by their answers to the questionnaire. The information is not used by Immigration, Refugees and Citizenship Canada for any other purpose and is not used for any immigration decision making."
 msgstr ""
@@ -334,6 +330,7 @@ msgstr ""
 msgid "New topics have been recommended based on your answers!"
 msgstr ""
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr ""
@@ -489,11 +486,12 @@ msgstr ""
 msgid "Show more services"
 msgstr ""
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr ""
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr ""
@@ -581,4 +579,11 @@ msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:43
 msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+
+msgid "Welcome to Arrival Advisor"
 msgstr ""
