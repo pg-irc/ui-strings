@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-03-26 22:33+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://15.223.77.141/projects/ui-"
-"strings/jsx_strings/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://15.223.77.141/projects/"
+"ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -360,10 +360,8 @@ msgid "Information on helplines"
 msgstr "帮助热线信息"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "启动获取地点服务"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -723,17 +721,11 @@ msgstr ""
 "息。"
 
 #: lib/components/onboarding/onboarding_component.js:18
-#, fuzzy
-#| msgid ""
-#| "Arrival Advisor is your go-to guide to getting settled in your new "
-#| "community."
 msgid "Your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor 是您在新社区安家落户的必备指南。"
+msgstr ""
 
-#, fuzzy
-#| msgid "About Arrival Advisor"
 msgid "Welcome to Arrival Advisor"
-msgstr "有关Arrival Advisor"
+msgstr ""
 
 msgid "Search is currently in beta and only available in English."
 msgstr ""
