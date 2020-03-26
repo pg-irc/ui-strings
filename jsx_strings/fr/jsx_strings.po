@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-24 19:49+0000\n"
+"PO-Revision-Date: 2020-03-26 18:33+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://35.183.118.100/projects/ui-strings/"
-"jsx_strings/fr/>\n"
+"Language-Team: French <https://15.223.77.141/projects/ui-strings/jsx_strings/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -443,8 +443,6 @@ msgid "My bookmarks"
 msgstr "Mes favoris"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
-#, fuzzy
-#| msgid "My Location"
 msgid "My location"
 msgstr "Mon emplacement"
 
@@ -498,7 +496,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
-msgstr ""
+msgstr "Organisations"
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
@@ -655,8 +653,6 @@ msgid "Street - \"Kingsway\""
 msgstr "Rue – « Kingsway »"
 
 #: lib/components/feedback/feedback_options_modal_component.js:21
-#, fuzzy
-#| msgid "Suggest an update"
 msgid "Suggest an Update"
 msgstr "Suggérer une mise à jour"
 
