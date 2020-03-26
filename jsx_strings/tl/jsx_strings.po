@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 17:08+0000\n"
+"PO-Revision-Date: 2020-03-26 18:22+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://35.183.118.100/projects/ui-strings/"
 "jsx_strings/tl/>\n"
@@ -237,7 +237,7 @@ msgstr "Magpadala ng email tungkol sa updates"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr "Trabaho"
+msgstr "Pagtatrabaho"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Enable location services"
@@ -441,8 +441,6 @@ msgid "My bookmarks"
 msgstr "Mga bookmark ko"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
-#, fuzzy
-#| msgid "My Location"
 msgid "My location"
 msgstr "Lokasyon Ko"
 
@@ -752,6 +750,8 @@ msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
 msgstr ""
+"Your suggestions will be reviewed by our team before making final changes to "
+"the service information."
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
