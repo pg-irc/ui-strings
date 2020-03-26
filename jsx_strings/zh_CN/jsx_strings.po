@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-23 20:10+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://99.79.196.197/projects/"
+"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Simplified) <https://15.223.77.141/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -407,8 +407,6 @@ msgid "My bookmarks"
 msgstr "我的书签"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
-#, fuzzy
-#| msgid "My Location"
 msgid "My location"
 msgstr "我的位置"
 
@@ -461,7 +459,7 @@ msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:69
 msgid "Organization"
-msgstr ""
+msgstr "机构"
 
 #: lib/components/feedback/feedback_options_modal_component.js:28
 msgid "Other"
@@ -611,8 +609,6 @@ msgid "Street - \"Kingsway\""
 msgstr "街名——“Kingsway”"
 
 #: lib/components/feedback/feedback_options_modal_component.js:21
-#, fuzzy
-#| msgid "Suggest an update"
 msgid "Suggest an Update"
 msgstr "更新建议"
 
