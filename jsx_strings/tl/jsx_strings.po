@@ -85,13 +85,6 @@ msgstr ""
 "Pinasimpleng Chinese, Tradisyonal na Chinese, French (Canadian), Korean, "
 "Punjabi, at Tagalog."
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor ang gabay mo habang nagpapatuloy na manirahan sa bago mong "
-"komunidad."
-
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
 "Arrival Advisor respects and maintains the privacy and anonymity of its "
@@ -452,6 +445,7 @@ msgstr "Pangalan"
 msgid "New topics have been recommended based on your answers!"
 msgstr "Mga bagong paksang nirekomenda batay sa mga sagot mo!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "Susunod"
@@ -633,11 +627,12 @@ msgstr "Mas madali na ngayon ang paninirahan sa Canada."
 msgid "Show more services"
 msgstr "Ipakita ang higit na mga serbisyo"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "Laktawan"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Magsimula"
@@ -765,16 +760,41 @@ msgid "COVID-19 information"
 msgstr "Kaalaman tungkol sa COVID-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
 "Karamihan sa mga nakatalang serbisyo ay kasalukuyang nasa transisyon para sa "
 "alternatibong serbisyo."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
 "May Tanong ba Kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
 "mula sa <0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+
+#: lib/components/onboarding/onboarding_component.js:18
+#, fuzzy
+#| msgid ""
+#| "Arrival Advisor is your go-to guide to getting settled in your new "
+#| "community."
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+"Arrival Advisor ang gabay mo habang nagpapatuloy na manirahan sa bago mong "
+"komunidad."
+
+#, fuzzy
+#| msgid "About Arrival Advisor"
+msgid "Welcome to Arrival Advisor"
+msgstr "Tungkol sa Arrival Advisor"
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
+msgstr ""
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"

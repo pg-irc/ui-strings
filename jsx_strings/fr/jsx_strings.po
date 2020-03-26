@@ -82,13 +82,6 @@ msgstr ""
 "est offerte en anglais, en arabe, en chinois (simplifié et traditionnel), en "
 "français (canadien), en coréen, en punjabi et en tagalog."
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor est votre guide pendant que vous vous établissez dans votre "
-"nouvelle communauté."
-
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
 "Arrival Advisor respects and maintains the privacy and anonymity of its "
@@ -454,6 +447,7 @@ msgstr "Nom"
 msgid "New topics have been recommended based on your answers!"
 msgstr "De nouveaux sujets ont été recommandés en fonction de vos réponses!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "Prochaine question"
@@ -635,11 +629,12 @@ msgstr "S’établir au Canada est maintenant plus facile."
 msgid "Show more services"
 msgstr "Voir davantage de services"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "Ignorer la question"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Débuter"
@@ -770,18 +765,42 @@ msgid "COVID-19 information"
 msgstr "Informations relatives au COVID-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
 "La plupart de nos services répertoriés sont en train de passer à d’autres "
-"méthodes de prestations de services."
-"Pour plus de détails, veuillez consulter les sites Web des fournisseurs de "
-"services."
+"méthodes de prestations de services.Pour plus de détails, veuillez consulter "
+"les sites Web des fournisseurs de services."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
 "Vous avez des questions au sujet du COVID-19?Obtenez les informations les "
 "plus récentes du<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+
+#: lib/components/onboarding/onboarding_component.js:18
+#, fuzzy
+#| msgid ""
+#| "Arrival Advisor is your go-to guide to getting settled in your new "
+#| "community."
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+"Arrival Advisor est votre guide pendant que vous vous établissez dans votre "
+"nouvelle communauté."
+
+#, fuzzy
+#| msgid "About Arrival Advisor"
+msgid "Welcome to Arrival Advisor"
+msgstr "À propos d’Arrival Advisor"
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
+msgstr ""
 
 #~ msgid "near"
 #~ msgstr "près"

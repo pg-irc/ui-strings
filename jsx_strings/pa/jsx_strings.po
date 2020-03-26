@@ -77,11 +77,6 @@ msgstr ""
 "ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, "
 "ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ ਹੋਵੇਗੀ।"
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
-
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
 "Arrival Advisor respects and maintains the privacy and anonymity of its "
@@ -426,6 +421,7 @@ msgstr "ਨਾਂ"
 msgid "New topics have been recommended based on your answers!"
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਨਵੇਂ ਵਿਸ਼ੇ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਗਏ ਹਨ"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "ਅੱਗੇ"
@@ -600,11 +596,12 @@ msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹ�
 msgid "Show more services"
 msgstr "ਹੋਰ ਸੇਵਾਵਾਂ ਵੇਖੋ"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "ਛੱਡੋ"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "ਸ਼ੁਰੂ ਕਰੋ"
@@ -710,8 +707,8 @@ msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
 msgstr ""
-"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ "
-"ਪੜਤਾਲਿਆ ਜਾਵੇਗਾ।"
+"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲਿਆ "
+"ਜਾਵੇਗਾ।"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
@@ -725,17 +722,39 @@ msgid "COVID-19 information"
 msgstr "COVID-19 ਜਾਣਕਾਰੀ"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
-"ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ "
-"ਕਰ ਰਹੀਆਂ ਹਨ।"
+"ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ ਕਰ ਰਹੀਆਂ ਹਨ।"
 "ਵੇਰਵਿਆਂ ਲਈ ਸੇਵਾ ਪੂਰਕਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ।"
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?"
-"<0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?<0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ "
+"ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+
+#: lib/components/onboarding/onboarding_component.js:18
+#, fuzzy
+#| msgid ""
+#| "Arrival Advisor is your go-to guide to getting settled in your new "
+#| "community."
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
+
+#, fuzzy
+#| msgid "About Arrival Advisor"
+msgid "Welcome to Arrival Advisor"
+msgstr "Arrival Advisor ਬਾਰੇ"
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
+msgstr ""
 
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"
