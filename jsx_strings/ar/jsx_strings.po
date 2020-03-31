@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-30 21:49+0000\n"
+"PO-Revision-Date: 2020-03-31 01:11+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Arabic <https://52.60.40.251/projects/ui-strings/jsx_strings/"
 "ar/>\n"
@@ -378,7 +378,7 @@ msgstr "معلومات تتعلق بخطوط المساعدة على الهات�
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
 msgid "Invalid location. Try:"
-msgstr ""
+msgstr "موقع غير صحيح. جرب ما يلي:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -751,16 +751,16 @@ msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
+msgstr "دليلك المفضل نحو الاستقرار في مجتمعك الجديد."
 
 msgid "Welcome to Arrival Advisor"
-msgstr ""
+msgstr "مرحبا بك في تطبيق Arrival Advisor"
 
 msgid "Search is currently in beta and only available in English."
-msgstr ""
+msgstr "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية."
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "أبلغنا برأيك وملاحظاتك"
 
 #~ msgid "near"
 #~ msgstr "في الجوار"
