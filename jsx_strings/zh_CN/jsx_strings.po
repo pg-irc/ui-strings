@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 22:33+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Simplified) <https://15.223.77.141/projects/"
+"PO-Revision-Date: 2020-03-31 01:09+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://52.60.40.251/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -361,7 +361,7 @@ msgstr "帮助热线信息"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
 msgid "Invalid location. Try:"
-msgstr ""
+msgstr "不明的地址。尝试："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -722,16 +722,16 @@ msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
+msgstr "您在新社区安家落户的必备指南。"
 
 msgid "Welcome to Arrival Advisor"
-msgstr ""
+msgstr "欢迎来到Arrival Advisor"
 
 msgid "Search is currently in beta and only available in English."
-msgstr ""
+msgstr "搜索目前处于测试阶段，只提供英语版本。"
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "给予反馈"
 
 #~ msgid "near"
 #~ msgstr "附近"
