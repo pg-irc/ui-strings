@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-31 00:07+0000\n"
+"PO-Revision-Date: 2020-03-31 01:06+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Korean <https://52.60.40.251/projects/ui-strings/jsx_strings/"
 "ko/>\n"
@@ -371,7 +371,7 @@ msgstr "전화 상담 서비스에 관한 정보"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
 msgid "Invalid location. Try:"
-msgstr ""
+msgstr "유효하지 않은 위치. 다시 시도하기:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -740,16 +740,16 @@ msgstr "코로나-19 관련 질문이 있으세요? <0> </0><1>BC주 질병관�
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
+msgstr "새 커뮤니티 정착을 위한 가이드"
 
 msgid "Welcome to Arrival Advisor"
-msgstr ""
+msgstr "Arrival Advisor에 오신 것을 환영합니다."
 
 msgid "Search is currently in beta and only available in English."
-msgstr ""
+msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다."
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "피드백 전달하기"
 
 #~ msgid "near"
 #~ msgstr "근처"
