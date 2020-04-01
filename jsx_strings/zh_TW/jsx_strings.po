@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://15.223.77.141/projects/"
+"Language-Team: Chinese (Traditional) <https://52.60.40.251/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -29,8 +29,8 @@ msgstr "有關 Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "地址"
+msgid "Address:"
+msgstr "地址："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -76,11 +76,6 @@ msgstr ""
 "（BC省）的移民和難民們，在安家定居過程中取得所需的相關資訊和服務。本應用程式"
 "目前提供英語，法語（加拿大）, 阿拉伯語，簡體中文、繁體中文、韓文、旁遮普文及"
 "他加祿文等版本。"
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor 是您在新社區定居的首選指南。"
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -208,8 +203,8 @@ msgstr "探索主題"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "電子郵件"
+msgid "Email:"
+msgstr "電子郵件："
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -363,10 +358,8 @@ msgid "Information on helplines"
 msgstr "求助熱線相關資訊"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "啟動網路定位服務"
+msgstr "不明的地址。嘗試："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -386,8 +379,8 @@ msgstr "職位名稱"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "上次確認"
+msgid "Last verified:"
+msgstr "上次確認："
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -418,6 +411,7 @@ msgstr "姓名"
 msgid "New topics have been recommended based on your answers!"
 msgstr "根據您的答案，有新主題資訊可推薦!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "下一個"
@@ -497,8 +491,8 @@ msgstr "隱私政策"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "提供者"
+msgid "Provided by:"
+msgstr "提供者："
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -591,11 +585,12 @@ msgstr "現在，定居加拿大變得更容易"
 msgid "Show more services"
 msgstr "更多服務"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "跳過"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "開始"
@@ -681,8 +676,8 @@ msgstr "更新我的推薦信息"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "網站"
+msgid "Website:"
+msgstr "網站："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -711,16 +706,33 @@ msgid "COVID-19 information"
 msgstr "COVID-19信息"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
-"我們列出的許多服務正在過渡到其他輸送方式。"
-"請查看服務提供商的網站以了解詳細信息。"
+"我們列出的許多服務正在過渡到其他輸送方式。請查看服務提供商的網站以了解詳細信"
+"息。"
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"對COVID-19有疑問嗎？"
-"從<0> </0><1>卑詩省疾病控制中心<2> </2><3/></1>獲取最新信息。"
+"對COVID-19有疑問嗎？從<0> </0><1>卑詩省疾病控制中心<2> </2><3/></1>獲取最新信"
+"息。"
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "您在新社區安家落戶的必備指南。"
+
+msgid "Welcome to Arrival Advisor"
+msgstr "歡迎來到Arrival Advisor"
+
+msgid "Search is currently in beta and only available in English."
+msgstr "搜索目前處於測試階段，只提供英語版本。"
+
+msgid "Give Feedback"
+msgstr "給予反饋"
 
 #~ msgid "near"
 #~ msgstr "附近"

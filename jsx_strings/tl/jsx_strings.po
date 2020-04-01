@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:22+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.118.100/projects/ui-strings/"
-"jsx_strings/tl/>\n"
+"Language-Team: Tagalog <https://52.60.40.251/projects/ui-strings/jsx_strings/"
+"tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,8 +30,8 @@ msgstr "Tungkol sa Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "Address"
+msgid "Address:"
+msgstr "Address:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -84,13 +84,6 @@ msgstr ""
 "paninirahan. Ang Arrival Advisor ay iniaalok sa English, Arabic, "
 "Pinasimpleng Chinese, Tradisyonal na Chinese, French (Canadian), Korean, "
 "Punjabi, at Tagalog."
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor ang gabay mo habang nagpapatuloy na manirahan sa bago mong "
-"komunidad."
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -228,8 +221,8 @@ msgstr "GALUGARIN ANG MGA PAKSA"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "Email"
+msgid "Email:"
+msgstr "Email:"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -396,10 +389,8 @@ msgid "Information on helplines"
 msgstr "Impormasyon sa mga helpline"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "Paganahin ang mga serbisyo ng lokasyon"
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -420,8 +411,8 @@ msgstr "Titulo sa Trabaho"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "Huling naberipika"
+msgid "Last verified:"
+msgstr "Huling naberipika:"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -452,6 +443,7 @@ msgstr "Pangalan"
 msgid "New topics have been recommended based on your answers!"
 msgstr "Mga bagong paksang nirekomenda batay sa mga sagot mo!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "Susunod"
@@ -535,8 +527,8 @@ msgstr "Patakaran sa Pagkapribado"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "Inilaan ng"
+msgid "Provided by:"
+msgstr "Inilaan ng:"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -633,11 +625,12 @@ msgstr "Mas madali na ngayon ang paninirahan sa Canada."
 msgid "Show more services"
 msgstr "Ipakita ang higit na mga serbisyo"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "Laktawan"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Magsimula"
@@ -733,8 +726,8 @@ msgstr "I-UPDATE ANG REKOMENDASYON KO"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "Website"
+msgid "Website:"
+msgstr "Website:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -765,16 +758,33 @@ msgid "COVID-19 information"
 msgstr "Kaalaman tungkol sa COVID-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
 "Karamihan sa mga nakatalang serbisyo ay kasalukuyang nasa transisyon para sa "
 "alternatibong serbisyo."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
 "May Tanong ba Kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
 "mula sa <0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+
+msgid "Welcome to Arrival Advisor"
+msgstr ""
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
+msgstr ""
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"

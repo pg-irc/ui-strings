@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://15.223.77.141/projects/ui-strings/jsx_strings/"
+"Language-Team: Korean <https://52.60.40.251/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -29,8 +29,8 @@ msgstr "Arrival Advisor에 대하여"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "주소"
+msgid "Address:"
+msgstr "주소:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -79,14 +79,6 @@ msgstr ""
 "입니다. 현재 앱에서 지원되는 언어는 영어와 프랑스어(캐나다), 아랍어입니다. 조"
 "만간 중국어 간체자와 번체자, 한국어, 펀자브어와 타갈로그어가 추가로 지원될 예"
 "정입니다."
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor가 새로운\n"
-"커뮤니티 적응을 위한 믿음직한\n"
-"가이드가 되어드립니다."
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -210,7 +202,7 @@ msgstr "완료"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:89
 msgid "Double check for spelling"
-msgstr "스펠링 재확인"
+msgstr "스펠링을 다시 확인하세요"
 
 #: lib/components/explore/explore_detail_component.js:20
 msgid "EXPLORE TOPICS"
@@ -218,8 +210,8 @@ msgstr "주제 탐색하기"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "이메일"
+msgid "Email:"
+msgstr "이메일:"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -378,10 +370,8 @@ msgid "Information on helplines"
 msgstr "전화 상담 서비스에 관한 정보"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "위치 서비스가 활성화되었습니다."
+msgstr "유효하지 않은 위치. 다시 시도하기:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -401,8 +391,8 @@ msgstr "직업명"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "최신 업데이트"
+msgid "Last verified:"
+msgstr "최신 업데이트:"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -433,6 +423,7 @@ msgstr "이름"
 msgid "New topics have been recommended based on your answers!"
 msgstr "답변에 기반한 새로운 주제가 추천되었습니다!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "다음"
@@ -513,8 +504,8 @@ msgstr "개인정보 정책"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "제공"
+msgid "Provided by:"
+msgstr "제공:"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -608,11 +599,12 @@ msgstr "이제 캐나다에서의 정착이 더욱 쉬워집니다."
 msgid "Show more services"
 msgstr "서비스 더 보기"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "넘어가기"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "시작"
@@ -704,8 +696,8 @@ msgstr "나의 추천 업데이트하기"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "웹사이트"
+msgid "Website:"
+msgstr "웹사이트:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -720,7 +712,8 @@ msgstr "네"
 msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
-msgstr "제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다. "
+msgstr ""
+"제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다. "
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
@@ -734,14 +727,33 @@ msgid "COVID-19 information"
 msgstr "코로나-19 정보"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
-"많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다."
-"자세한 내용은 서비스 제공자의 웹사이트를 확인해 주세요. "
+"많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다. 자세한 내용은 서비"
+"스 제공자의 웹사이트를 확인해 주세요."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
-msgstr "코로나-19 관련 질문이 있으세요?<0> </0><1>BC주 질병관리본부의 <2> </2><3/></1>최신 소식을 받으세요."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+"코로나-19 관련 질문이 있으세요? <0> </0><1>BC주 질병관리본부의 <2> </2><3/"
+"></1>최신 소식을 받으세요."
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "새 커뮤니티 정착을 위한 가이드"
+
+msgid "Welcome to Arrival Advisor"
+msgstr "Arrival Advisor에 오신 것을 환영합니다."
+
+msgid "Search is currently in beta and only available in English."
+msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다."
+
+msgid "Give Feedback"
+msgstr "피드백 전달하기"
 
 #~ msgid "near"
 #~ msgstr "근처"

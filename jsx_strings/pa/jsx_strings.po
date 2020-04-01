@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://15.223.77.141/projects/ui-strings/"
-"jsx_strings/pa/>\n"
+"Language-Team: Punjabi <https://52.60.40.251/projects/ui-strings/jsx_strings/"
+"pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,8 +29,8 @@ msgstr "Arrival Advisor ਬਾਰੇ"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "ਪਤਾ"
+msgid "Address:"
+msgstr "ਪਤਾ:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -48,8 +48,8 @@ msgid ""
 "recommendations of topics and services to help you settle in British "
 "Columbia."
 msgstr ""
-"ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸੈਟਲ ਹੋਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਵਿਸ਼ਿਆਂ ਤੇ ਸੇਵਾਵਾਂ ਦੀ ਤੁਹਾਡੇ ਲਈ "
-"ਸਿਫਾਰਸ਼ਾਂ ਲੈਣ ਲਈ ਆਪਣੇ ਹਾਲਤ ਬਾਰੇ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ।"
+"ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸੈਟਲ ਹੋਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਵਿਸ਼ਿਆ ਤੇ ਸੇਵਾਵਾਂ ਦੀ ਤੁਹਾਡੇ ਲਈ "
+"ਸਿਫਾਰਸ਼ਾਂ ਲੈਣ ਲਈ ਆਪਣੇ ਹਾਲਤ ਬਾਰੇ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿਓ।"
 
 #: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
@@ -76,11 +76,6 @@ msgstr ""
 "ਅਤੇ ਰਿਫਿਊਜੀਆਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਲਈ ਜਾਣਕਾਰੀ ਅਤੇ ਸੇਵਾਵਾਂ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਇਹ "
 "ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, "
 "ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ ਹੋਵੇਗੀ।"
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -211,8 +206,8 @@ msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "ਈਮੇਲ"
+msgid "Email:"
+msgstr "ਈਮੇਲ:"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -256,7 +251,7 @@ msgstr "ਆਪਣਾ ਨਾਂ ਦਿਓ"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:94
 msgid "Enter your organization name"
-msgstr "ਆਪਣੇ ਸੰਗਠਨ ਦਾ ਨਾਂ ਦਿਓ\n"
+msgstr "ਆਪਣੇ ਸੰਗਠਨ ਦਾ ਨਾਂ ਦਿਓ"
 
 #: lib/components/main/header_component.js:37
 msgid "FIND A SERVICE"
@@ -371,10 +366,8 @@ msgid "Information on helplines"
 msgstr "ਮਦਦ-ਲਾਈਨ ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ"
+msgstr "ਗ਼ਲਤ ਟਿਕਾਣਾ। ਇਹ ਵਰਤੋਂ:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -394,8 +387,8 @@ msgstr "ਕੰਮ ਦਾ ਅਹੁਦਾ"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "ਆਖਰੀ ਵਾਰ ਤਸਦੀਕ ਕੀਤਾ"
+msgid "Last verified:"
+msgstr "ਆਖਰੀ ਵਾਰ ਤਸਦੀਕ ਕੀਤਾ:"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -426,6 +419,7 @@ msgstr "ਨਾਂ"
 msgid "New topics have been recommended based on your answers!"
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਨਵੇਂ ਵਿਸ਼ੇ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਗਏ ਹਨ"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "ਅੱਗੇ"
@@ -506,8 +500,8 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "ਇਸ ਵਲੋਂ ਪੇਸ਼ਕਸ਼"
+msgid "Provided by:"
+msgstr "ਇਸ ਵਲੋਂ ਪੇਸ਼ਕਸ਼:"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -600,11 +594,12 @@ msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹ�
 msgid "Show more services"
 msgstr "ਹੋਰ ਸੇਵਾਵਾਂ ਵੇਖੋ"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "ਛੱਡੋ"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "ਸ਼ੁਰੂ ਕਰੋ"
@@ -693,8 +688,8 @@ msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "ਵੈੱਬਸਾਈਟ"
+msgid "Website:"
+msgstr "ਵੈੱਬਸਾਈਟ:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -710,8 +705,8 @@ msgid ""
 "Your suggestions will be reviewed by our team before making final changes to "
 "the service information."
 msgstr ""
-"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ "
-"ਪੜਤਾਲਿਆ ਜਾਵੇਗਾ।"
+"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲਿਆ "
+"ਜਾਵੇਗਾ।"
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
@@ -725,17 +720,33 @@ msgid "COVID-19 information"
 msgstr "COVID-19 ਜਾਣਕਾਰੀ"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
-"ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ "
-"ਕਰ ਰਹੀਆਂ ਹਨ।"
+"ਸਾਡੇ ਵਲੋਂ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਕਈ ਸੇਵਾਵਾਂ ਸੇਵਾ ਡਿਲਵਰੀ ਲਈ ਬਦਲਵੇਂ ਢੰਗਾਂ ਲਈ ਪਰਿਵਰਤਨ ਕਰ ਰਹੀਆਂ ਹਨ।"
 "ਵੇਰਵਿਆਂ ਲਈ ਸੇਵਾ ਪੂਰਕਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ।"
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ?"
-"<0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ? <0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ "
+"ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਂਟਲ ਹੋਣ ਲਈ ਤੁਹਾਡੀ ਹੱਥਲੀ ਗਾਈਡ ਹੈ।"
+
+msgid "Welcome to Arrival Advisor"
+msgstr "Arrival Advisor ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "Search is currently in beta and only available in English."
+msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"
+
+msgid "Give Feedback"
+msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"

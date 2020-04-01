@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://15.223.77.141/projects/ui-strings/jsx_strings/"
+"Language-Team: French <https://52.60.40.251/projects/ui-strings/jsx_strings/"
 "fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -29,8 +29,8 @@ msgstr "À propos d’Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "Adresse"
+msgid "Address:"
+msgstr "Adresse :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -81,13 +81,6 @@ msgstr ""
 "informations et des services pour préparer leur établissement. L'application "
 "est offerte en anglais, en arabe, en chinois (simplifié et traditionnel), en "
 "français (canadien), en coréen, en punjabi et en tagalog."
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor est votre guide pendant que vous vous établissez dans votre "
-"nouvelle communauté."
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -227,8 +220,8 @@ msgstr "EXPLORER LES SUJETS"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "Courriel"
+msgid "Email:"
+msgstr "Courriel :"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -398,10 +391,8 @@ msgid "Information on helplines"
 msgstr "Renseignements relatifs aux lignes d’aide"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "Activer le service de localisation"
+msgstr "Emplacement non valide. Essayez :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -422,8 +413,8 @@ msgstr "Titre du poste"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "Dernière vérification"
+msgid "Last verified:"
+msgstr "Dernière vérification :"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -454,6 +445,7 @@ msgstr "Nom"
 msgid "New topics have been recommended based on your answers!"
 msgstr "De nouveaux sujets ont été recommandés en fonction de vos réponses!"
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "Prochaine question"
@@ -537,8 +529,8 @@ msgstr "Politique de confidentialité"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "Fournisseur"
+msgid "Provided by:"
+msgstr "Fournisseur :"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -635,11 +627,12 @@ msgstr "S’établir au Canada est maintenant plus facile."
 msgid "Show more services"
 msgstr "Voir davantage de services"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "Ignorer la question"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Débuter"
@@ -736,8 +729,8 @@ msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "Site Web"
+msgid "Website:"
+msgstr "Site Web :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -770,18 +763,38 @@ msgid "COVID-19 information"
 msgstr "Informations relatives au COVID-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
 "La plupart de nos services répertoriés sont en train de passer à d’autres "
-"méthodes de prestations de services."
-"Pour plus de détails, veuillez consulter les sites Web des fournisseurs de "
-"services."
+"méthodes de prestations de services. Pour plus de détails, veuillez "
+"consulter les sites Web des fournisseurs de services."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"Vous avez des questions au sujet du COVID-19?Obtenez les informations les "
+"Vous avez des questions au sujet du COVID-19? Obtenez les informations les "
 "plus récentes du<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+"Votre guide de référence pour vous établir au sein de votre nouvelle "
+"communauté."
+
+msgid "Welcome to Arrival Advisor"
+msgstr "Bienvenue sur Arrival Advisor"
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+"L’outil de recherche est actuellement disponible en version bêta et "
+"seulement en anglais."
+
+msgid "Give Feedback"
+msgstr "Donnez votre avis"
 
 #~ msgid "near"
 #~ msgstr "près"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
+msgid "Address:"
 msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
@@ -47,10 +47,6 @@ msgstr ""
 
 #: lib/components/about/about_component.js:24
 msgid "Arrival Advisor is a free, multilingual, mobile app that helps immigrants and refugees in British Columbia, Canada find information and services to navigate their settlement journey. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid "Arrival Advisor is your go-to guide to getting settled in your new community."
 msgstr ""
 
 #: lib/components/disclaimer/disclaimer_component.js:38
@@ -157,7 +153,7 @@ msgstr ""
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
+msgid "Email:"
 msgstr ""
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
@@ -302,7 +298,7 @@ msgstr ""
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
+msgid "Last verified:"
 msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
@@ -334,6 +330,7 @@ msgstr ""
 msgid "New topics have been recommended based on your answers!"
 msgstr ""
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr ""
@@ -399,7 +396,7 @@ msgstr ""
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
+msgid "Provided by:"
 msgstr ""
 
 #: lib/components/topics/task_detail_component.js:22
@@ -489,11 +486,12 @@ msgstr ""
 msgid "Show more services"
 msgstr ""
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr ""
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr ""
@@ -549,7 +547,7 @@ msgstr ""
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
+msgid "Website:"
 msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
@@ -581,4 +579,17 @@ msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:43
 msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgstr ""
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr ""
+
+msgid "Welcome to Arrival Advisor"
+msgstr ""
+
+msgid "Search is currently in beta and only available in English."
+msgstr ""
+
+msgid "Give Feedback"
 msgstr ""

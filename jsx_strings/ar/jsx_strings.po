@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 18:33+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://15.223.77.141/projects/ui-strings/jsx_strings/"
+"Language-Team: Arabic <https://52.60.40.251/projects/ui-strings/jsx_strings/"
 "ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -30,8 +30,8 @@ msgstr "نبذة عن Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
-msgstr "العنوان"
+msgid "Address:"
+msgstr "العنوان:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -81,13 +81,6 @@ msgstr ""
 "والخدمات التي توجههم في سعيهم نحو الاستقرار. تطبيق Arrival Advisor متوفر "
 "حاليا باللغات الإنكليزية والعربية والصينية المبسطة والصينية التقليدية "
 "والفرنسية (كندا) والكورية والبنجابية والتاغلوغية."
-
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"تطبيق Arrival Advisor هو دليلك المفضل في رحلتك نحو الإستقرار في مجتمعك "
-"الجديد."
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
@@ -217,8 +210,8 @@ msgstr "تصفح الموضوعات"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
-msgstr "البريد الإلكتروني"
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -384,10 +377,8 @@ msgid "Information on helplines"
 msgstr "معلومات تتعلق بخطوط المساعدة على الهاتف"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
-#, fuzzy
-#| msgid "Enable location services"
 msgid "Invalid location. Try:"
-msgstr "تمكين خدمات الموقع"
+msgstr "موقع غير صحيح. جرب ما يلي:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -407,8 +398,8 @@ msgstr "المسمى الوظيفي"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
-msgstr "آخر تحقق"
+msgid "Last verified:"
+msgstr "آخر تحقق:"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -439,6 +430,7 @@ msgstr "الاسم"
 msgid "New topics have been recommended based on your answers!"
 msgstr "توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
 
+#: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
 msgstr "التالي"
@@ -519,8 +511,8 @@ msgstr "سياسة الخصوصية"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
-msgstr "يقدمها لكم"
+msgid "Provided by:"
+msgstr "يقدمها لكم:"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -615,11 +607,12 @@ msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي ق
 msgid "Show more services"
 msgstr "عرض المزيد من الخدمات"
 
+#: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
 msgstr "تخطى"
 
-#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "ابدأ"
@@ -710,8 +703,8 @@ msgstr "تحديث توصياتي"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
-msgstr "الموقع الشبكي"
+msgid "Website:"
+msgstr "الموقع الشبكي:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
@@ -741,16 +734,33 @@ msgid "COVID-19 information"
 msgstr "معلومات عن كوفيد-19"
 
 #: lib/components/recommended_topics/call_to_action.js:36
-msgid "Many of our listed services are transitioning to alternate service delivery methods. Please check service providers' websites for details."
+msgid ""
+"Many of our listed services are transitioning to alternate service delivery "
+"methods. Please check service providers' websites for details."
 msgstr ""
-"عدد كبير من خدماتنا المدرجة ينتقل إلى سبل بديلة لتقديم الخدمات."
-"يرجى زيارة المواقع الشبكية لمقدمي الخدمات كي تطلع على التفاصيل."
+"عدد كبير من خدماتنا المدرجة ينتقل إلى سبل بديلة لتقديم الخدمات. يرجى زيارة "
+"المواقع الشبكية لمقدمي الخدمات كي تطلع على التفاصيل."
 
 #: lib/components/recommended_topics/call_to_action.js:43
-msgid "Questions about COVID-19? Get the latest information from<0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+msgid ""
+"Questions about COVID-19? Get the latest information from<0> </0><1>BC "
+"Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"هل لديك أسئلة تتعلق بكوفيد-19؟"
-"طالع آخر المعلومات من مركز <0> </0><1>مكافحة الأمراض في بريتيش كولومبيا <2> </2><3/></1>."
+"هل لديك أسئلة تتعلق بكوفيد-19؟ طالع آخر المعلومات من مركز <0> </0><1>مكافحة "
+"الأمراض في بريتيش كولومبيا <2> </2><3/></1>."
+
+#: lib/components/onboarding/onboarding_component.js:18
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "دليلك المفضل نحو الاستقرار في مجتمعك الجديد."
+
+msgid "Welcome to Arrival Advisor"
+msgstr "مرحبا بك في تطبيق Arrival Advisor"
+
+msgid "Search is currently in beta and only available in English."
+msgstr "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية."
+
+msgid "Give Feedback"
+msgstr "أبلغنا برأيك وملاحظاتك"
 
 #~ msgid "near"
 #~ msgstr "في الجوار"
