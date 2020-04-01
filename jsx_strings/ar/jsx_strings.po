@@ -30,7 +30,9 @@ msgstr "نبذة عن Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
+#, fuzzy
+#| msgid "Address"
+msgid "Address:"
 msgstr "العنوان"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
@@ -210,7 +212,9 @@ msgstr "تصفح الموضوعات"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
+#, fuzzy
+#| msgid "Email"
+msgid "Email:"
 msgstr "البريد الإلكتروني"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
@@ -398,7 +402,9 @@ msgstr "المسمى الوظيفي"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
+#, fuzzy
+#| msgid "Last verified"
+msgid "Last verified:"
 msgstr "آخر تحقق"
 
 #: lib/components/explore/explore_all_component.js:11
@@ -511,7 +517,9 @@ msgstr "سياسة الخصوصية"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
+#, fuzzy
+#| msgid "Provided by"
+msgid "Provided by:"
 msgstr "يقدمها لكم"
 
 #: lib/components/topics/task_detail_component.js:22
@@ -703,7 +711,9 @@ msgstr "تحديث توصياتي"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
+#, fuzzy
+#| msgid "Website"
+msgid "Website:"
 msgstr "الموقع الشبكي"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56

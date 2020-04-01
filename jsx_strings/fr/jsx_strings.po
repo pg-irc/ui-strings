@@ -29,7 +29,9 @@ msgstr "À propos d’Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
+#, fuzzy
+#| msgid "Address"
+msgid "Address:"
 msgstr "Adresse"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
@@ -220,7 +222,9 @@ msgstr "EXPLORER LES SUJETS"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
+#, fuzzy
+#| msgid "Email"
+msgid "Email:"
 msgstr "Courriel"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
@@ -413,7 +417,9 @@ msgstr "Titre du poste"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
+#, fuzzy
+#| msgid "Last verified"
+msgid "Last verified:"
 msgstr "Dernière vérification"
 
 #: lib/components/explore/explore_all_component.js:11
@@ -529,7 +535,9 @@ msgstr "Politique de confidentialité"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
+#, fuzzy
+#| msgid "Provided by"
+msgid "Provided by:"
 msgstr "Fournisseur"
 
 #: lib/components/topics/task_detail_component.js:22
@@ -729,7 +737,9 @@ msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
+#, fuzzy
+#| msgid "Website"
+msgid "Website:"
 msgstr "Site Web"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56

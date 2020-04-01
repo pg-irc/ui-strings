@@ -29,7 +29,9 @@ msgstr "Arrival Advisor ਬਾਰੇ"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
+#, fuzzy
+#| msgid "Address"
+msgid "Address:"
 msgstr "ਪਤਾ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
@@ -48,8 +50,8 @@ msgid ""
 "recommendations of topics and services to help you settle in British "
 "Columbia."
 msgstr ""
-"ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸੈਟਲ ਹੋਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਵਿਸ਼ਿਆ ਤੇ ਸੇਵਾਵਾਂ ਦੀ "
-"ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਲੈਣ ਲਈ ਆਪਣੇ ਹਾਲਤ ਬਾਰੇ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿਓ।"
+"ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸੈਟਲ ਹੋਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਵਿਸ਼ਿਆ ਤੇ ਸੇਵਾਵਾਂ ਦੀ ਤੁਹਾਡੇ ਲਈ "
+"ਸਿਫਾਰਸ਼ਾਂ ਲੈਣ ਲਈ ਆਪਣੇ ਹਾਲਤ ਬਾਰੇ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿਓ।"
 
 #: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
@@ -206,7 +208,9 @@ msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
+#, fuzzy
+#| msgid "Email"
+msgid "Email:"
 msgstr "ਈਮੇਲ"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
@@ -387,7 +391,9 @@ msgstr "ਕੰਮ ਦਾ ਅਹੁਦਾ"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
+#, fuzzy
+#| msgid "Last verified"
+msgid "Last verified:"
 msgstr "ਆਖਰੀ ਵਾਰ ਤਸਦੀਕ ਕੀਤਾ"
 
 #: lib/components/explore/explore_all_component.js:11
@@ -500,7 +506,9 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
+#, fuzzy
+#| msgid "Provided by"
+msgid "Provided by:"
 msgstr "ਇਸ ਵਲੋਂ ਪੇਸ਼ਕਸ਼"
 
 #: lib/components/topics/task_detail_component.js:22
@@ -688,7 +696,9 @@ msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
+#, fuzzy
+#| msgid "Website"
+msgid "Website:"
 msgstr "ਵੈੱਬਸਾਈਟ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
@@ -732,8 +742,8 @@ msgid ""
 "Questions about COVID-19? Get the latest information from<0> </0><1>BC "
 "Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ? <0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/"
-"></1> ਤੋਂ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
+"COVID-19 ਬਾਰੇ ਸਵਾਲ ਹਨ? <0> </0><1>ਬੀਸੀ ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ ਕੰਟਰੋਲ<2> </2><3/></1> ਤੋਂ "
+"ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਲਵੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."

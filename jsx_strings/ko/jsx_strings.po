@@ -29,7 +29,9 @@ msgstr "Arrival Advisor에 대하여"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-msgid "Address"
+#, fuzzy
+#| msgid "Address"
+msgid "Address:"
 msgstr "주소"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
@@ -210,7 +212,9 @@ msgstr "주제 탐색하기"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-msgid "Email"
+#, fuzzy
+#| msgid "Email"
+msgid "Email:"
 msgstr "이메일"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
@@ -391,7 +395,9 @@ msgstr "직업명"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-msgid "Last verified"
+#, fuzzy
+#| msgid "Last verified"
+msgid "Last verified:"
 msgstr "최신 업데이트"
 
 #: lib/components/explore/explore_all_component.js:11
@@ -504,7 +510,9 @@ msgstr "개인정보 정책"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-msgid "Provided by"
+#, fuzzy
+#| msgid "Provided by"
+msgid "Provided by:"
 msgstr "제공"
 
 #: lib/components/topics/task_detail_component.js:22
@@ -696,7 +704,9 @@ msgstr "나의 추천 업데이트하기"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-msgid "Website"
+#, fuzzy
+#| msgid "Website"
+msgid "Website:"
 msgstr "웹사이트"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
@@ -730,13 +740,17 @@ msgstr "코로나-19 정보"
 msgid ""
 "Many of our listed services are transitioning to alternate service delivery "
 "methods. Please check service providers' websites for details."
-msgstr "많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다. 자세한 내용은 서비스 제공자의 웹사이트를 확인해 주세요."
+msgstr ""
+"많은 서비스들이 대체 서비스 제공 방안을 마련하고 있습니다. 자세한 내용은 서비"
+"스 제공자의 웹사이트를 확인해 주세요."
 
 #: lib/components/recommended_topics/call_to_action.js:43
 msgid ""
 "Questions about COVID-19? Get the latest information from<0> </0><1>BC "
 "Centre for Disease Control<2> </2><3/></1>."
-msgstr "코로나-19 관련 질문이 있으세요? <0> </0><1>BC주 질병관리본부의 <2> </2><3/></1>최신 소식을 받으세요."
+msgstr ""
+"코로나-19 관련 질문이 있으세요? <0> </0><1>BC주 질병관리본부의 <2> </2><3/"
+"></1>최신 소식을 받으세요."
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
