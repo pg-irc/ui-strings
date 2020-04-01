@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-26 21:54+0000\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.118.100/projects/ui-strings/"
-"jsx_strings/tl/>\n"
+"Language-Team: Tagalog <https://52.60.40.251/projects/ui-strings/jsx_strings/"
+"tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,10 +30,8 @@ msgstr "Tungkol sa Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-#, fuzzy
-#| msgid "Address"
 msgid "Address:"
-msgstr "Address"
+msgstr "Address:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -223,10 +221,8 @@ msgstr "GALUGARIN ANG MGA PAKSA"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email"
 msgid "Email:"
-msgstr "Email"
+msgstr "Email:"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -415,10 +411,8 @@ msgstr "Titulo sa Trabaho"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-#, fuzzy
-#| msgid "Last verified"
 msgid "Last verified:"
-msgstr "Huling naberipika"
+msgstr "Huling naberipika:"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -533,10 +527,8 @@ msgstr "Patakaran sa Pagkapribado"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-#, fuzzy
-#| msgid "Provided by"
 msgid "Provided by:"
-msgstr "Inilaan ng"
+msgstr "Inilaan ng:"
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -734,10 +726,8 @@ msgstr "I-UPDATE ANG REKOMENDASYON KO"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-#, fuzzy
-#| msgid "Website"
 msgid "Website:"
-msgstr "Website"
+msgstr "Website:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
