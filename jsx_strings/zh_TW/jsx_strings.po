@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-03-31 01:08+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://52.60.40.251/projects/ui-"
-"strings/jsx_strings/zh_Hant/>\n"
+"PO-Revision-Date: 2020-04-01 18:29+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Traditional) <https://52.60.40.251/projects/"
+"ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,10 +29,8 @@ msgstr "有關 Arrival Advisor"
 
 #: lib/components/addresses/addresses_component.js:14
 #: lib/components/addresses/addresses_component.js:37
-#, fuzzy
-#| msgid "Address"
 msgid "Address:"
-msgstr "地址"
+msgstr "地址："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "An error occurred"
@@ -205,10 +203,8 @@ msgstr "探索主題"
 
 #: lib/components/email/email_component.js:19
 #: lib/components/email/email_component.js:27
-#, fuzzy
-#| msgid "Email"
 msgid "Email:"
-msgstr "電子郵件"
+msgstr "電子郵件："
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Email me updates"
@@ -383,10 +379,8 @@ msgstr "職位名稱"
 
 #: lib/components/content_verification/content_verification_component.js:10
 #: lib/components/content_verification/content_verification_component.js:14
-#, fuzzy
-#| msgid "Last verified"
 msgid "Last verified:"
-msgstr "上次確認"
+msgstr "上次確認："
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -497,10 +491,8 @@ msgstr "隱私政策"
 
 #: lib/components/services/service_detail_component.js:33
 #: lib/components/services/service_list_item_component.js:23
-#, fuzzy
-#| msgid "Provided by"
 msgid "Provided by:"
-msgstr "提供者"
+msgstr "提供者："
 
 #: lib/components/topics/task_detail_component.js:22
 msgid "RELATED TOPICS"
@@ -684,10 +676,8 @@ msgstr "更新我的推薦信息"
 
 #: lib/components/website/website_component.js:18
 #: lib/components/website/website_component.js:26
-#, fuzzy
-#| msgid "Website"
 msgid "Website:"
-msgstr "網站"
+msgstr "網站："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:56
 msgid ""
