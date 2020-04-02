@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-02 17:54+0000\n"
+"PO-Revision-Date: 2020-04-02 18:21+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Tagalog <https://99.79.41.36/projects/ui-strings/jsx_strings/"
 "tl/>\n"
@@ -775,16 +775,16 @@ msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
+msgstr "“Gabay” sa pagsisimulang paninirahan sa inyong bagong komunidad."
 
 msgid "Welcome to Arrival Advisor"
-msgstr ""
+msgstr "Welcome to Arrival Advisor"
 
 msgid "Search is currently in beta and only available in English."
-msgstr ""
+msgstr "“Search” ay kasalukuyang sa Ingles lamang."
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "Komento"
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"
