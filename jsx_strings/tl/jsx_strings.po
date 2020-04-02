@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-01 18:29+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://52.60.40.251/projects/ui-strings/jsx_strings/"
+"PO-Revision-Date: 2020-04-02 18:21+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Tagalog <https://99.79.41.36/projects/ui-strings/jsx_strings/"
 "tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -52,8 +52,8 @@ msgid ""
 "Columbia."
 msgstr ""
 "Sagutin ang ilan sa mga katanungan tungkol sa sitwasyon mo para makakuha ng "
-"personalisadong mga rekomendasyon ng mga paksa at serbisyo upang tulungan "
-"kang manirahan sa British Columbia."
+"personal na rekomendasyon tungkol sa mga serbisyong makatutulong sa iyong "
+"paninirahan sa British Columbia."
 
 #: lib/components/recommended_topics/call_to_action.js:52
 msgid "Answer questions"
@@ -246,7 +246,7 @@ msgstr "Siguraduhing gumamit ng Ingles sa paghanap"
 
 #: lib/components/search/search_input_component.js:183
 msgid "Enter city, address, or postal code"
-msgstr "Ilagay ang lungsod, adres, o postal code"
+msgstr "Isulat ang lungsod, address, o postal code"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:92
 msgid "Enter email"
@@ -425,7 +425,7 @@ msgstr "Maramihang wika na mga serbisyo sa impormasyon sa kalusugan"
 #: lib/components/search/search_input_component.js:136
 #: lib/components/search/search_input_component.js:185
 msgid "My Location"
-msgstr "Lokasyon Ko"
+msgstr "Kasalukuyang Kinaroroonan"
 
 #: lib/components/bookmarks/bookmarks_component.js:16
 msgid "My bookmarks"
@@ -433,7 +433,7 @@ msgstr "Mga bookmark ko"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:97
 msgid "My location"
-msgstr "Lokasyon Ko"
+msgstr "Kasalukuyang Kinaroroonan"
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:67
 msgid "Name"
@@ -775,16 +775,16 @@ msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
+msgstr "“Gabay” sa pagsisimulang paninirahan sa inyong bagong komunidad."
 
 msgid "Welcome to Arrival Advisor"
-msgstr ""
+msgstr "Welcome to Arrival Advisor"
 
 msgid "Search is currently in beta and only available in English."
-msgstr ""
+msgstr "“Search” ay kasalukuyang sa Ingles lamang."
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "Komento"
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"
