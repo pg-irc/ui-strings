@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-01 18:29+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://52.60.40.251/projects/"
+"PO-Revision-Date: 2020-04-08 19:50+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://52.60.72.113/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -423,7 +423,7 @@ msgstr "無搜索結果。請嘗試："
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:43
 msgid "No services to show"
-msgstr "無網路服務顯示"
+msgstr "沒有可顯示的服務"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
