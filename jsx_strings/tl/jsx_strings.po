@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-02 18:55+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://99.79.41.36/projects/ui-strings/jsx_strings/"
+"PO-Revision-Date: 2020-04-08 20:38+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Tagalog <https://52.60.72.113/projects/ui-strings/jsx_strings/"
 "tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,7 @@ msgstr "Tinanggal ang bookmark"
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr ""
-"Markahan ang mga paksa na sa wari mo ay makatutulong sa iyo sa susunod."
+"I-bookmark ang mga paksa na sa wari mo ay makakatulong sa iyo sa susunod."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
@@ -295,8 +295,8 @@ msgid ""
 "Find service providers near you that can help you through your settlement "
 "journey."
 msgstr ""
-"Humanap ng mga service provider malapit sa iyo na makakatulong sa iyo "
-"hanggang sa matutuluyan mo sa paglalakbay."
+"Humanap ng mga service provider malapit sa iyo na makakatulong sa iyong "
+"panibagong pakikipagsapalaran."
 
 #: lib/components/receive_updates_modal/receive_updates_modal_component.js:99
 msgid "Finish without email"
@@ -390,7 +390,7 @@ msgstr "Impormasyon sa mga helpline"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:28
 msgid "Invalid location. Try:"
-msgstr "Hindi wasto lokasyon: Subukan:"
+msgstr "Maling lokasyon. Subukan:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:53
 msgid "It took too long finding your location."
@@ -446,7 +446,7 @@ msgstr "Mga bagong paksang nirekomenda batay sa mga sagot mo!"
 #: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
-msgstr "Susunod"
+msgstr "Tuloy"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
