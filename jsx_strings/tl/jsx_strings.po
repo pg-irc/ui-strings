@@ -780,11 +780,20 @@ msgstr "“Gabay” sa pagsisimulang paninirahan sa inyong bagong komunidad."
 msgid "Welcome to Arrival Advisor"
 msgstr "Welcome to Arrival Advisor"
 
-msgid "Search is currently in beta and only available in English."
-msgstr "“Search” ay kasalukuyang sa Ingles lamang."
+#, fuzzy
+#| msgid ""
+#| "Information about services is currently only available in English. For "
+#| "support in other languages, please"
+msgid ""
+"Search is currently in beta and only available in English. For support in "
+"other languages, please"
+msgstr "Ang kaalaman sa serbisyong ito ay kasalukuyang sa Ingles lamang"
 
 msgid "Give Feedback"
 msgstr "Komento"
+
+#~ msgid "Search is currently in beta and only available in English."
+#~ msgstr "“Search” ay kasalukuyang sa Ingles lamang."
 
 #~ msgid "Open in maps"
 #~ msgstr "Buksan sa mga mapa"

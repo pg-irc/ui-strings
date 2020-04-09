@@ -742,11 +742,20 @@ msgstr "ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ�
 msgid "Welcome to Arrival Advisor"
 msgstr "Arrival Advisor ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
 
-msgid "Search is currently in beta and only available in English."
-msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"
+#, fuzzy
+#| msgid ""
+#| "Information about services is currently only available in English. For "
+#| "support in other languages, please"
+msgid ""
+"Search is currently in beta and only available in English. For support in "
+"other languages, please"
+msgstr "ਸੇਵਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਾਲੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਹੀ ਮੌਜੂਦ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ ਕਰਕੇ"
 
 msgid "Give Feedback"
 msgstr "ਫੀਡਬੈਕ ਦਿਓ"
+
+#~ msgid "Search is currently in beta and only available in English."
+#~ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"
 
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"

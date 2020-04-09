@@ -788,13 +788,24 @@ msgstr ""
 msgid "Welcome to Arrival Advisor"
 msgstr "Bienvenue sur Arrival Advisor"
 
-msgid "Search is currently in beta and only available in English."
+#, fuzzy
+#| msgid ""
+#| "Information about services is currently only available in English. For "
+#| "support in other languages, please"
+msgid ""
+"Search is currently in beta and only available in English. For support in "
+"other languages, please"
 msgstr ""
-"L’outil de recherche est actuellement disponible en version bêta et "
-"seulement en anglais."
+"Pour l’instant, l’information sur les services est offerte uniquement en "
+"anglais. Pour obtenir de l’aide dans d’autres langues, veuillez"
 
 msgid "Give Feedback"
 msgstr "Donnez votre avis"
+
+#~ msgid "Search is currently in beta and only available in English."
+#~ msgstr ""
+#~ "L’outil de recherche est actuellement disponible en version bêta et "
+#~ "seulement en anglais."
 
 #~ msgid "near"
 #~ msgstr "près"

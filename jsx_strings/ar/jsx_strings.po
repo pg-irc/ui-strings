@@ -756,11 +756,23 @@ msgstr "دليلك المفضل نحو الاستقرار في مجتمعك ال
 msgid "Welcome to Arrival Advisor"
 msgstr "مرحبا بك في تطبيق Arrival Advisor"
 
-msgid "Search is currently in beta and only available in English."
-msgstr "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية."
+#, fuzzy
+#| msgid ""
+#| "Information about services is currently only available in English. For "
+#| "support in other languages, please"
+msgid ""
+"Search is currently in beta and only available in English. For support in "
+"other languages, please"
+msgstr ""
+"المعلومات عن الخدمات متاحة حاليا باللغة الإنكليزية فقط. كي تحصل على الدعم "
+"بلغة أخرى، يرجى"
 
 msgid "Give Feedback"
 msgstr "أبلغنا برأيك وملاحظاتك"
+
+#~ msgid "Search is currently in beta and only available in English."
+#~ msgstr ""
+#~ "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية."
 
 #~ msgid "near"
 #~ msgstr "في الجوار"
