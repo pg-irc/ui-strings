@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-01 18:29+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://52.60.40.251/projects/ui-strings/jsx_strings/"
+"PO-Revision-Date: 2020-04-08 20:27+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: French <https://52.60.72.113/projects/ui-strings/jsx_strings/"
 "fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr "Retiré des favoris"
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr ""
-"Ajoutez à vos favoris les sujets qui vous sont utiles, et consultez-les plus "
+"Ajoutez les sujets qui vous sont utiles à vos favoris et consultez-les plus "
 "tard."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
@@ -448,7 +448,7 @@ msgstr "De nouveaux sujets ont été recommandés en fonction de vos réponses!"
 #: lib/components/onboarding/onboarding_component.js:37
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Next"
-msgstr "Prochaine question"
+msgstr "Suivant"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:26
 msgid "No results found. Try to:"
@@ -457,7 +457,7 @@ msgstr "Aucun résultat. Essayez de : "
 #: lib/components/bookmarks/service_bookmarks_component.js:10
 #: lib/components/services/service_list_component.js:43
 msgid "No services to show"
-msgstr "Pas de services à proposer"
+msgstr "Aucun service à proposer"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:10
 msgid "No topics to recommend"
@@ -630,7 +630,7 @@ msgstr "Voir davantage de services"
 #: lib/components/onboarding/onboarding_component.js:48
 #: lib/components/questionnaire/questionnaire_component.js:101
 msgid "Skip"
-msgstr "Ignorer la question"
+msgstr "Ignorer"
 
 #: lib/components/onboarding/onboarding_component.js:36
 #: lib/components/welcome/welcome_component.js:49
