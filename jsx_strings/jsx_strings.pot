@@ -70,7 +70,7 @@ msgid "Bookmark removed"
 msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics and services that you find helpful for future use."
+msgid "Bookmark the topics that you find helpful for future use."
 msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
@@ -588,7 +588,7 @@ msgstr ""
 msgid "Welcome to Arrival Advisor"
 msgstr ""
 
-msgid "Search is currently in beta and only available in English."
+msgid "Search is currently in beta and only available in English. For support in other languages, please"
 msgstr ""
 
 msgid "Give Feedback"
