@@ -121,7 +121,9 @@ msgid "Bookmark removed"
 msgstr "삭제된 북마크"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
+#, fuzzy
+#| msgid "Bookmark the topics that you find helpful for future use."
+msgid "Bookmark the topics and services that you find helpful for future use."
 msgstr ""
 "향후에 유용할 만한 주제는\n"
 " 북마크를 해두세요."

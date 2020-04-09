@@ -123,7 +123,9 @@ msgid "Bookmark removed"
 msgstr "محونا العلامة المرجعية"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
+#, fuzzy
+#| msgid "Bookmark the topics that you find helpful for future use."
+msgid "Bookmark the topics and services that you find helpful for future use."
 msgstr "قم بالتعليم على الموضوعات التي تجدها مفيدة كي ترجع إليها في وقت لاحق."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
