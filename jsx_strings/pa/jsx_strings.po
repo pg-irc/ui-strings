@@ -121,7 +121,7 @@ msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 #: lib/components/onboarding/onboarding_component.js:41
 #, fuzzy
 #| msgid "Bookmark the topics that you find helpful for future use."
-msgid "Bookmark the topics and services that you find helpful for future use."
+msgid "Bookmark the topics that you find helpful for future use."
 msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
