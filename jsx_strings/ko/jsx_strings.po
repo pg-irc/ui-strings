@@ -756,7 +756,7 @@ msgid ""
 "other languages, please"
 msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다. 타 언어 지원을 원할 경우,"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "피드백 전달하기"
 
 #~ msgid "Search is currently in beta and only available in English."
