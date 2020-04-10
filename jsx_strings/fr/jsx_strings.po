@@ -795,7 +795,7 @@ msgstr ""
 "L’outil de recherche est actuellement disponible en version bêta et  "
 "seulement en anglais. Pour obtenir de l’aide dans d’autres langues, veuillez"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "Donnez votre avis"
 
 #~ msgid "Search is currently in beta and only available in English."

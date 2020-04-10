@@ -763,7 +763,7 @@ msgstr ""
 "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية.كي تحصل "
 "على الدعم بلغة أخرى، يرجى"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "أبلغنا برأيك وملاحظاتك"
 
 #~ msgid "Search is currently in beta and only available in English."

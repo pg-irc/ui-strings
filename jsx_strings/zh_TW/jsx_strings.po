@@ -733,7 +733,7 @@ msgid ""
 "other languages, please"
 msgstr "搜索目前處於測試階段，只提供英語版本。其他語言幫助，請"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "給予反饋"
 
 #~ msgid "Search is currently in beta and only available in English."
