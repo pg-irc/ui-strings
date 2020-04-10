@@ -785,7 +785,7 @@ msgid ""
 "other languages, please"
 msgstr "“Search” ay kasalukuyang sa Ingles lamang"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "Komento"
 
 #~ msgid "Search is currently in beta and only available in English."

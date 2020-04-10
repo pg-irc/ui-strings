@@ -749,7 +749,7 @@ msgstr ""
 "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ"
 " ਕਰਕੇ"
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 
 #~ msgid "Search is currently in beta and only available in English."

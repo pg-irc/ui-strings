@@ -591,5 +591,5 @@ msgstr ""
 msgid "Search is currently in beta and only available in English. For support in other languages, please"
 msgstr ""
 
-msgid "Give Feedback"
+msgid "Give feedback"
 msgstr ""
