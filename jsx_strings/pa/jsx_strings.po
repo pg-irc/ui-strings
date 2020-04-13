@@ -745,18 +745,16 @@ msgstr "Arrival Advisor ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
 msgid ""
 "Search is currently in beta and only available in English. For support in "
 "other languages, please"
-msgstr ""
-"ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ"
-" ਕਰਕੇ"
+msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਿਰਪਾ ਕਰਕੇ"
 
 msgid "Give feedback"
 msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 
+msgid "near"
+msgstr "ਨੇੜੇ"
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"
-
-#~ msgid "near"
-#~ msgstr "ਨੇੜੇ"
 
 #~ msgid "Open in maps"
 #~ msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"

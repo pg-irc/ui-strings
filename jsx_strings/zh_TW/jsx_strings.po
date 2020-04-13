@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
 "PO-Revision-Date: 2020-04-09 18:26+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://52.60.72.113/projects/"
-"ui-strings/jsx_strings/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) <https://52.60.72.113/projects/ui-"
+"strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -736,11 +736,11 @@ msgstr "搜索目前處於測試階段，只提供英語版本。其他語言幫
 msgid "Give feedback"
 msgstr "給予反饋"
 
+msgid "near"
+msgstr "附近"
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "搜索目前處於測試階段，只提供英語版本。"
-
-#~ msgid "near"
-#~ msgstr "附近"
 
 #~ msgid "Open in maps"
 #~ msgstr "在地圖中顯示"

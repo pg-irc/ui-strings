@@ -754,16 +754,17 @@ msgstr "Arrival Advisor에 오신 것을 환영합니다."
 msgid ""
 "Search is currently in beta and only available in English. For support in "
 "other languages, please"
-msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다. 타 언어 지원을 원할 경우,"
+msgstr ""
+"검색은 현재 베타 서비스이며 영어로만 가능합니다. 타 언어 지원을 원할 경우,"
 
 msgid "Give feedback"
 msgstr "피드백 전달하기"
 
+msgid "near"
+msgstr "근처"
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다."
-
-#~ msgid "near"
-#~ msgstr "근처"
 
 #~ msgid "Open in maps"
 #~ msgstr "지도에서 열기"

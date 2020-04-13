@@ -788,6 +788,9 @@ msgstr "“Search” ay kasalukuyang sa Ingles lamang"
 msgid "Give feedback"
 msgstr "Komento"
 
+msgid "near"
+msgstr ""
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "“Search” ay kasalukuyang sa Ingles lamang."
 
