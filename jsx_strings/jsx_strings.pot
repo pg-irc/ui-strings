@@ -593,3 +593,6 @@ msgstr ""
 
 msgid "Give feedback"
 msgstr ""
+
+msgid "near"
+msgstr ""
