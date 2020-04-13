@@ -798,13 +798,13 @@ msgstr ""
 msgid "Give feedback"
 msgstr "Donnez votre avis"
 
+msgid "near"
+msgstr "près"
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr ""
 #~ "L’outil de recherche est actuellement disponible en version bêta et "
 #~ "seulement en anglais."
-
-#~ msgid "near"
-#~ msgstr "près"
 
 #~ msgid "Open in maps"
 #~ msgstr "Voir sur une carte"

@@ -766,12 +766,12 @@ msgstr ""
 msgid "Give feedback"
 msgstr "أبلغنا برأيك وملاحظاتك"
 
+msgid "near"
+msgstr "في الجوار"
+
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr ""
 #~ "خاصية البحث في المرحلة التجريبية حاليا ومتاحة فقط باللغة الإنكليزية."
-
-#~ msgid "near"
-#~ msgstr "في الجوار"
 
 #~ msgid "Open in maps"
 #~ msgstr "فتح في الخرائط"
