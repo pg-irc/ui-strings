@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-13 18:19+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
+"PO-Revision-Date: 2020-04-14 19:18+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Tagalog <https://35.182.198.39/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
@@ -334,7 +334,7 @@ msgstr "PAGSISIMULA"
 
 #: lib/components/recommended_topics/call_to_action.js:33
 msgid "Get information based on your needs"
-msgstr "Makakuha ng impormasyon batay sa pangangailangan mo"
+msgstr "Kumuha ng impormasyon batay sa pangangailangan mo"
 
 #: lib/components/recommended_topics/call_to_action.js:71
 msgid "Go back to questions"
@@ -420,7 +420,7 @@ msgstr "Alamin lahat ang tungkol sa B.C."
 
 #: lib/components/help/help_component.js:24
 msgid "Multilingual health information services"
-msgstr "Maramihang wika na mga serbisyo sa impormasyon sa kalusugan"
+msgstr "Serbisyong Impormasyong pangkalusugan sa maramihang wika"
 
 #: lib/components/search/search_input_component.js:136
 #: lib/components/search/search_input_component.js:185
@@ -561,7 +561,7 @@ msgstr "PUMILI NG IYONG WIKA"
 
 #: lib/components/services/service_detail_component.js:21
 msgid "SERVICE"
-msgstr "MGA SERBISYO"
+msgstr "SERBISYO"
 
 #: lib/components/bookmarks/bookmarks_component.js:19
 msgid ""
@@ -748,7 +748,7 @@ msgstr ""
 
 #: lib/components/partial_localization/message_component.js:25
 msgid "call BC211."
-msgstr "tumawag sa BC211."
+msgstr "tumawag sa bc211"
 
 msgid "Need suggestions? Try:"
 msgstr "Kailangan ng ibang mungkahi? Subukan ang:"
@@ -770,8 +770,8 @@ msgid ""
 "Questions about COVID-19? Get the latest information from<0> </0><1>BC "
 "Centre for Disease Control<2> </2><3/></1>."
 msgstr ""
-"May Tanong ba Kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
-"mula sa <0> </0><1>BC Centre for Disease Control<2> </2><3/></1>."
+"May tanong ba kayo tungkol sa COVID-19? Alamin ang pinakabagong kaalaman "
+"mula sa for  <0> </0><1>BC Centre<2> </2><3/></1>."
 
 #: lib/components/onboarding/onboarding_component.js:18
 msgid "Your go-to guide to getting settled in your new community."
@@ -783,10 +783,12 @@ msgstr "Welcome to Arrival Advisor"
 msgid ""
 "Search is currently in beta and only available in English. For support in "
 "other languages, please"
-msgstr "“Search” ay kasalukuyang sa Ingles lamang"
+msgstr ""
+"\"Search\" ay kasalukuyang sa Ingles lamang. Kung nais ng suporta sa ibang "
+"wika,"
 
 msgid "Give feedback"
-msgstr "Komento"
+msgstr "Magbigay ng komento"
 
 msgid "near"
 msgstr "malapit"
