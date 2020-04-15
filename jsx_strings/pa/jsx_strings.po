@@ -750,8 +750,11 @@ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤ�
 msgid "Give feedback"
 msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 
-msgid "near"
-msgstr "ਨੇੜੇ"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "ਨੇੜੇ"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"

@@ -736,8 +736,11 @@ msgstr "搜索目前處於測試階段，只提供英語版本。其他語言幫
 msgid "Give feedback"
 msgstr "給予反饋"
 
-msgid "near"
-msgstr "附近"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "附近"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "搜索目前處於測試階段，只提供英語版本。"

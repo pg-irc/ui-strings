@@ -124,7 +124,9 @@ msgstr "محونا العلامة المرجعية"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics and services that you find helpful for future use."
-msgstr "ضع علامة مرجعية على المواضيع والخدمات التي تجدها مفيدة لاستخدامها في وقت لاحق."
+msgstr ""
+"ضع علامة مرجعية على المواضيع والخدمات التي تجدها مفيدة لاستخدامها في وقت "
+"لاحق."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
@@ -766,8 +768,11 @@ msgstr ""
 msgid "Give feedback"
 msgstr "أبلغنا برأيك وملاحظاتك"
 
-msgid "near"
-msgstr "في الجوار"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "في الجوار"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr ""

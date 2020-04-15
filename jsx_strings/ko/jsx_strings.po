@@ -758,8 +758,11 @@ msgstr ""
 msgid "Give feedback"
 msgstr "피드백 전달하기"
 
-msgid "near"
-msgstr "근처"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "근처"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "검색은 현재 베타 서비스이며 영어로만 가능합니다."

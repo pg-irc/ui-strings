@@ -131,7 +131,9 @@ msgstr "Retiré des favoris"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics and services that you find helpful for future use."
-msgstr "Ajoutez les sujets et les services qui vous sont utiles à vos favoris et consultez-les plus tard."
+msgstr ""
+"Ajoutez les sujets et les services qui vous sont utiles à vos favoris et "
+"consultez-les plus tard."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
@@ -796,8 +798,11 @@ msgstr ""
 msgid "Give feedback"
 msgstr "Donnez votre avis"
 
-msgid "near"
-msgstr "près"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "près"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr ""

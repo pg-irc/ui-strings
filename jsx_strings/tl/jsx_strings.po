@@ -790,8 +790,11 @@ msgstr ""
 msgid "Give feedback"
 msgstr "Magbigay ng komento"
 
-msgid "near"
-msgstr "malapit"
+msgid "Near"
+msgstr ""
+
+#~ msgid "near"
+#~ msgstr "malapit"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "“Search” ay kasalukuyang sa Ingles lamang."
