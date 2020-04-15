@@ -132,9 +132,9 @@ msgid "Bookmark removed"
 msgstr "Tinanggal ang bookmark"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
+msgid "Bookmark the topics and services that you find helpful for future use."
 msgstr ""
-"I-bookmark ang mga paksa na sa wari mo ay makakatulong sa iyo sa susunod."
+"I-bookmark ang mga paksa at serbisyo na makakatulong sa'yo sa hinaharap."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
