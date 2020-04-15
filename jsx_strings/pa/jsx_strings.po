@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-09 18:26+0000\n"
+"PO-Revision-Date: 2020-04-15 17:07+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://52.60.72.113/projects/ui-strings/jsx_strings/"
-"pa/>\n"
+"Language-Team: Punjabi <https://35.182.198.39/projects/ui-strings/"
+"jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -119,8 +119,8 @@ msgid "Bookmark removed"
 msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
-msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
+msgid "Bookmark the topics and services that you find helpful for future use."
+msgstr "ਵਿਸ਼ੇ ਅਤੇ ਸੇਵਾਵਾਂ, ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ 'ਚ ਮਦਦਗਾਰ ਹੋ ਸਕਦੀਆਂ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
@@ -750,8 +750,11 @@ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤ�
 msgid "Give feedback"
 msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 
-msgid "near"
+msgid "Near"
 msgstr "ਨੇੜੇ"
+
+#~ msgid "near"
+#~ msgstr "ਨੇੜੇ"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "ਖੋਜ ਇਸ ਵੇਲੇ ਟੈਸਟਿੰਗ 'ਚ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ 'ਚ ਉਪਲਬਧ ਹੈ।"

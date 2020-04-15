@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-09 18:26+0000\n"
+"PO-Revision-Date: 2020-04-15 17:07+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://52.60.72.113/projects/ui-"
-"strings/jsx_strings/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) <https://35.182.198.39/projects/"
+"ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -116,8 +116,8 @@ msgid "Bookmark removed"
 msgstr "移除最愛"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
-msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
+msgid "Bookmark the topics and services that you find helpful for future use."
+msgstr "將對您有用的主題和服務添加書籤，以備將來使用。"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
@@ -736,8 +736,11 @@ msgstr "搜索目前處於測試階段，只提供英語版本。其他語言幫
 msgid "Give feedback"
 msgstr "給予反饋"
 
-msgid "near"
+msgid "Near"
 msgstr "附近"
+
+#~ msgid "near"
+#~ msgstr "附近"
 
 #~ msgid "Search is currently in beta and only available in English."
 #~ msgstr "搜索目前處於測試階段，只提供英語版本。"
