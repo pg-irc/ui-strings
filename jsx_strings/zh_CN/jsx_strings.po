@@ -117,8 +117,8 @@ msgid "Bookmark removed"
 msgstr "网页书签已清除"
 
 #: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
-msgstr "收藏您觉得有用的主题，以便日后查询。"
+msgid "Bookmark the topics and services that you find helpful for future use."
+msgstr "保存对您有用的主题和服务添加书签，以备将来使用。"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
