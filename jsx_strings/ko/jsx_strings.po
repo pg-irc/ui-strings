@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-03-13 17:03-0700\n"
-"PO-Revision-Date: 2020-04-16 20:21+0000\n"
+"PO-Revision-Date: 2020-04-16 20:24+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Korean <https://35.182.198.39/projects/ui-strings/jsx_strings/"
 "ko/>\n"
@@ -122,9 +122,7 @@ msgstr "삭제된 북마크"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics and services that you find helpful for future use."
-msgstr ""
-"향후에 유용할 만한 주제는\n"
-" 북마크를 해두세요."
+msgstr "나중에 유용할 주제와 서비스에 북마크하기."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Can't reach the internet"
