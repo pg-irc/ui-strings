@@ -801,6 +801,9 @@ msgstr "Donnez votre avis"
 msgid "Near"
 msgstr "À proximité de"
 
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "près"
 

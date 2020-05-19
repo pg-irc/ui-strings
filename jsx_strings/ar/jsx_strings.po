@@ -771,6 +771,9 @@ msgstr "أبلغنا برأيك وملاحظاتك"
 msgid "Near"
 msgstr "قريب من"
 
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "في الجوار"
 

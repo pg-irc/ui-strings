@@ -739,6 +739,9 @@ msgstr "給予反饋"
 msgid "Near"
 msgstr "附近"
 
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "附近"
 
