@@ -596,3 +596,6 @@ msgstr ""
 
 msgid "Near"
 msgstr ""
+
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
