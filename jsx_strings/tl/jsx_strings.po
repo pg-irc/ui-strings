@@ -793,6 +793,9 @@ msgstr "Magbigay ng komento"
 msgid "Near"
 msgstr "Malapit"
 
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "malapit"
 

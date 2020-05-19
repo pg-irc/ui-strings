@@ -753,6 +753,9 @@ msgstr "ਫੀਡਬੈਕ ਦਿਓ"
 msgid "Near"
 msgstr "ਨੇੜੇ"
 
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr ""
+
 #~ msgid "near"
 #~ msgstr "ਨੇੜੇ"
 
