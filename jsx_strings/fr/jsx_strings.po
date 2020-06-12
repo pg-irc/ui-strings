@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-04-15 17:07+0000\n"
+"PO-Revision-Date: 2020-06-12 18:17+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://35.182.198.39/projects/ui-strings/jsx_strings/"
+"Language-Team: French <https://15.223.50.16/projects/ui-strings/jsx_strings/"
 "fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -32,10 +32,8 @@ msgid "About Arrival Advisor"
 msgstr "À propos d’Arrival Advisor"
 
 #: lib/components/services/service_detail_component.js:131
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
-msgstr "Adresse :"
+msgstr "Adresse"
 
 #: lib/components/addresses/addresses_component.js:15
 #: lib/components/addresses/addresses_component.js:39
@@ -251,10 +249,8 @@ msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
 #: lib/components/services/service_detail_component.js:137
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "Courriel :"
+msgstr "Courriel"
 
 #: lib/components/feedback/receive_updates_modal.js:17
 msgid "Email me updates"
@@ -615,10 +611,8 @@ msgid "Provide any additional information (optional)"
 msgstr ""
 
 #: lib/components/services/service_detail_component.js:102
-#, fuzzy
-#| msgid "Provided by:"
 msgid "Provided by"
-msgstr "Fournisseur :"
+msgstr "Fournisseur"
 
 #: lib/components/topics/topic_detail_component.js:41
 msgid "RELATED TOPICS"
@@ -854,10 +848,8 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
 #: lib/components/services/service_detail_component.js:135
-#, fuzzy
-#| msgid "Website:"
 msgid "Website"
-msgstr "Site Web :"
+msgstr "Site Web"
 
 #: lib/components/website/website_component.js:17
 #: lib/components/website/website_component.js:24
