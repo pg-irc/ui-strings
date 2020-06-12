@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 18:48+0000\n"
+"PO-Revision-Date: 2020-06-12 18:58+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://52.60.78.254/projects/ui-strings/jsx_strings/"
+"Language-Team: Arabic <https://15.223.50.16/projects/ui-strings/jsx_strings/"
 "ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -241,10 +241,8 @@ msgid "EXPLORE TOPICS"
 msgstr "تصفح الموضوعات"
 
 #: lib/components/services/service_detail_component.js:137
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "البريد الإلكتروني:"
+msgstr "البريد الإلكتروني"
 
 #: lib/components/feedback/receive_updates_modal.js:17
 msgid "Email me updates"
@@ -597,10 +595,8 @@ msgid "Provide any additional information (optional)"
 msgstr ""
 
 #: lib/components/services/service_detail_component.js:102
-#, fuzzy
-#| msgid "Provided by:"
 msgid "Provided by"
-msgstr "يقدمها لكم:"
+msgstr "يقدمها لكم"
 
 #: lib/components/topics/topic_detail_component.js:41
 msgid "RELATED TOPICS"
@@ -828,10 +824,8 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "تحديث توصياتي"
 
 #: lib/components/services/service_detail_component.js:135
-#, fuzzy
-#| msgid "Website:"
 msgid "Website"
-msgstr "الموقع الشبكي:"
+msgstr "الموقع الشبكي"
 
 #: lib/components/website/website_component.js:17
 #: lib/components/website/website_component.js:24
