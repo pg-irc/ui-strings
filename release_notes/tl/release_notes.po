@@ -107,3 +107,19 @@ msgstr "Isinaayos namin at binago ang pangalan ng ilan sa mga paksa."
 
 msgid "The topics are now sorted in a more user-friendly manner."
 msgstr "Ang mga paksa ay inayos na ngayon sa mas madaling gamitin na paraan."
+
+msgid ""
+"You can now suggest updates on service details. When you search for a "
+"service, if you see any missing or incorrect information about the listed "
+"service, feel free to click the \"Suggest an update\" button to let the "
+"Arrival Advisor team know to fix it."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "We've improved the service listings you see when you click \"Find Related "
+#| "Services Near Me\"."
+msgid "We have improved the search results when you search for services."
+msgstr ""
+"Nabago na namin ang mga listahan ng serbisyo na nakikita mo kapag pinindot "
+"mo ang \"Humanap Ng Kaugnay Na Mga Serbisyo Malapit Sa Akin\"."

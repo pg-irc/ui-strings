@@ -91,3 +91,17 @@ msgstr "一些主题重组后被重新命名。"
 
 msgid "The topics are now sorted in a more user-friendly manner."
 msgstr "主题以用户友好的较优方式排序。"
+
+msgid ""
+"You can now suggest updates on service details. When you search for a "
+"service, if you see any missing or incorrect information about the listed "
+"service, feel free to click the \"Suggest an update\" button to let the "
+"Arrival Advisor team know to fix it."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "We've improved the service listings you see when you click \"Find Related "
+#| "Services Near Me\"."
+msgid "We have improved the search results when you search for services."
+msgstr "点击”查找附近的相关服务地点“后您会发现列表已经更新。"

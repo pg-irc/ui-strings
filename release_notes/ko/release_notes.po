@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2020-04-16 19:37+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
@@ -96,3 +96,19 @@ msgstr "몇 가지 주제의 이름과 위치를 변경하였습니다."
 
 msgid "The topics are now sorted in a more user-friendly manner."
 msgstr "주제들이 사용하기 더 편리하게 정리되었습니다."
+
+msgid ""
+"You can now suggest updates on service details. When you search for a "
+"service, if you see any missing or incorrect information about the listed "
+"service, feel free to click the \"Suggest an update\" button to let the "
+"Arrival Advisor team know to fix it."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "We've improved the service listings you see when you click \"Find Related "
+#| "Services Near Me\"."
+msgid "We have improved the search results when you search for services."
+msgstr ""
+"\"내 주변 관련 서비스 찾기\"를 클릭하면 나오는 서비스 리스트를 개선하였습니"
+"다."
