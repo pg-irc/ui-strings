@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-04-16 20:24+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Korean <https://35.182.198.39/projects/ui-strings/jsx_strings/"
+"PO-Revision-Date: 2020-06-12 20:29+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Korean <https://15.223.50.16/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -32,10 +32,8 @@ msgid "About Arrival Advisor"
 msgstr "Arrival Advisor에 대하여"
 
 #: lib/components/services/service_detail_component.js:131
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
-msgstr "주소:"
+msgstr "주소"
 
 #: lib/components/addresses/addresses_component.js:15
 #: lib/components/addresses/addresses_component.js:39
@@ -239,10 +237,8 @@ msgid "EXPLORE TOPICS"
 msgstr "주제 탐색하기"
 
 #: lib/components/services/service_detail_component.js:137
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "이메일:"
+msgstr "이메일"
 
 #: lib/components/feedback/receive_updates_modal.js:17
 msgid "Email me updates"
@@ -588,10 +584,8 @@ msgid "Provide any additional information (optional)"
 msgstr ""
 
 #: lib/components/services/service_detail_component.js:102
-#, fuzzy
-#| msgid "Provided by:"
 msgid "Provided by"
-msgstr "제공:"
+msgstr "제공"
 
 #: lib/components/topics/topic_detail_component.js:41
 msgid "RELATED TOPICS"
@@ -819,10 +813,8 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "나의 추천 업데이트하기"
 
 #: lib/components/services/service_detail_component.js:135
-#, fuzzy
-#| msgid "Website:"
 msgid "Website"
-msgstr "웹사이트:"
+msgstr "웹사이트"
 
 #: lib/components/website/website_component.js:17
 #: lib/components/website/website_component.js:24
@@ -879,8 +871,7 @@ msgstr "새 커뮤니티 정착을 위한 가이드"
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
-msgstr ""
-"제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다. "
+msgstr "제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다."
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
