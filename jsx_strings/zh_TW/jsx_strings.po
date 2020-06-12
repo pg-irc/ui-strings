@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-04-15 17:07+0000\n"
+"PO-Revision-Date: 2020-06-12 20:20+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://35.182.198.39/projects/ui-"
-"strings/jsx_strings/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) <https://15.223.50.16/projects/"
+"ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,10 +32,8 @@ msgid "About Arrival Advisor"
 msgstr "有關 Arrival Advisor"
 
 #: lib/components/services/service_detail_component.js:131
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
-msgstr "地址："
+msgstr "地址"
 
 #: lib/components/addresses/addresses_component.js:15
 #: lib/components/addresses/addresses_component.js:39
@@ -234,10 +232,8 @@ msgid "EXPLORE TOPICS"
 msgstr "探索主題"
 
 #: lib/components/services/service_detail_component.js:137
-#, fuzzy
-#| msgid "Email:"
 msgid "Email"
-msgstr "電子郵件："
+msgstr "電子郵件"
 
 #: lib/components/feedback/receive_updates_modal.js:17
 msgid "Email me updates"
@@ -577,10 +573,8 @@ msgid "Provide any additional information (optional)"
 msgstr ""
 
 #: lib/components/services/service_detail_component.js:102
-#, fuzzy
-#| msgid "Provided by:"
 msgid "Provided by"
-msgstr "提供者："
+msgstr "提供者"
 
 #: lib/components/topics/topic_detail_component.js:41
 msgid "RELATED TOPICS"
@@ -799,10 +793,8 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
 
 #: lib/components/services/service_detail_component.js:135
-#, fuzzy
-#| msgid "Website:"
 msgid "Website"
-msgstr "網站："
+msgstr "網站"
 
 #: lib/components/website/website_component.js:17
 #: lib/components/website/website_component.js:24
