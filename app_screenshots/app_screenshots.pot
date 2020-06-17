@@ -33,3 +33,7 @@ msgstr ""
 
 msgid "Available offline"
 msgstr ""
+
+msgid "You can now suggest updates on service details"
+msgstr ""
+
