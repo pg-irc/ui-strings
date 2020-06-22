@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-06-12 08:46-0700\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Mime-Version: 1.0\n"
+
+msgid "COVID-19 information"
+msgstr ""
+
+msgid ""
+"Many of our listed services are transitioning to alternate service "
+"delivery methods. Please check service providers' websites for details."
+msgstr ""
+
+msgid "Get the latest information on health guidance and government support from the [Province of BC](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support). For COVID-19 financial assistance for newcomers, learn more from the [Government of Canada](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support)."
+msgstr ""
