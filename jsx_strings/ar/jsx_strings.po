@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-30 18:03+0000\n"
+"PO-Revision-Date: 2020-06-30 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://3.96.52.120/projects/ui-strings/jsx_strings/"
-"ar/>\n"
+"Language-Team: Arabic <https://35.183.144.102/projects/ui-strings/"
+"jsx_strings/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -177,7 +177,7 @@ msgstr "تواصل مع فريق Arrival Advisor"
 
 #: lib/components/feedback/receive_updates_modal.js:25
 msgid "Contact information"
-msgstr "معلومات عن كوفيد-19"
+msgstr "بيانات الاتصال"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -194,11 +194,11 @@ msgstr "بيان"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 msgid "Discard"
-msgstr "إخلاء مسؤولية"
+msgstr "تراجع"
 
 #: lib/components/feedback/discard_changes_modal.js:18
 msgid "Discard the changes you suggested?"
-msgstr "هل ترغب في تجاهل التغيير الذي اقترحته؟"
+msgstr "هل ترغب في التراجع عن التغييرات التي اقترحتها؟"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -274,9 +274,7 @@ msgstr "أدخل عنوان البريد الإلكتروني"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr ""
-"أدخل عنوان بريدك الإلكتروني لو كنت ترغب في تلقي آخر الأخبار المتعلقة بهذه "
-"المسألة."
+msgstr "أضف عنوان بريدك الإلكتروني لو كنت ترغب أن نتواصل معك في شأن هذه المسألة"
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -543,7 +541,7 @@ msgstr "المنظمة"
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
 msgid "Other suggestions"
-msgstr "هل تريد اقتراحات؟ جرب ما يلي:"
+msgstr "اقتراحات أخرى"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -676,7 +674,7 @@ msgstr "معلومات عن الخدمات وإحالات إلى خدمات"
 
 #: lib/components/feedback/explainer_component.js:11
 msgid "Services listed on Arrival Advisor"
-msgstr "مرحبا بك في تطبيق Arrival Advisor"
+msgstr "الخدمات المدرجة في تطبيق Arrival Advisor"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -702,7 +700,7 @@ msgstr "بدء الاستقرار في بريتيش كولومبيا."
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "الشارع - «Kingsway»"
+msgstr "الشارع - «1356 Kingsway Vancouver»"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
@@ -716,7 +714,7 @@ msgstr "اقترح تحديث"
 
 #: lib/components/feedback/other_remove_service_component.js:18
 msgid "Tell us more about this service"
-msgstr "حذف هذه الخدمة"
+msgstr "أخبرنا المزيد عن هذه الخدمة"
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -831,7 +829,7 @@ msgstr "تواجهنا صعوبات في الاتصال بالخادم. يرجى
 
 #: lib/components/feedback/explainer_component.js:15
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "يرجى التأكد من تفعيل خدمات الموقع لتطبيق Arrival Advisor."
+msgstr "ما هو مصدر الخدمات المدرجة في تطبيق Arrival Advisor؟"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -875,8 +873,7 @@ msgstr "دليلك المفضل نحو الاستقرار في مجتمعك ال
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
-msgstr ""
-"سوف يراجع فريقنا اقتراحك قبل تنفيذ التغييرات النهائية على معلومات الخدمة."
+msgstr "سوف يراجع فريقنا اقتراحاتك قبل إجراء أي تغيير على معلومات الخدمة."
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
