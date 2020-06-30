@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 20:20+0000\n"
+"PO-Revision-Date: 2020-06-30 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://15.223.50.16/projects/"
+"Language-Team: Chinese (Traditional) <https://35.183.144.102/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -167,8 +167,6 @@ msgid "Contact Arrival Advisor team"
 msgstr "聯繫Arrival Advisor團隊"
 
 #: lib/components/feedback/receive_updates_modal.js:25
-#, fuzzy
-#| msgid "COVID-19 information"
 msgid "Contact information"
 msgstr "COVID-19信息"
 
@@ -186,14 +184,10 @@ msgid "Description"
 msgstr ""
 
 #: lib/components/feedback/discard_changes_modal.js:27
-#, fuzzy
-#| msgid "Disclaimer"
 msgid "Discard"
 msgstr "免責聲明"
 
 #: lib/components/feedback/discard_changes_modal.js:18
-#, fuzzy
-#| msgid "Discard the change you suggested?"
 msgid "Discard the changes you suggested?"
 msgstr "放棄您建議的改變？"
 
@@ -270,9 +264,6 @@ msgid "Enter email"
 msgstr "請輸入電子郵件"
 
 #: lib/components/feedback/receive_updates_modal.js:28
-#, fuzzy
-#| msgid ""
-#| "Enter your email if you would like to receive updates about this issue."
 msgid "Enter your email if you would like to be contacted about this issue"
 msgstr "如果希望接收有關問題的更新，請輸入電子郵件。"
 
@@ -529,8 +520,6 @@ msgstr "組織機構"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
-#, fuzzy
-#| msgid "Need suggestions? Try:"
 msgid "Other suggestions"
 msgstr "需要建議嗎？嘗試："
 
@@ -659,8 +648,6 @@ msgid "Services information and referral"
 msgstr "服務資訊和推薦"
 
 #: lib/components/feedback/explainer_component.js:11
-#, fuzzy
-#| msgid "Welcome to Arrival Advisor"
 msgid "Services listed on Arrival Advisor"
 msgstr "歡迎來到Arrival Advisor"
 
@@ -687,8 +674,6 @@ msgid "Start settling in B.C."
 msgstr "開始在B.C.省定居"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
-#, fuzzy
-#| msgid "Street - \"Kingsway\""
 msgid "Street - \"1356 Kingsway Vancouver\""
 msgstr "街名——“Kingsway”"
 
@@ -703,8 +688,6 @@ msgid "Suggest an update"
 msgstr "更新建議"
 
 #: lib/components/feedback/other_remove_service_component.js:18
-#, fuzzy
-#| msgid "Remove this service"
 msgid "Tell us more about this service"
 msgstr "刪除此服務"
 
@@ -811,8 +794,6 @@ msgid ""
 msgstr "目前無法連接到伺服器, 請稍候再試。"
 
 #: lib/components/feedback/explainer_component.js:15
-#, fuzzy
-#| msgid "Please ensure location services are enabled for Arrival Advisor."
 msgid "Where do the services listed on Arrival Advisor come from?"
 msgstr "請確保為 Arrival Advisor 開啟定位系統功能。"
 
@@ -844,10 +825,6 @@ msgid "Your go-to guide to getting settled in your new community."
 msgstr "您在新社區安家落戶的必備指南。"
 
 #: lib/components/feedback/choose_mode_modal.js:37
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making final changes "
-#| "to the service information."
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
