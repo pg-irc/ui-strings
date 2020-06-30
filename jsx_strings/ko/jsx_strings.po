@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 20:29+0000\n"
+"PO-Revision-Date: 2020-06-30 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://15.223.50.16/projects/ui-strings/jsx_strings/"
-"ko/>\n"
+"Language-Team: Korean <https://35.183.144.102/projects/ui-strings/"
+"jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>더 알아보기</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -172,10 +172,8 @@ msgid "Contact Arrival Advisor team"
 msgstr "Arrival Advisor 팀에 연락하기"
 
 #: lib/components/feedback/receive_updates_modal.js:25
-#, fuzzy
-#| msgid "COVID-19 information"
 msgid "Contact information"
-msgstr "코로나-19 정보"
+msgstr "연락처 "
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -188,19 +186,15 @@ msgstr "모든 사용자 데이터 삭제"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "설명"
 
 #: lib/components/feedback/discard_changes_modal.js:27
-#, fuzzy
-#| msgid "Disclaimer"
 msgid "Discard"
-msgstr "법적 책임 고지"
+msgstr "삭제하기"
 
 #: lib/components/feedback/discard_changes_modal.js:18
-#, fuzzy
-#| msgid "Discard the change you suggested?"
 msgid "Discard the changes you suggested?"
-msgstr "변경 사항을 저장하지 말까요?"
+msgstr "제안하신 변경 내용을 삭제하시겠습니까?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -275,11 +269,8 @@ msgid "Enter email"
 msgstr "이메일 주소 입력"
 
 #: lib/components/feedback/receive_updates_modal.js:28
-#, fuzzy
-#| msgid ""
-#| "Enter your email if you would like to receive updates about this issue."
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "해당 이슈에 대한 업데이트 수신을 원할 경우 이메일 주소를 입력하시오."
+msgstr "해당 이슈에 관해 연락받기를 원하신다면 이메일 주소를 입력하세요."
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -368,13 +359,13 @@ msgstr "도움과 지원"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "내 기관이나 서비스의 등록은 어떻게 하나요? "
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
-msgstr ""
+msgstr "앱에 등록된 서비스 정보의 오류나 누락을 발견했습니다. 어떻게 해야 합니까? "
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -437,7 +428,7 @@ msgstr "직업명"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "계속 수정하기 "
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -530,7 +521,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "외부 링크 열기 "
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -539,10 +530,8 @@ msgstr "단체"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
-#, fuzzy
-#| msgid "Need suggestions? Try:"
 msgid "Other suggestions"
-msgstr "제안이 필요하신가요? 제안받기:"
+msgstr "다른 제안"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -565,7 +554,7 @@ msgstr "전화번호"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "전화 번호"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -581,7 +570,7 @@ msgstr "개인정보 정책"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "추가 정보를 제공합니다 (선택)"
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -673,10 +662,8 @@ msgid "Services information and referral"
 msgstr "서비스 정보와 의뢰"
 
 #: lib/components/feedback/explainer_component.js:11
-#, fuzzy
-#| msgid "Welcome to Arrival Advisor"
 msgid "Services listed on Arrival Advisor"
-msgstr "Arrival Advisor에 오신 것을 환영합니다."
+msgstr "Arrival Advisor에 등록된 서비스 "
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -701,14 +688,12 @@ msgid "Start settling in B.C."
 msgstr "BC주에 정착 시작하기"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
-#, fuzzy
-#| msgid "Street - \"Kingsway\""
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "거리 - \"Kingsway\""
+msgstr "거리 - \"밴쿠버 킹스웨이 1356\" "
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "제출하기"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -717,10 +702,8 @@ msgid "Suggest an update"
 msgstr "업데이트 제안"
 
 #: lib/components/feedback/other_remove_service_component.js:18
-#, fuzzy
-#| msgid "Remove this service"
 msgid "Tell us more about this service"
-msgstr "서비스 삭제하기"
+msgstr "이 서비스에 대해 말해주십시오."
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -728,7 +711,7 @@ msgstr "이용 약관"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "기여해주셔서 감사합니다. "
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -777,6 +760,9 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"Arrival Advisor에 등록된 서비스들의 출처는 브리티시 컬럼비아주의 공동체와 정부, 사회 복지 제도의 온라인 검색 디렉터리를 "
+"게시하는 비영리 정보 및 추천 기관인 0>bc211</0>입니다. bc211은 위와 같은 서비스 정보를 수집하고 업데이트하는 일을 "
+"합니다. "
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -784,12 +770,12 @@ msgstr "Arrival Advisor 버전:"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "해당 링크는 "
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "이 서비스는 더 이상 존재하지 않습니다. "
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -831,10 +817,8 @@ msgid ""
 msgstr "서버에 연결하는데 어려움을 겪고 있습니다. 나중에 다시 시도하세요."
 
 #: lib/components/feedback/explainer_component.js:15
-#, fuzzy
-#| msgid "Please ensure location services are enabled for Arrival Advisor."
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "Arrival Advisor의 위치 서비스 기능이 켜져 있는지 확인해주세요."
+msgstr "Arrival Advisor에 등록된 서비스의 출처는 어디입니까? "
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -849,6 +833,9 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"Arrival Advisor 서비스의 세부 정보 하단에 위치한 \"업데이트 제안하기\" 버튼을 클릭하여 정보 수정을 제안할 수 있습니다. "
+"그런 다음 더 자세한 정보를 양식에 기입하여 업데이트가 필요한 사항을 알려주세요. 저희 팀에서 연락드릴 수 있도록 연락 가능한 이메일 "
+"주소를 남길 수 있습니다. Arrival Advisor팀은 bc211과 협업하여 제안하신 사항을 검토한 후 최종 반영합니다.  "
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -858,20 +845,19 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"어떤 기관이나 서비스가 등록되는지 <0>여기 bc211의 등록 정책</0>에서 확인할 수 있습니다.  귀하의 기관이나 서비스가 등록 "
+"기준에 부합한다고 판단될 경우, <1>updates@bc211.ca</1>로 이메일을 보내주시면 bc211에서 등록 여부를 검토합니다. "
+"더 자세한 정보 확인을 위해 <2>http://www.bc211.ca</2>를 클릭하세요. "
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
 msgstr "새 커뮤니티 정착을 위한 가이드"
 
 #: lib/components/feedback/choose_mode_modal.js:37
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making final changes "
-#| "to the service information."
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
-msgstr "제안하신 내용은 저희 팀에서 검토한 후 서비스 정보에 최종 반영될 예정입니다."
+msgstr "제안하신 사항은 팀에서 검토 후 서비스 정보를 변경합니다. "
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
@@ -880,11 +866,11 @@ msgstr "BC211로 전화 걸기"
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "예: 서비스가 영구적으로 종료되었습니다"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchLocationInput} 주변 {searchTermInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "내 주변 서비스 찾기"
