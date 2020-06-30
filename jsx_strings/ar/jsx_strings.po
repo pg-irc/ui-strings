@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 18:58+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://15.223.50.16/projects/ui-strings/jsx_strings/"
+"PO-Revision-Date: 2020-06-30 17:03+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Arabic <https://3.96.52.120/projects/ui-strings/jsx_strings/"
 "ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>تعرف على المزيد</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -192,7 +192,7 @@ msgstr "حذف جميع بيانات المستخدم"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "بيان"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 #, fuzzy
@@ -376,13 +376,14 @@ msgstr "للمساعدة والدعم"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "كيف يمكنني إدراج منظمتي أو خدماتي؟"
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
 msgstr ""
+"وجدت بعض معلومات الخدمات المدرجة في التطبيق بها خطأ أو ناقصة. ماذا أفعل؟"
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -448,7 +449,7 @@ msgstr "المسمى الوظيفي"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "واصل التعديل"
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -541,7 +542,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "فتح رابط خارجي"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -576,7 +577,7 @@ msgstr "هاتف"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "أرقام الهاتف"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -592,7 +593,7 @@ msgstr "سياسة الخصوصية"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "يرجى تقديم أية معلومات إضافية (اختياري)"
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -720,7 +721,7 @@ msgstr "الشارع - «Kingsway»"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "إرسال"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -740,7 +741,7 @@ msgstr "شروط الاستخدام"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "شكرا على المساهمة"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -788,6 +789,10 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"الخدمات المدرجة في تطبيق Arrival Advisor مأخوذة من <0>bc211</0>، وهي منظمة "
+"غير هادفة للربح تقدم معلومات وإحالات، تنشر دليل على الإنترنت يمكن البحث فيه "
+"عن خدمات المجتمع والخدمات الحكومية والاجتماعية في بريتيش كولومبيا. يجمع "
+"موظفي منظمة bc211 معلومات هذه الخدمات ويتولون تحديثها."
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -795,12 +800,12 @@ msgstr "هذا الإصدار من تطبيق Arrival Advisor هو:"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "هذا الرابط سوف يفتح في متصفح جهازك."
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "هذه الخدمة لم تعد موجودة"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -860,6 +865,12 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"يمكنك اقتراح تعديل عن طريق الضغط على زر «اقتراح تحديث» الموجود في أسفل صفحة "
+"تفاصيل الخدمة في تطبيق Arrival Advisor. بعد ذلك يمكنك أن تقدم المزيد من "
+"المعلومات مستخدما النموذج المبين كي تبلغنا بما يحتاج لتحديث. يمكنك أن تختار "
+"إضافة عنوان بريدك الإلكتروني حتى يمكن لفريقنا متابعة الأمر معك. سوف يتعاون "
+"فريق تطبيق Arrival Advisor مع منظمة bc211 للتحقق من اقتراحاتك قبل تنفيذ "
+"التغييرات النهائية."
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -869,6 +880,11 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"يمكنك الاطلاع على <0>سياسة الضم التي تتبعها منظمة bc211 هنا</0> كي تتعرف على "
+"المنظمات والخدمات المدرجة. لو كنت ترى أن منظمتك أو خدماتك تنطبق عليها معايير "
+"الضم، يمكنك إرسال رسالة بريد إلكتروني إلى <1>updates@bc211.ca</1> حتى يتولى "
+"فريق bc211 التحقق من منظمتك أو خدماتك. يرجى زيارة <2>http://www.bc211.ca</2> "
+"للمزيد من المعلومات."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
@@ -892,11 +908,11 @@ msgstr "الاتصال بخدمة BC211."
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "مثال: الخدمة مغلقة إغلاقا نهائيا"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchTermInput} بالقرب من {searchLocationInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "ابحث عن خدمة بالقرب منك"
