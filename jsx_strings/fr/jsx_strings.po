@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 18:17+0000\n"
+"PO-Revision-Date: 2020-06-30 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://15.223.50.16/projects/ui-strings/jsx_strings/"
-"fr/>\n"
+"Language-Team: French <https://35.183.144.102/projects/ui-strings/"
+"jsx_strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>En savoir plus</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -183,10 +183,8 @@ msgid "Contact Arrival Advisor team"
 msgstr "Contacter l’équipe d’Arrival Advisor"
 
 #: lib/components/feedback/receive_updates_modal.js:25
-#, fuzzy
-#| msgid "COVID-19 information"
 msgid "Contact information"
-msgstr "Informations relatives au COVID-19"
+msgstr "Coordonnées"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -199,19 +197,15 @@ msgstr "Supprimer toutes les données de l’utilisateur(trice)"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: lib/components/feedback/discard_changes_modal.js:27
-#, fuzzy
-#| msgid "Disclaimer"
 msgid "Discard"
-msgstr "Avertissement"
+msgstr "Ignorer"
 
 #: lib/components/feedback/discard_changes_modal.js:18
-#, fuzzy
-#| msgid "Discard the change you suggested?"
 msgid "Discard the changes you suggested?"
-msgstr "Supprimer le changement que vous avez suggéré?"
+msgstr "Ignorer les modifications suggérées?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -287,13 +281,10 @@ msgid "Enter email"
 msgstr "Entrer l’adresse courriel"
 
 #: lib/components/feedback/receive_updates_modal.js:28
-#, fuzzy
-#| msgid ""
-#| "Enter your email if you would like to receive updates about this issue."
 msgid "Enter your email if you would like to be contacted about this issue"
 msgstr ""
-"Entrez votre adresse courriel si vous souhaitez recevoir des mises à jour au "
-"sujet de cette question."
+"Saisissez votre adresse courriel si vous souhaitez que nous vous contactions "
+"à ce sujet."
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -388,13 +379,15 @@ msgstr "Aide et soutien"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "Comment puis-je faire répertorier mon organisme ou service?"
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
 msgstr ""
+"Certains renseignements liés aux services sont erronés ou manquants. Que "
+"puis-je faire?"
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -461,7 +454,7 @@ msgstr "Titre du poste"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "Poursuivre"
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -555,7 +548,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "Ouverture d'un lien externe"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -564,10 +557,8 @@ msgstr "Organisations"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
-#, fuzzy
-#| msgid "Need suggestions? Try:"
 msgid "Other suggestions"
-msgstr "Vous avez besoin de suggestions? Essayez de :"
+msgstr "Autres suggestions"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -592,7 +583,7 @@ msgstr "Téléphone"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "Numéros de téléphone"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -608,7 +599,7 @@ msgstr "Politique de confidentialité"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "Fournissez des informations supplémentaires (facultatif)."
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -703,10 +694,8 @@ msgid "Services information and referral"
 msgstr "Renseignements relatifs aux services et à l’orientation"
 
 #: lib/components/feedback/explainer_component.js:11
-#, fuzzy
-#| msgid "Welcome to Arrival Advisor"
 msgid "Services listed on Arrival Advisor"
-msgstr "Bienvenue sur Arrival Advisor"
+msgstr "Services répertoriés sur Arrival Advisor"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -731,14 +720,12 @@ msgid "Start settling in B.C."
 msgstr "Amorcer l’établissement en C.-B."
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
-#, fuzzy
-#| msgid "Street - \"Kingsway\""
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "Rue – « Kingsway »"
+msgstr "Rue - « 1356 Kingsway Vancouver »"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "Soumettre"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -747,10 +734,8 @@ msgid "Suggest an update"
 msgstr "Suggérer une mise à jour"
 
 #: lib/components/feedback/other_remove_service_component.js:18
-#, fuzzy
-#| msgid "Remove this service"
 msgid "Tell us more about this service"
-msgstr "Retirer ce service"
+msgstr "Parlez-nous de ce service."
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -758,7 +743,7 @@ msgstr "Conditions d'utilisation"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "Nous vous remercions de votre contribution!"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -812,6 +797,11 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"Les services répertoriés sur Arrival Advisor proviennent de <0>bc211</0>, un "
+"organisme de renseignements et d'orientation à but non lucratif qui publie "
+"un répertoire consultable en ligne des services communautaires, "
+"gouvernementaux et sociaux présents en Colombie-Britannique. Le personnel de "
+"bc211 recueille et met à jour les renseignements liés à ces services."
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -819,12 +809,12 @@ msgstr "Version d’Arrival Advisor :"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "Ce lien s'ouvrira dans le navigateur de votre appareil."
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "Ce service n'existe plus"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -868,12 +858,8 @@ msgstr ""
 "essayer de nouveau plus tard."
 
 #: lib/components/feedback/explainer_component.js:15
-#, fuzzy
-#| msgid "Please ensure location services are enabled for Arrival Advisor."
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr ""
-"Veuillez vérifier que les services de localisation sont activés pour Arrival "
-"Advisor."
+msgstr "D'où proviennent les services répertoriés sur Arrival Advisor?"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -888,6 +874,13 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"Vous pouvez proposer une suggestion en cliquant sur Suggérer une mise à jour "
+"en bas de la page de renseignements sur un service dans Arrival Advisor. "
+"Ensuite, fournissez des informations supplémentaires dans le formulaire pour "
+"nous indiquer les modifications nécessaires. Vous pouvez choisir de nous "
+"transmettre votre adresse courriel pour que notre équipe vous contacte. "
+"L'équipe d'Arrival Advisor collaborera avec bc211 pour analyser vos "
+"suggestions avant de mettre en modifier les renseignements."
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -897,6 +890,12 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"Vous pouvez consulter la <0>Politique d'inclusion de bc211 ici</0>pour voir "
+"quels organismes et services sont répertoriés. Si vous pensez que votre "
+"organisme ou service correspond aux critères d'inclusion, vous pouvez "
+"envoyer un courriel à <1>updates@bc211.ca</1>pour que l'équipe de bc211 "
+"examine votre organisme ou service. Rendez-vous sur "
+"<2>http://www.bc211.ca</2> pour plus d'informations."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
@@ -905,16 +904,12 @@ msgstr ""
 "communauté."
 
 #: lib/components/feedback/choose_mode_modal.js:37
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making final changes "
-#| "to the service information."
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
 msgstr ""
-"Notre équipe examinera vos suggestions avant d’apporter les dernières "
-"modifications aux informations de service."
+"Notre équipe examinera vos suggestions avant de modifier les renseignements "
+"liés aux services."
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
@@ -923,11 +918,11 @@ msgstr "Appeler BC211."
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "Par exemple : Service définitivement fermé"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchTermInput} à proximité de {searchLocationInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "TROUVER UN SERVICE À PROXIMITÉ"
