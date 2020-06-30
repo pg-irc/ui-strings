@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 20:46+0000\n"
+"PO-Revision-Date: 2020-06-30 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://15.223.50.16/projects/ui-strings/jsx_strings/"
-"tl/>\n"
+"Language-Team: Tagalog <https://35.183.144.102/projects/ui-strings/"
+"jsx_strings/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>Matuto nang higít pa</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -184,10 +184,8 @@ msgid "Contact Arrival Advisor team"
 msgstr "Kontakin ang Arrival Advisor team"
 
 #: lib/components/feedback/receive_updates_modal.js:25
-#, fuzzy
-#| msgid "COVID-19 information"
 msgid "Contact information"
-msgstr "Kaalaman tungkol sa COVID-19"
+msgstr "Impormasyón ng kontak"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -200,19 +198,15 @@ msgstr "Burahin ang lahat ng user data"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "Paglalarawan"
 
 #: lib/components/feedback/discard_changes_modal.js:27
-#, fuzzy
-#| msgid "Disclaimer"
 msgid "Discard"
-msgstr "Pagtatatuwa"
+msgstr "Itapon"
 
 #: lib/components/feedback/discard_changes_modal.js:18
-#, fuzzy
-#| msgid "Discard the change you suggested?"
 msgid "Discard the changes you suggested?"
-msgstr "Alisin ang pagbabagong iminungkahi?"
+msgstr "Itapon ang mga pagbabagong iminungkahì mo?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -288,13 +282,8 @@ msgid "Enter email"
 msgstr "Isulat ang inyong email"
 
 #: lib/components/feedback/receive_updates_modal.js:28
-#, fuzzy
-#| msgid ""
-#| "Enter your email if you would like to receive updates about this issue."
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr ""
-"Isulat ang inyong email kung nais makatanggap ng updates tungkol sa isyung "
-"ito."
+msgstr "Ibigáy iyóng email kung nais ninyóng makipag-ugnáy tungkól nitóng isyu."
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -388,13 +377,15 @@ msgstr "Tulong at Suporta"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "Paano ko maipalistá ang aking samahán o serbisyo?"
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
 msgstr ""
+"Ang iláng impormasyón sa mga serbisyo ay natagpuán kong hindî tumpák o "
+"nawawalâ sa app. Anó ang gagawín ko?"
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -459,7 +450,7 @@ msgstr "Titulo sa Trabaho"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "Patuloy na mag-edit"
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -553,7 +544,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "Pagbubukás na Panlabás na Link"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -562,10 +553,8 @@ msgstr "Organisasyon"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
-#, fuzzy
-#| msgid "Need suggestions? Try:"
 msgid "Other suggestions"
-msgstr "Kailangan ng ibang mungkahi? Subukan ang:"
+msgstr "Ibá pang mga mungkahì"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -590,7 +579,7 @@ msgstr "Telepono"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "Mga numeró ng teleponó"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -606,7 +595,7 @@ msgstr "Patakaran sa Pagkapribado"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "Magbigáy ng anumáng karagdagang impormasyón (opsyonál)"
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -701,10 +690,8 @@ msgid "Services information and referral"
 msgstr "Mga serbisyong impormasyon at referral"
 
 #: lib/components/feedback/explainer_component.js:11
-#, fuzzy
-#| msgid "Welcome to Arrival Advisor"
 msgid "Services listed on Arrival Advisor"
-msgstr "Welcome to Arrival Advisor"
+msgstr "Mga serbisyong nakalistá sa Arrival Advisor"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -729,14 +716,12 @@ msgid "Start settling in B.C."
 msgstr "Simulan ang paninirahan sa B.C."
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
-#, fuzzy
-#| msgid "Street - \"Kingsway\""
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "Kalye - \"Kingsway\""
+msgstr "Daán - \"1356 Kingsway Vancouver\""
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "Isumité"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -745,10 +730,8 @@ msgid "Suggest an update"
 msgstr "Magmungkahi ng update"
 
 #: lib/components/feedback/other_remove_service_component.js:18
-#, fuzzy
-#| msgid "Remove this service"
 msgid "Tell us more about this service"
-msgstr "Alisin ang serbisyong ito"
+msgstr "Sabihin pa sa amin tungkól nitóng serbisyo"
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -756,7 +739,7 @@ msgstr "Mga Termino ng Paggamit"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "Salamat sa iyóng tulong!"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -809,6 +792,11 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"Nagmumulâ ang mga serbisyong nakalistá sa Arrival Advisor sa <0>bc211</0>, "
+"isáng hindî-pangkalakal na organisasyón ng impormasyón at sanggunì na "
+"naglalathalà ng isáng direktoryo na mahahanap online ang mga serbisyong "
+"komunidád, pamahalaán, at panlipunan sa British Columbia. Tinitipon at "
+"binabago ng mga kawaní ng bc211 itóng impormasyón ng mga serbisyo."
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -816,12 +804,12 @@ msgstr "Ito ay bersyon ng Arrival Advisor:"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "Bubukás itóng link sa browser ng iyóng aparato."
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "Walâ na itóng serbisyo"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -863,12 +851,8 @@ msgid ""
 msgstr "Nahihirapan kaming kumonekta sa server. Subukan uli mamaya."
 
 #: lib/components/feedback/explainer_component.js:15
-#, fuzzy
-#| msgid "Please ensure location services are enabled for Arrival Advisor."
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr ""
-"Mangyaring tiyakin na ang mga serbisyo ng lokasyon ay ginagagana para "
-"Arrival Advisor."
+msgstr "Saán ba nagmumulâ ang mga serbisyong nakalistá sa Arrival Advisor?"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -883,6 +867,13 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"Maaarì kayóng magbigáy ng isáng mungkahì sa pagklík sa \"Magmungkahì ng "
+"isáng pagbabago\" sa ilalim ng pahináng detalye ng isáng serbisyo sa Arrival "
+"Advisor. Pagkatapos, maaarì kayóng magbigáy ng karagdagang impormasyón sa "
+"form upang ipaalam sa amin kung anó ang kailangang baguhin. Maaarì kayóng "
+"mag-iwan ng iyóng contact email upang kayóy sundán mulî ng aming pangkát. "
+"Ang pangkát ng Arrival Advisor ay makikipagtulungán sa bc211 upang suriin "
+"ang iyóng mga mungkahì bago kamí gumawâ ng panghulíng mga pagbabago."
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -892,22 +883,25 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"Maaarì mong basahin ang <0>bc211’s Inclusion Policy here</0> (Patakarán ng "
+"Pagsasama ng bc211) rito</0>upang makità kung anóng mga organisasyón at "
+"serbisyong nakalistá. Kung naniniwalà kayó na ang iyóng samahán o serbisyo "
+"ay umaangkóp sa mga pamantayan sa pagsasama, maaarì kayóng mag-email sa "
+"<1>updates@bc211.ca</1>para maaaring suriin ng pangkát ng bc211 ang iyóng "
+"samahán o serbisyo. Bisitahin ang <2>http://www.bc211.ca</2> para sa marami "
+"pang impormasyón."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
 msgstr "“Gabay” sa pagsisimulang paninirahan sa inyong bagong komunidad."
 
 #: lib/components/feedback/choose_mode_modal.js:37
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making final changes "
-#| "to the service information."
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
 msgstr ""
-"Your suggestions will be reviewed by our team before making final changes to "
-"the service information."
+"Susuriin iyóng mga mungkahì ng aming pangkát bago gumawâ ng mga pagbabago sa "
+"impormasyón ng serbisyo."
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
@@ -916,11 +910,11 @@ msgstr "tumawag sa bc211"
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "hal. Permanenteng sarado ang serbisyo"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchTermInput} malapit sa {searchLocationInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
