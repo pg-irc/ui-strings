@@ -170,10 +170,8 @@ msgid "Contact Arrival Advisor team"
 msgstr "Arrival Advisor ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
 
 #: lib/components/feedback/receive_updates_modal.js:25
-#, fuzzy
-#| msgid "COVID-19 information"
 msgid "Contact information"
-msgstr "COVID-19 ਜਾਣਕਾਰੀ"
+msgstr "ਸੰਪਰਕ ਲਈ ਜਾਣਕਾਰੀ"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -189,16 +187,12 @@ msgid "Description"
 msgstr "ਵੇਰਵਾ"
 
 #: lib/components/feedback/discard_changes_modal.js:27
-#, fuzzy
-#| msgid "Disclaimer"
 msgid "Discard"
-msgstr "ਬੇਦਾਅਵਾ"
+msgstr "ਅਣਡਿੱਠਾ ਕਰੋ"
 
 #: lib/components/feedback/discard_changes_modal.js:18
-#, fuzzy
-#| msgid "Discard the change you suggested?"
 msgid "Discard the changes you suggested?"
-msgstr "ਤੁਹਾਡੇ ਵਲੋਂ ਸੁਝਾਈ ਤਬਦੀਲੀ ਖਾਰਜ ਕਰਨੀ ਹੈ?"
+msgstr "ਤੁਹਾਡੇ ਵਲੋਂ ਸੁਝਾਈਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨਾ ਹੈ?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -273,11 +267,8 @@ msgid "Enter email"
 msgstr "ਈਮੇਲ ਦਿਓ"
 
 #: lib/components/feedback/receive_updates_modal.js:28
-#, fuzzy
-#| msgid ""
-#| "Enter your email if you would like to receive updates about this issue."
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "ਜੇ ਤੁਸੀਂ ਇਸ ਮਸਲੇ ਬਾਰੇ ਅੱਪਡੇਟ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੋ ਤਾਂ ਆਪਣਾ ਈਮੇਲ ਦਿਓ।"
+msgstr "ਜੇ ਇਸ ਮੁੱਦੇ ਬਾਰੇ ਤੁਸੀਂ ਸੰਪਰਕ ਕੀਤੇ ਜਾਣਾ ਚਾਹੋ ਤਾਂ ਆਪਣਾ ਈਮੇਲ ਦਿਓ"
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -537,10 +528,8 @@ msgstr "ਸੰਗਠਨ"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
-#, fuzzy
-#| msgid "Need suggestions? Try:"
 msgid "Other suggestions"
-msgstr "ਸੁਝਾਅ ਚਾਹੀਦੇ ਹਨ? ਕੋਸ਼ਿਸ਼ ਕਰੋ:"
+msgstr "ਹੋਰ ਸੁਝਾਅ"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -668,10 +657,8 @@ msgid "Services information and referral"
 msgstr "ਸੇਵਾਵਾਂ ਜਾਣਕਾਰੀ ਅਤੇ ਹਵਾਲੇ"
 
 #: lib/components/feedback/explainer_component.js:11
-#, fuzzy
-#| msgid "Welcome to Arrival Advisor"
 msgid "Services listed on Arrival Advisor"
-msgstr "Arrival Advisor ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
+msgstr "Arrival Advisor ਉੱਤੇ ਦਿਖਾਈਆਂ ਸੇਵਾਵਾਂ"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -710,10 +697,8 @@ msgid "Suggest an update"
 msgstr "ਅੱਪਡੇਟ ਲਈ ਸੁਝਾਅ ਦਿਓ"
 
 #: lib/components/feedback/other_remove_service_component.js:18
-#, fuzzy
-#| msgid "Remove this service"
 msgid "Tell us more about this service"
-msgstr "ਇਹ ਸੇਵਾ ਹਟਾਓ"
+msgstr "ਇਸ ਸੇਵਾ ਬਾਰੇ ਸਾਨੂੰ ਹੋਰ ਦੱਸੋ"
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -825,10 +810,8 @@ msgid ""
 msgstr "ਸਾਨੂੰ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਔਖਿਆਈ ਹੋ ਰਹੀ ਹੈ। ਬਾਅਦ 'ਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
 #: lib/components/feedback/explainer_component.js:15
-#, fuzzy
-#| msgid "Please ensure location services are enabled for Arrival Advisor."
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "ਯਕੀਨੀ ਬਣਾਓ ਕਿ Arrival Advisor ਲਈ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਕੀਤਾ ਹੈ"
+msgstr "Arrival Advisor ਉੱਤੇ ਦਿਖਾਈਆਂ ਸੇਵਾਵਾਂ ਕਿੱਥੋਂ ਆਉਂਦੀਆਂ ਹਨ?"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
