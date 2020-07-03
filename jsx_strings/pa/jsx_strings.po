@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-12 20:38+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://15.223.50.16/projects/ui-strings/jsx_strings/"
-"pa/>\n"
+"PO-Revision-Date: 2020-07-03 18:11+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Punjabi <https://35.182.22.184/projects/ui-strings/"
+"jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>ਹੋਰ ਸਿੱਖੋ</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -186,7 +186,7 @@ msgstr "ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਓ"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "ਵੇਰਵਾ"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 #, fuzzy
@@ -366,13 +366,13 @@ msgstr "ਮਦਦ ਤੇ ਸਹਿਯੋਗ"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "ਮੈਂ ਆਪਣੇ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ ਨੂੰ ਇੱਥੇ ਕਿਵੇਂ ਦਿਖਾ ਸਕਦਾ ਹਾਂ?"
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
-msgstr ""
+msgstr "ਮੈਨੂੰ ਆਪ ਵਿੱਚ ਕੁਝ ਗਲਤ ਜਾਂ ਸੇਵਾ ਗ਼ੈਰ-ਮੌਜੂਦ ਲੱਭੀ ਹੈ। ਇਸ ਬਾਰੇ ਮੈਂ ਕੀ ਕਰਾਂ?"
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -435,7 +435,7 @@ msgstr "ਕੰਮ ਦਾ ਅਹੁਦਾ"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "ਸੋਧਣਾ ਜਾਰੀ ਰੱਖੋ"
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -528,7 +528,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "ਬਾਹਰੀ ਲਿੰਕ ਖੋਲ੍ਹਣਾ"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -563,7 +563,7 @@ msgstr "ਫ਼ੋਨ"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "ਫ਼ੋਨ ਨੰਬਰ"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -579,7 +579,7 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "ਹੋਰ ਜਾਣਕਾਰੀ ਦਿਓ (ਮਰਜ਼ੀ ਮੁਤਾਬਕ)"
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -703,7 +703,7 @@ msgstr "ਸੜਕ - \"Kingsway\""
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "ਭੇਜੋ"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -723,7 +723,7 @@ msgstr "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਯੋਗਦਾਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -770,6 +770,10 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"Arrival Advisor ਉੱਤੇ ਦਿਖਾਈ ਦਿੰਦੀਆਂ ਸੇਵਾਵਾਂ <0>bc211</0>, ਤੋਂ ਆਉਂਦੀਆਂ ਹਨ, ਜੋ "
+"ਕਿ ਗ਼ੈਰ-ਫਾਇਦਾ ਜਾਣਕਾਰੀ ਦੇਣ ਤੇ ਹਵਾਲਾ ਦੇਣ ਵਾਲਾ ਸੰਗਠਨ ਹੈ, ਜੋ ਕਿ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ "
+"ਵਿੱਚ ਕਮਿਊਨਟੀ, ਸਰਕਾਰ ਅਤੇ ਸਮਾਜਿਕ ਸੇਵਾਵਾਂ ਦੀ ਆਨਲਾਈਨ ਖੋਜ ਕਰਨ ਯੋਗ ਡਾਇਰੈਕਟਰੀ ਹੈ। "
+"bc211 ਦੇ ਮੁਲਾਜ਼ਮ ਇਸ ਸੇਵਾ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਅਤੇ ਅੱਪਡੇਟ ਕਰਦੇ ਹਨ।"
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -777,12 +781,12 @@ msgstr "ਇਹ Arrival Advisor ਦਾ ਵਰਜ਼ਨ:"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "ਇਹ ਲਿੰਕ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ।"
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "ਇਹ ਸੇਵਾ ਹੁਣ ਮੌਜੂਦ ਨਹੀਂ ਹੈ"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -841,6 +845,12 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"ਤੁਸੀਂ Arrival Advisor ਦੇ ਸੇਵਾ ਦੇ ਵੇਰਵੇ ਸਫ਼ੇ ਵਿੱਚ \"ਅੱਪਡੇਟ ਲਈ ਸੁਝਾਅ\" ਬਟਨ ਨੂੰ "
+"ਕਲਿੱਕ ਕਰਕੇ ਸੁਝਾਅ ਦੇ ਸਕਦੇ ਹੋ। ਜੋ ਵੀ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਣ ਵਾਲਾ ਹੈ, ਉਸ ਦੇ ਬਾਰੇ ਹੋਰ "
+"ਜਾਣਕਾਰੀ ਤੁਸੀਂ ਫਾਰਮ ਵਿੱਚ ਭਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਸੰਪਰਕ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਦੇ ਸਕਦੇ ਹੋ "
+"ਤਾਂ ਕਿ ਸਾਡੀ ਟੀਮ ਤੁਹਾਡੇ ਨਾਲ ਰਾਬਤਾ ਕਾਇਮ ਕਰ ਸਕੇ। ਸਾਡੇ ਵਲੋਂ ਆਖਰੀ ਤਬੀਦੀਲੀਆਂ ਕੀਤੀ "
+"ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ Arrival Advisor ਦੀ ਟੀਮ bc211 "
+"ਨਾਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰੇਗੀ।"
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -850,6 +860,11 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"ਸੰਗਠਨ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਦਿਖਾਉਣ ਵਾਸਤੇ ਲੋੜੀਂਦੀ ਜਾਣਕਾਰੀ ਲਈ ਤੁਸੀਂ <0>bc211 ਦੀ ਦਾਖਲਾ"
+" ਨੀਤੀ ਨੂੰ ਇੱਥੇ</0> ਪੜ੍ਹ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ"
+" ਦਾਖ਼ਲੇ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ <1>updates@bc211.ca</1> ਨੂੰ ਈਮੇਲ ਕਰ "
+"ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ bc211 ਦੀ ਟੀਮ ਤੁਹਾਡੇ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ ਦੀ ਪੜਤਾਲ ਕਰ ਸਕੇ। ਹੋਰ "
+"ਜਾਣਕਾਰੀ ਲਈ <2>http://www.bc211.ca</2> ਨੂੰ ਵੇਖੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
@@ -874,11 +889,11 @@ msgstr "BC211 ਨੂੰ ਕਾਲ ਕਰੋ"
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "ਮਿਸਾਲ ਵਜੋਂ: ਸੇਵਾ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਬੰਦ ਹੋ ਗਈ ਹੈ"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchTermInput} ਨੇੜੇ {searchLocationInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
