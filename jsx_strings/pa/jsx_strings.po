@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
 "PO-Revision-Date: 2020-07-03 18:11+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Punjabi <https://35.182.22.184/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
@@ -696,10 +696,8 @@ msgid "Start settling in B.C."
 msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕਰੋ"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
-#, fuzzy
-#| msgid "Street - \"Kingsway\""
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "ਸੜਕ - \"Kingsway\""
+msgstr "ਸੜਕ - \"1356 Kingsway Vancouver\""
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
@@ -871,16 +869,12 @@ msgid "Your go-to guide to getting settled in your new community."
 msgstr "ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਂਟਲ ਹੋਣ ਲਈ ਤੁਹਾਡੀ ਹੱਥਲੀ ਗਾਈਡ ਹੈ।"
 
 #: lib/components/feedback/choose_mode_modal.js:37
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making final changes "
-#| "to the service information."
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
 msgstr ""
-"ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਸੇਵਾ ਜਾਣਕਾਰੀ ਲਈ ਆਖਰੀ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲਿਆ "
-"ਜਾਵੇਗਾ।"
+"ਸੇਵਾ ਜਾਣਕਾਰੀ ਵਿੱਚ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਦੀ ਪੜਤਾ"
+"ਲ ਕੀਤੀ ਜਾਵੇਗੀ।"
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
