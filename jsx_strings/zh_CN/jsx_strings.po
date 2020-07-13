@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-13 21:02+0000\n"
+"PO-Revision-Date: 2020-07-13 21:05+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Chinese (Simplified) <https://15.222.237.206/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
@@ -675,7 +675,7 @@ msgstr "开始在B.C.省安家落户"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "街名——“Kingsway”"
+msgstr "街道：“1356 Kingsway Vancouver ”"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
@@ -834,7 +834,7 @@ msgstr "您在新社区安家落户的必备指南。"
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
-msgstr "在更改服务信息之前，我们的团队会先审核您的建议。"
+msgstr "在更改服务信息之前，我们会先审核您的建议。"
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
