@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-13 21:05+0000\n"
+"PO-Revision-Date: 2020-07-13 21:06+0000\n"
 "Last-Translator: Jean <jean@peacegeeks.org>\n"
 "Language-Team: Chinese (Simplified) <https://15.222.237.206/projects/"
 "ui-strings/jsx_strings/zh_Hans/>\n"
@@ -169,7 +169,7 @@ msgstr "联系Arrival Advisor团队"
 
 #: lib/components/feedback/receive_updates_modal.js:25
 msgid "Contact information"
-msgstr "COVID-19信息"
+msgstr "联系信息"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -186,11 +186,11 @@ msgstr "描述"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 msgid "Discard"
-msgstr "免责声明"
+msgstr "放弃"
 
 #: lib/components/feedback/discard_changes_modal.js:18
 msgid "Discard the changes you suggested?"
-msgstr "放弃您建议的改变？"
+msgstr "放弃您提议的修改？"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -266,7 +266,7 @@ msgstr "请输入电子邮件"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "如果希望接收有关问题的更新，请输入电子邮件。"
+msgstr "如果您希望我们就该问题联系您，请输入您的电子邮件"
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -521,7 +521,7 @@ msgstr "机构"
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
 msgid "Other suggestions"
-msgstr "需要建议吗？尝试："
+msgstr "其他建议"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -649,7 +649,7 @@ msgstr "服务信息和推荐"
 
 #: lib/components/feedback/explainer_component.js:11
 msgid "Services listed on Arrival Advisor"
-msgstr "欢迎来到Arrival Advisor"
+msgstr "Arrival Advisor列出的服务"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -689,7 +689,7 @@ msgstr "更新建议"
 
 #: lib/components/feedback/other_remove_service_component.js:18
 msgid "Tell us more about this service"
-msgstr "删除此服务"
+msgstr "请提供该服务的更多信息"
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -796,7 +796,7 @@ msgstr "无法连接服务器。请稍后再试。"
 
 #: lib/components/feedback/explainer_component.js:15
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "请确保Arrival Advisor已开启定位系统功能。"
+msgstr "Arrival Advisor列出的服务信息来自何处？"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
