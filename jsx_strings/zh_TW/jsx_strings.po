@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-30 18:50+0000\n"
-"Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Chinese (Traditional) <https://35.183.144.102/projects/"
+"PO-Revision-Date: 2020-07-13 21:06+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://15.222.237.206/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: lib/components/feedback/choose_mode_modal.js:38
 msgid "<0>Learn more</0>"
-msgstr ""
+msgstr "<0>了解更多信息</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -168,7 +168,7 @@ msgstr "聯繫Arrival Advisor團隊"
 
 #: lib/components/feedback/receive_updates_modal.js:25
 msgid "Contact information"
-msgstr "COVID-19信息"
+msgstr "聯繫信息"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
@@ -181,15 +181,15 @@ msgstr "刪除所有用戶數據"
 
 #: lib/components/services/service_detail_component.js:82
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 msgid "Discard"
-msgstr "免責聲明"
+msgstr "放棄"
 
 #: lib/components/feedback/discard_changes_modal.js:18
 msgid "Discard the changes you suggested?"
-msgstr "放棄您建議的改變？"
+msgstr "放棄您提議的修改？"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
 #: lib/components/header_menu/header_menu_component.js:65
@@ -265,7 +265,7 @@ msgstr "請輸入電子郵件"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "如果希望接收有關問題的更新，請輸入電子郵件。"
+msgstr "如果您希望我們就該問題聯繫您，請輸入您的電子郵件"
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -351,13 +351,13 @@ msgstr "幫助和支持"
 
 #: lib/components/feedback/explainer_component.js:36
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "我怎樣才能把我的組織或服務列出來？"
 
 #: lib/components/feedback/explainer_component.js:25
 msgid ""
 "I found some inaccurate or missing services information in the app. What do "
 "I do?"
-msgstr ""
+msgstr "我發現應用上有一些錯誤或缺失的服務信息。我該怎麼做？"
 
 #: lib/components/help/help_component.js:59
 msgid ""
@@ -418,7 +418,7 @@ msgstr "職位名稱"
 
 #: lib/components/feedback/discard_changes_modal.js:22
 msgid "Keep editing"
-msgstr ""
+msgstr "繼續編輯"
 
 #: lib/components/content_verification_component.js:9
 #: lib/components/content_verification_component.js:13
@@ -511,7 +511,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr ""
+msgstr "打開外部鏈接"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -521,7 +521,7 @@ msgstr "組織機構"
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
 msgid "Other suggestions"
-msgstr "需要建議嗎？嘗試："
+msgstr "其他建議"
 
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
@@ -543,7 +543,7 @@ msgstr "電話"
 
 #: lib/components/services/service_detail_component.js:133
 msgid "Phone numbers"
-msgstr ""
+msgstr "電話號碼"
 
 #: lib/components/help/help_component.js:18
 msgid "Police, fire and medical emergencies"
@@ -559,7 +559,7 @@ msgstr "隱私政策"
 
 #: lib/components/feedback/other_remove_service_component.js:23
 msgid "Provide any additional information (optional)"
-msgstr ""
+msgstr "請提供任何其他信息（可選）"
 
 #: lib/components/services/service_detail_component.js:102
 msgid "Provided by"
@@ -649,7 +649,7 @@ msgstr "服務資訊和推薦"
 
 #: lib/components/feedback/explainer_component.js:11
 msgid "Services listed on Arrival Advisor"
-msgstr "歡迎來到Arrival Advisor"
+msgstr "Arrival Advisor列出的服務"
 
 #: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
@@ -675,11 +675,11 @@ msgstr "開始在B.C.省定居"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "街名——“Kingsway”"
+msgstr "街道：“1356 Kingsway Vancouver ”"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
-msgstr ""
+msgstr "提交"
 
 #: lib/components/feedback/choose_mode_modal.js:21
 #: lib/components/feedback/feedback_component.js:41
@@ -689,7 +689,7 @@ msgstr "更新建議"
 
 #: lib/components/feedback/other_remove_service_component.js:18
 msgid "Tell us more about this service"
-msgstr "刪除此服務"
+msgstr "請提供該服務的更多信息"
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
@@ -697,7 +697,7 @@ msgstr "使用條款"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
-msgstr ""
+msgstr "感謝您的貢獻！"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -741,6 +741,8 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
+"Arrival Advisor列出的服務來自 <0>bc211</0>, "
+"這是一家非盈利的信息和轉介機構，發布英屬哥倫比亞省的社區、政府和社會服務的可搜索的在線目錄。 bc211的員工收集和更新服務信息。"
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -748,12 +750,12 @@ msgstr "這是 Arrival Advisor 版本："
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr ""
+msgstr "該鏈接將在您設備上的瀏覽器打開。"
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr ""
+msgstr "該服務不再存在"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -795,7 +797,7 @@ msgstr "目前無法連接到伺服器, 請稍候再試。"
 
 #: lib/components/feedback/explainer_component.js:15
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "請確保為 Arrival Advisor 開啟定位系統功能。"
+msgstr "Arrival Advisor列出的服務信息來自何處？"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -810,6 +812,9 @@ msgid ""
 "The Arrival Advisor team will work with bc211 to review your suggestions "
 "before we make the final changes."
 msgstr ""
+"您可以通過點擊Arrival Advisor上某個服務的詳情頁面底部的“建議更新”按鈕提出建議。然後您可以在表格中提供更多信息，讓我們知道哪些內容需要更新"
+"。您可以選擇留下您的電子郵件，以便我們的團隊可以跟進您的情況。在我們做出最終更改之前，Arrival "
+"Advisor團隊將與bc211的工作人員合作，審核您的建議。"
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
@@ -819,6 +824,8 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
+"您可以閱讀<0>bc211的包容性政策</0>，看看哪些組織機構和服務被列出。如果您認為您的組織或服務符合入選標準，您可以發郵件至<1>updates@b"
+"c211.ca</1>，這樣bc211團隊就可以審查您的組織或服務。請訪問<2>http://www.bc211.ca</2>了解更多信息。"
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
@@ -828,7 +835,7 @@ msgstr "您在新社區安家落戶的必備指南。"
 msgid ""
 "Your suggestions will be reviewed by our team before making changes to the "
 "service information."
-msgstr "在更改服務信息之前，我們的團隊會先審核您的建議。"
+msgstr "在更改服務信息之前，我們會先審核您的建議。"
 
 #: lib/components/search/search_results_component.js:112
 #: lib/components/services/service_list_component.js:56
@@ -837,11 +844,11 @@ msgstr "電話聯繫BC211。"
 
 #: lib/components/feedback/other_remove_service_component.js:24
 msgid "e.g. Service is permanently closed"
-msgstr ""
+msgstr "例如：服務永遠關閉"
 
 #: lib/components/search/search_input_component.js:74
 msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
+msgstr "{searchLocationInput} 附近的 {searchTermInput}"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "尋找就近服務"
