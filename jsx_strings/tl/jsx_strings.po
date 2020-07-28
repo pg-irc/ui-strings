@@ -16,7 +16,9 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-msgid "<0>Learn more</0>"
+#, fuzzy
+#| msgid "<0>Learn more</0>"
+msgid "Learn more"
 msgstr "<0>Matuto nang higít pa</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
@@ -283,7 +285,8 @@ msgstr "Isulat ang inyong email"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "Ibigáy iyóng email kung nais ninyóng makipag-ugnáy tungkól nitóng isyu."
+msgstr ""
+"Ibigáy iyóng email kung nais ninyóng makipag-ugnáy tungkól nitóng isyu."
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -876,10 +879,17 @@ msgstr ""
 "ang iyóng mga mungkahì bago kamí gumawâ ng panghulíng mga pagbabago."
 
 #: lib/components/feedback/explainer_component.js:39
+#, fuzzy
+#| msgid ""
+#| "You can read <0>bc211’s Inclusion Policy here</0>to see what "
+#| "organizations and services are listed. If you believe that your "
+#| "organization or service fits the inclusion criteria, you can email "
+#| "<1>updates@bc211.ca</1>so the bc211 team can review your organization or "
+#| "service. Visit <2>http://www.bc211.ca</2> for more information."
 msgid ""
-"You can read <0>bc211’s Inclusion Policy here</0>to see what organizations "
+"You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
-"fits the inclusion criteria, you can email <1>updates@bc211.ca</1>so the "
+"fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the "
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""

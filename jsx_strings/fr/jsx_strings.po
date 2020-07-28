@@ -15,7 +15,9 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-msgid "<0>Learn more</0>"
+#, fuzzy
+#| msgid "<0>Learn more</0>"
+msgid "Learn more"
 msgstr "<0>En savoir plus</0>"
 
 #: lib/components/header_menu/header_menu_component.js:59
@@ -883,10 +885,17 @@ msgstr ""
 "suggestions avant de mettre en modifier les renseignements."
 
 #: lib/components/feedback/explainer_component.js:39
+#, fuzzy
+#| msgid ""
+#| "You can read <0>bc211’s Inclusion Policy here</0>to see what "
+#| "organizations and services are listed. If you believe that your "
+#| "organization or service fits the inclusion criteria, you can email "
+#| "<1>updates@bc211.ca</1>so the bc211 team can review your organization or "
+#| "service. Visit <2>http://www.bc211.ca</2> for more information."
 msgid ""
-"You can read <0>bc211’s Inclusion Policy here</0>to see what organizations "
+"You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
-"fits the inclusion criteria, you can email <1>updates@bc211.ca</1>so the "
+"fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the "
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
@@ -894,8 +903,8 @@ msgstr ""
 "quels organismes et services sont répertoriés. Si vous pensez que votre "
 "organisme ou service correspond aux critères d'inclusion, vous pouvez "
 "envoyer un courriel à <1>updates@bc211.ca</1>pour que l'équipe de bc211 "
-"examine votre organisme ou service. Rendez-vous sur "
-"<2>http://www.bc211.ca</2> pour plus d'informations."
+"examine votre organisme ou service. Rendez-vous sur <2>http://www.bc211."
+"ca</2> pour plus d'informations."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
