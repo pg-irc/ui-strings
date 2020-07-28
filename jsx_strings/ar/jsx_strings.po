@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-30 18:50+0000\n"
+"PO-Revision-Date: 2020-07-28 20:07+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://35.183.144.102/projects/ui-strings/"
+"Language-Team: Arabic <https://15.222.237.206/projects/ui-strings/"
 "jsx_strings/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -16,10 +16,8 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-#, fuzzy
-#| msgid "<0>Learn more</0>"
 msgid "Learn more"
-msgstr "<0>تعرف على المزيد</0>"
+msgstr "تعرف على المزيد"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -855,13 +853,6 @@ msgstr ""
 "التغييرات النهائية."
 
 #: lib/components/feedback/explainer_component.js:39
-#, fuzzy
-#| msgid ""
-#| "You can read <0>bc211’s Inclusion Policy here</0>to see what "
-#| "organizations and services are listed. If you believe that your "
-#| "organization or service fits the inclusion criteria, you can email "
-#| "<1>updates@bc211.ca</1>so the bc211 team can review your organization or "
-#| "service. Visit <2>http://www.bc211.ca</2> for more information."
 msgid ""
 "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
