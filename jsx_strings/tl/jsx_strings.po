@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-30 18:50+0000\n"
+"PO-Revision-Date: 2020-07-28 19:57+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://35.183.144.102/projects/ui-strings/"
+"Language-Team: Tagalog <https://15.222.237.206/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-msgid "<0>Learn more</0>"
-msgstr "<0>Matuto nang higít pa</0>"
+msgid "Learn more"
+msgstr "Matuto nang higít pa"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -283,7 +283,8 @@ msgstr "Isulat ang inyong email"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr "Ibigáy iyóng email kung nais ninyóng makipag-ugnáy tungkól nitóng isyu."
+msgstr ""
+"Ibigáy iyóng email kung nais ninyóng makipag-ugnáy tungkól nitóng isyu."
 
 #: lib/components/feedback/receive_updates_modal.js:14
 msgid "Enter your job title"
@@ -877,17 +878,17 @@ msgstr ""
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
-"You can read <0>bc211’s Inclusion Policy here</0>to see what organizations "
+"You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
-"fits the inclusion criteria, you can email <1>updates@bc211.ca</1>so the "
+"fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the "
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
 "Maaarì mong basahin ang <0>bc211’s Inclusion Policy here</0> (Patakarán ng "
-"Pagsasama ng bc211) rito</0>upang makità kung anóng mga organisasyón at "
+"Pagsasama ng bc211) rito</0> upang makità kung anóng mga organisasyón at "
 "serbisyong nakalistá. Kung naniniwalà kayó na ang iyóng samahán o serbisyo "
 "ay umaangkóp sa mga pamantayan sa pagsasama, maaarì kayóng mag-email sa "
-"<1>updates@bc211.ca</1>para maaaring suriin ng pangkát ng bc211 ang iyóng "
+"<1>updates@bc211.ca</1> para maaaring suriin ng pangkát ng bc211 ang iyóng "
 "samahán o serbisyo. Bisitahin ang <2>http://www.bc211.ca</2> para sa marami "
 "pang impormasyón."
 
