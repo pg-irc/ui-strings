@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-06-30 18:50+0000\n"
+"PO-Revision-Date: 2020-07-28 20:07+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://35.183.144.102/projects/ui-strings/"
+"Language-Team: Korean <https://15.222.237.206/projects/ui-strings/"
 "jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -15,10 +15,8 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-#, fuzzy
-#| msgid "<0>Learn more</0>"
 msgid "Learn more"
-msgstr "<0>더 알아보기</0>"
+msgstr "더 알아보기"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -844,13 +842,6 @@ msgstr ""
 "업하여 제안하신 사항을 검토한 후 최종 반영합니다.  "
 
 #: lib/components/feedback/explainer_component.js:39
-#, fuzzy
-#| msgid ""
-#| "You can read <0>bc211’s Inclusion Policy here</0>to see what "
-#| "organizations and services are listed. If you believe that your "
-#| "organization or service fits the inclusion criteria, you can email "
-#| "<1>updates@bc211.ca</1>so the bc211 team can review your organization or "
-#| "service. Visit <2>http://www.bc211.ca</2> for more information."
 msgid ""
 "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
@@ -858,10 +849,9 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
-"어떤 기관이나 서비스가 등록되는지 <0>여기 bc211의 등록 정책</0>에서 확인할 "
-"수 있습니다.  귀하의 기관이나 서비스가 등록 기준에 부합한다고 판단될 경우, "
-"<1>updates@bc211.ca</1>로 이메일을 보내주시면 bc211에서 등록 여부를 검토합니"
-"다. 더 자세한 정보 확인을 위해 <2>http://www.bc211.ca</2>를 클릭하세요. "
+"어떤 기관이나 서비스가 등록되는지 <0> 여기 bc211의 등록 정책</0>에서 확인할 수 있습니다.  귀하의 기관이나 서비스가 등록 "
+"기준에 부합한다고 판단될 경우, <1>updates@bc211.ca</1> 로 이메일을 보내주시면 bc211에서 등록 여부를 검토합니다. "
+"더 자세한 정보 확인을 위해 <2>http://www.bc211.ca</2> 를 클릭하세요."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."

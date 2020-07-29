@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-03 18:11+0000\n"
+"PO-Revision-Date: 2020-07-28 20:07+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://35.182.22.184/projects/ui-strings/"
+"Language-Team: Punjabi <https://15.222.237.206/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
@@ -15,10 +15,8 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #: lib/components/feedback/choose_mode_modal.js:38
-#, fuzzy
-#| msgid "<0>Learn more</0>"
 msgid "Learn more"
-msgstr "<0>ਹੋਰ ਸਿੱਖੋ</0>"
+msgstr "ਹੋਰ ਸਿੱਖੋ"
 
 #: lib/components/header_menu/header_menu_component.js:59
 msgid "ABOUT THE APP"
@@ -835,13 +833,6 @@ msgstr ""
 "Arrival Advisor ਦੀ ਟੀਮ bc211 ਨਾਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰੇਗੀ।"
 
 #: lib/components/feedback/explainer_component.js:39
-#, fuzzy
-#| msgid ""
-#| "You can read <0>bc211’s Inclusion Policy here</0>to see what "
-#| "organizations and services are listed. If you believe that your "
-#| "organization or service fits the inclusion criteria, you can email "
-#| "<1>updates@bc211.ca</1>so the bc211 team can review your organization or "
-#| "service. Visit <2>http://www.bc211.ca</2> for more information."
 msgid ""
 "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations "
 "and services are listed. If you believe that your organization or service "
@@ -849,10 +840,11 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
-"ਸੰਗਠਨ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਦਿਖਾਉਣ ਵਾਸਤੇ ਲੋੜੀਂਦੀ ਜਾਣਕਾਰੀ ਲਈ ਤੁਸੀਂ <0>bc211 ਦੀ ਦਾਖਲਾ ਨੀਤੀ ਨੂੰ "
-"ਇੱਥੇ</0> ਪੜ੍ਹ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ ਦਾਖ਼ਲੇ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੈ "
-"ਤਾਂ ਤੁਸੀਂ <1>updates@bc211.ca</1> ਨੂੰ ਈਮੇਲ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ bc211 ਦੀ ਟੀਮ ਤੁਹਾਡੇ ਸੰਗਠਨ "
-"ਜਾਂ ਸੇਵਾ ਦੀ ਪੜਤਾਲ ਕਰ ਸਕੇ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ <2>http://www.bc211.ca</2> ਨੂੰ ਵੇਖੋ।"
+"ਸੰਗਠਨ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਦਿਖਾਉਣ ਵਾਸਤੇ ਲੋੜੀਂਦੀ ਜਾਣਕਾਰੀ ਲਈ ਤੁਸੀਂ <0>bc211 ਦੀ ਦਾਖਲਾ"
+" ਨੀਤੀ ਨੂੰ ਇੱਥੇ</0> ਪੜ੍ਹ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ"
+" ਦਾਖ਼ਲੇ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ <1>updates@bc211.ca</1> ਨੂੰ ਈਮੇਲ ਕਰ "
+"ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ bc211 ਦੀ ਟੀਮ ਤੁਹਾਡੇ ਸੰਗਠਨ ਜਾਂ ਸੇਵਾ ਦੀ ਪੜਤਾਲ ਕਰ ਸਕੇ। ਹੋਰ "
+"ਜਾਣਕਾਰੀ ਲਈ <2>http://www.bc211.ca</2> ਨੂੰ ਵੇਖੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
