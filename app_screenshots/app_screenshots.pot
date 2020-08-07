@@ -31,9 +31,9 @@ msgstr ""
 msgid "Keep track of what you need to do next"
 msgstr ""
 
-msgid "Available offline"
+msgid "You can now suggest updates on service details"
 msgstr ""
 
-msgid "You can now suggest updates on service details"
+msgid "You can now search for services! Search is available in English."
 msgstr ""
 
