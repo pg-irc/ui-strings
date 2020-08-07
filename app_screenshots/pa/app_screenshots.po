@@ -8,11 +8,11 @@ msgstr ""
 "Language-Team: Punjabi <https://35.182.237.96/projects/ui-strings/"
 "app_screenshots/pa/>\n"
 "Language: pa\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.8\n"
-"Mime-Version: 1.0\n"
 
 msgid "Trusted information for newcomers to British Columbia"
 msgstr "ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਲਈ ਨਵੇਂ ਆਉਣ ਵਾਲਿਆਂ ਵਾਸਤੇ ਭਰੋਸੇਯੋਗ ਜਾਣਕਾਰੀ"
@@ -34,3 +34,6 @@ msgstr "ਉਹਨਾਂ ਦਾ ਖਿਆਲ ਰੱਖੋ, ਜੋ ਤੁਹਾਨ
 
 msgid "Available offline"
 msgstr "ਆਫ਼ਲਾਈਨ ਉਪਲਬਧ ਹੈ"
+
+msgid "You can now suggest updates on service details"
+msgstr ""
