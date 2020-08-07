@@ -32,8 +32,11 @@ msgstr "查詢附近能提供所需服務之機構"
 msgid "Keep track of what you need to do next"
 msgstr "隨時為您追蹤下一個需完成事項"
 
-msgid "Available offline"
-msgstr "可於離線狀態下使用"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "可於離線狀態下使用"

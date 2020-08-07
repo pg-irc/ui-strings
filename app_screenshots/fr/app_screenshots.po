@@ -33,8 +33,11 @@ msgstr "Trouver des services utiles à proximité"
 msgid "Keep track of what you need to do next"
 msgstr "Faire le suivi des mesures que vous devez prendre"
 
-msgid "Available offline"
-msgstr "Disponible hors ligne"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "Disponible hors ligne"

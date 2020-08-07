@@ -32,8 +32,11 @@ msgstr "내 주변 유용한 서비스 찾기"
 msgid "Keep track of what you need to do next"
 msgstr "다음 단계에 해야 할 일 파악하기"
 
-msgid "Available offline"
-msgstr "오프라인에서도 이용 가능"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "오프라인에서도 이용 가능"

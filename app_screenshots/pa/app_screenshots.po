@@ -32,8 +32,11 @@ msgstr "ਨੇੜਲੀਆਂ ਮਦਦਗਾਰ ਸੇਵਾਵਾਂ ਲੱਭ
 msgid "Keep track of what you need to do next"
 msgstr "ਉਹਨਾਂ ਦਾ ਖਿਆਲ ਰੱਖੋ, ਜੋ ਤੁਹਾਨੂੰ ਅੱਗੇ ਚਾਹੀਦਾ ਹੈ"
 
-msgid "Available offline"
-msgstr "ਆਫ਼ਲਾਈਨ ਉਪਲਬਧ ਹੈ"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "ਆਫ਼ਲਾਈਨ ਉਪਲਬਧ ਹੈ"

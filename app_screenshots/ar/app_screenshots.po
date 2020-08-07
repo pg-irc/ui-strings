@@ -33,8 +33,11 @@ msgstr "ابحث عن خدمات مفيدة قريبة منك"
 msgid "Keep track of what you need to do next"
 msgstr "تابع ما تحتاج للقيام به تاليا"
 
-msgid "Available offline"
-msgstr "متاح دون اتصال بالإنترنت"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "متاح دون اتصال بالإنترنت"

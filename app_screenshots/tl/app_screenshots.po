@@ -34,8 +34,11 @@ msgstr "Humanap ng malapit na mga serbisyong makakatulong"
 msgid "Keep track of what you need to do next"
 msgstr "Subaybayan ang kailangan mong susunod na gagawin"
 
-msgid "Available offline"
-msgstr "Magagamit kahit offline"
-
 msgid "You can now suggest updates on service details"
 msgstr ""
+
+msgid "You can now search for services! Search is available in English."
+msgstr ""
+
+#~ msgid "Available offline"
+#~ msgstr "Magagamit kahit offline"
