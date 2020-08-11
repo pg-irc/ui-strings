@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-08-11 18:07+0000\n"
+"PO-Revision-Date: 2020-08-11 18:09+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://15.223.56.98/projects/ui-strings/jsx_strings/"
-"fr/>\n"
+"Language-Team: French <https://35.183.181.189/projects/ui-strings/"
+"jsx_strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -150,7 +150,7 @@ msgstr "Ne peut pas se connecter à Internet"
 #: lib/components/help/help_component.js:135
 #: lib/components/link/link_component.js:36
 msgid "Cancel"
-msgstr "ANNULER"
+msgstr "Annuler"
 
 #: lib/components/feedback/choose_mode_modal.js:26
 #: lib/components/services/service_detail_component.js:106
@@ -223,7 +223,7 @@ msgstr ""
 
 #: lib/components/feedback/receive_updates_modal.js:34
 msgid "Do you work at this service or organization?"
-msgstr "Travaillez-vous à ce service ou cette organisation?"
+msgstr "Travaillez-vous dans ce service ou au sein de cet organisme?"
 
 #: lib/components/link/link_component.js:37
 #: lib/components/services/service_list_component.js:59
@@ -535,7 +535,7 @@ msgstr "OK"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr "ORGANISATION"
+msgstr "ORGANISME"
 
 #: lib/components/recommended_topics/call_to_action.js:69
 msgid ""
@@ -553,7 +553,7 @@ msgstr "Ouverture d’un lien externe"
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
 msgid "Organization"
-msgstr "Organisations"
+msgstr "Organisme"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
