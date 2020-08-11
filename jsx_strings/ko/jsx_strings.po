@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-28 20:07+0000\n"
+"PO-Revision-Date: 2020-08-11 20:22+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://15.222.237.206/projects/ui-strings/"
+"Language-Team: Korean <https://35.183.181.189/projects/ui-strings/"
 "jsx_strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -761,10 +761,9 @@ msgid ""
 "directory of community, government, and social services in British Columbia. "
 "bc211’s staff members collect and update this services information."
 msgstr ""
-"Arrival Advisor에 등록된 서비스들의 출처는 브리티시 컬럼비아주의 공동체와 정"
-"부, 사회 복지 제도의 온라인 검색 디렉터리를 게시하는 비영리 정보 및 추천 기관"
-"인 0>bc211</0>입니다. bc211은 위와 같은 서비스 정보를 수집하고 업데이트하는 "
-"일을 합니다. "
+"Arrival Advisor에 등록된 서비스들의 출처는 브리티시 컬럼비아주의 공동체와 정부, 사회 복지 제도의 온라인 검색 디렉터리를 "
+"게시하는 비영리 정보 및 추천 기관인 <0>bc211</0>입니다. bc211은 위와 같은 서비스 정보를 수집하고 업데이트하는 일을 "
+"합니다."
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -772,7 +771,7 @@ msgstr "Arrival Advisor 버전:"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr "해당 링크는 "
+msgstr "해당 링크는 사용자의 단말기 브라우저에서 열립니다."
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
