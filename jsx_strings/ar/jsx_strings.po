@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-28 20:07+0000\n"
+"PO-Revision-Date: 2020-08-07 23:13+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Arabic <https://15.222.237.206/projects/ui-strings/"
-"jsx_strings/ar/>\n"
+"Language-Team: Arabic <https://15.223.56.98/projects/ui-strings/jsx_strings/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -701,7 +701,7 @@ msgstr "بدء الاستقرار في بريتيش كولومبيا."
 
 #: lib/components/error_screens/error_screen_switcher_component.js:103
 msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr "الشارع - «1356 Kingsway Vancouver»"
+msgstr "الشارع - «‎1356 Kingsway Vancouver»"
 
 #: lib/components/feedback/submit_feedback_button.js:18
 msgid "Submit"
