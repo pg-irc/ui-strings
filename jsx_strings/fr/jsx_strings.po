@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-08-11 17:33+0000\n"
+"PO-Revision-Date: 2020-08-11 18:11+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: French <https://35.183.181.189/projects/ui-strings/"
 "jsx_strings/fr/>\n"
@@ -150,7 +150,7 @@ msgstr "Ne peut pas se connecter à Internet"
 #: lib/components/help/help_component.js:135
 #: lib/components/link/link_component.js:36
 msgid "Cancel"
-msgstr "ANNULER"
+msgstr "Annuler"
 
 #: lib/components/feedback/choose_mode_modal.js:26
 #: lib/components/services/service_detail_component.js:106
@@ -223,7 +223,7 @@ msgstr ""
 
 #: lib/components/feedback/receive_updates_modal.js:34
 msgid "Do you work at this service or organization?"
-msgstr "Travaillez-vous à ce service ou cette organisation?"
+msgstr "Travaillez-vous dans ce service ou au sein de cet organisme?"
 
 #: lib/components/link/link_component.js:37
 #: lib/components/services/service_list_component.js:59
@@ -278,7 +278,7 @@ msgstr "Entrer la ville, l’adresse ou le code postal"
 
 #: lib/components/feedback/receive_updates_modal.js:11
 msgid "Enter email"
-msgstr "Entrer l’adresse courriel"
+msgstr "Entrez l’adresse courriel"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
@@ -535,7 +535,7 @@ msgstr "OK"
 
 #: lib/components/organizations/organization_detail_component.js:49
 msgid "ORGANIZATION"
-msgstr "ORGANISATION"
+msgstr "ORGANISME"
 
 #: lib/components/recommended_topics/call_to_action.js:69
 msgid ""
@@ -553,7 +553,7 @@ msgstr "Ouverture d’un lien externe"
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
 msgid "Organization"
-msgstr "Organisations"
+msgstr "Organisme"
 
 #: lib/components/feedback/choose_mode_modal.js:28
 #: lib/components/feedback/other_remove_service_component.js:17
@@ -880,7 +880,7 @@ msgstr ""
 "nous indiquer les modifications nécessaires. Vous pouvez choisir de nous "
 "transmettre votre adresse courriel pour que notre équipe vous contacte. L’"
 "équipe d’Arrival Advisor collaborera avec bc211 pour analyser vos "
-"suggestions avant de mettre en modifier les renseignements."
+"suggestions avant de modifier les renseignements."
 
 #: lib/components/feedback/explainer_component.js:39
 msgid ""
