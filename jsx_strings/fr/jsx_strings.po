@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-08-11 18:09+0000\n"
+"PO-Revision-Date: 2020-08-11 18:11+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: French <https://35.183.181.189/projects/ui-strings/"
 "jsx_strings/fr/>\n"
@@ -278,7 +278,7 @@ msgstr "Entrer la ville, l’adresse ou le code postal"
 
 #: lib/components/feedback/receive_updates_modal.js:11
 msgid "Enter email"
-msgstr "Entrez l'adresse courriel"
+msgstr "Entrez l’adresse courriel"
 
 #: lib/components/feedback/receive_updates_modal.js:28
 msgid "Enter your email if you would like to be contacted about this issue"
@@ -879,7 +879,7 @@ msgstr ""
 "Ensuite, fournissez des informations supplémentaires dans le formulaire pour "
 "nous indiquer les modifications nécessaires. Vous pouvez choisir de nous "
 "transmettre votre adresse courriel pour que notre équipe vous contacte. L’"
-"équipe d'Arrival Advisor collaborera avec bc211 pour analyser vos "
+"équipe d’Arrival Advisor collaborera avec bc211 pour analyser vos "
 "suggestions avant de modifier les renseignements."
 
 #: lib/components/feedback/explainer_component.js:39
