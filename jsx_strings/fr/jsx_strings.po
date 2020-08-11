@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-07-28 20:07+0000\n"
+"PO-Revision-Date: 2020-08-11 17:33+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://15.222.237.206/projects/ui-strings/"
+"Language-Team: French <https://35.183.181.189/projects/ui-strings/"
 "jsx_strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgid ""
 msgstr ""
 "Arrival Advisor est une application mobile multilingue gratuite qui fournit "
 "aux immigrants et aux réfugiés en Colombie-Britannique (Canada) des "
-"informations et des services pour préparer leur établissement. L'application "
+"informations et des services pour préparer leur établissement. L’application "
 "est offerte en anglais, en arabe, en chinois (simplifié et traditionnel), en "
 "français (canadien), en coréen, en punjabi et en tagalog."
 
@@ -274,7 +274,7 @@ msgstr "Assurez-vous que votre recherche est en anglais"
 #: lib/components/search/search_input_component.js:80
 #: lib/components/services/service_list_location_search_component.js:99
 msgid "Enter city, address, or postal code"
-msgstr "Entrer la ville, l'adresse ou le code postal"
+msgstr "Entrer la ville, l’adresse ou le code postal"
 
 #: lib/components/feedback/receive_updates_modal.js:11
 msgid "Enter email"
@@ -411,9 +411,9 @@ msgid ""
 "Columbia</0> Copyright 2018 Province of British Columbia. All rights "
 "reserved."
 msgstr ""
-"Les renseignements fournis par cette application sont tirés du <0>Guide à "
-"l'intention des nouveaux arrivants en Colombie-Britannique</0>. Copyright "
-"2018 Province de la Colombie-Britannique. Tous droits réservés."
+"Les renseignements fournis par cette application sont tirés du <0>Guide à l’"
+"intention des nouveaux arrivants en Colombie-Britannique</0>. Copyright 2018 "
+"Province de la Colombie-Britannique. Tous droits réservés."
 
 #: lib/components/help/help_component.js:30
 msgid "Information on BC211"
@@ -548,7 +548,7 @@ msgstr ""
 
 #: lib/components/link/link_component.js:33
 msgid "Opening External Link"
-msgstr "Ouverture d'un lien externe"
+msgstr "Ouverture d’un lien externe"
 
 #: lib/components/feedback/receive_updates_modal.js:64
 #: lib/components/services/service_detail_component.js:80
@@ -739,7 +739,7 @@ msgstr "Parlez-nous de ce service."
 
 #: lib/components/header_menu/header_menu_component.js:67
 msgid "Terms of Use"
-msgstr "Conditions d'utilisation"
+msgstr "Conditions d’utilisation"
 
 #: lib/components/feedback/modal_container.js:11
 msgid "Thank you for your contribution!"
@@ -798,7 +798,7 @@ msgid ""
 "bc211’s staff members collect and update this services information."
 msgstr ""
 "Les services répertoriés sur Arrival Advisor proviennent de <0>bc211</0>, un "
-"organisme de renseignements et d'orientation à but non lucratif qui publie "
+"organisme de renseignements et d’orientation à but non lucratif qui publie "
 "un répertoire consultable en ligne des services communautaires, "
 "gouvernementaux et sociaux présents en Colombie-Britannique. Le personnel de "
 "bc211 recueille et met à jour les renseignements liés à ces services."
@@ -809,12 +809,12 @@ msgstr "Version d’Arrival Advisor :"
 
 #: lib/components/link/link_component.js:34
 msgid "This link will open in your device's browser."
-msgstr "Ce lien s'ouvrira dans le navigateur de votre appareil."
+msgstr "Ce lien s’ouvrira dans le navigateur de votre appareil."
 
 #: lib/components/feedback/choose_mode_modal.js:27
 #: lib/components/feedback/other_remove_service_component.js:22
 msgid "This service no longer exists"
-msgstr "Ce service n'existe plus"
+msgstr "Ce service n’existe plus"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:42
 msgid ""
@@ -859,7 +859,7 @@ msgstr ""
 
 #: lib/components/feedback/explainer_component.js:15
 msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr "D'où proviennent les services répertoriés sur Arrival Advisor?"
+msgstr "D’où proviennent les services répertoriés sur Arrival Advisor?"
 
 #: lib/components/feedback/receive_updates_modal.js:38
 msgid "Yes"
@@ -878,8 +878,8 @@ msgstr ""
 "en bas de la page de renseignements sur un service dans Arrival Advisor. "
 "Ensuite, fournissez des informations supplémentaires dans le formulaire pour "
 "nous indiquer les modifications nécessaires. Vous pouvez choisir de nous "
-"transmettre votre adresse courriel pour que notre équipe vous contacte. "
-"L'équipe d'Arrival Advisor collaborera avec bc211 pour analyser vos "
+"transmettre votre adresse courriel pour que notre équipe vous contacte. L’"
+"équipe d’Arrival Advisor collaborera avec bc211 pour analyser vos "
 "suggestions avant de mettre en modifier les renseignements."
 
 #: lib/components/feedback/explainer_component.js:39
@@ -890,12 +890,12 @@ msgid ""
 "bc211 team can review your organization or service. Visit <2>http://www."
 "bc211.ca</2> for more information."
 msgstr ""
-"Vous pouvez consulter la <0>Politique d'inclusion de bc211 ici</0> pour voir "
+"Vous pouvez consulter la <0>Politique d’inclusion de bc211 ici</0> pour voir "
 "quels organismes et services sont répertoriés. Si vous pensez que votre "
-"organisme ou service correspond aux critères d'inclusion, vous pouvez "
-"envoyer un courriel à <1>updates@bc211.ca</1> pour que l'équipe de bc211 "
+"organisme ou service correspond aux critères d’inclusion, vous pouvez "
+"envoyer un courriel à <1>updates@bc211.ca</1> pour que l’équipe de bc211 "
 "examine votre organisme ou service. Rendez-vous sur "
-"<2>http://www.bc211.ca</2> pour plus d'informations."
+"<2>http://www.bc211.ca</2> pour plus d’informations."
 
 #: lib/components/onboarding/onboarding_component.js:23
 msgid "Your go-to guide to getting settled in your new community."
