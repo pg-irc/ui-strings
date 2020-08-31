@@ -108,3 +108,11 @@ msgstr ""
 
 msgid "We have improved the search results when you search for services."
 msgstr "ਜਦੋਂ ਤੁਸੀਂ ਸੇਵਾਵਾਂ ਖੋਜਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਖੋਜ ਨਤੀਜਿਆਂ ਲਈ ਸੁਧਾਰ ਕੀਤਾ ਹੈ।"
+
+msgid ""
+"Privacy policy for our \"Suggest an update\" feature is now translated into "
+"all 7 languages."
+msgstr ""
+
+msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
+msgstr ""

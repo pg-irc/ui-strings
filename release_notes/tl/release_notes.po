@@ -124,3 +124,11 @@ msgid "We have improved the search results when you search for services."
 msgstr ""
 "Pinabuti namin ang mga resulta ng paghahanap kapág kayó’y naghahanap ng mga "
 "serbisyo."
+
+msgid ""
+"Privacy policy for our \"Suggest an update\" feature is now translated into "
+"all 7 languages."
+msgstr ""
+
+msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
+msgstr ""

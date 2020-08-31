@@ -109,3 +109,11 @@ msgstr ""
 
 msgid "We have improved the search results when you search for services."
 msgstr "서비스 검색시 검색 결과를 개선했습니다."
+
+msgid ""
+"Privacy policy for our \"Suggest an update\" feature is now translated into "
+"all 7 languages."
+msgstr ""
+
+msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
+msgstr ""

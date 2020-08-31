@@ -104,3 +104,11 @@ msgstr ""
 
 msgid "We have improved the search results when you search for services."
 msgstr "當您搜索服務時，我們改進了搜索結果。"
+
+msgid ""
+"Privacy policy for our \"Suggest an update\" feature is now translated into "
+"all 7 languages."
+msgstr ""
+
+msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
+msgstr ""
