@@ -78,3 +78,9 @@ msgstr ""
 
 msgid "We have improved the search results when you search for services."
 msgstr ""
+
+msgid "Privacy policy for our "Suggest an update" feature is now translated into all 7 languages."
+msgstr ""
+
+msgid "Made improvements to our "Suggest an update" feature. Try it out! When you search for a service, if you see any missing or incorrect information about the listed service, feel free to click the "Suggest an update" button to let the Arrival Advisor team know to fix it."
+msgstr ""
