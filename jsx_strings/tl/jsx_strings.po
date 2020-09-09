@@ -942,6 +942,10 @@ msgstr ""
 "taong pamilyar sa gawain ng ogranisasyon. Tingnan din ang PeaceGeeks' "
 "pangkalahatan (hyperlink)"
 
+#: lib/components/feedback/explain_feedback_component.js:47
+msgid "How is PeaceGeeks and bc211 using the information collected?"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
 
