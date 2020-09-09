@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-09-09 21:13+0000\n"
+"PO-Revision-Date: 2020-09-09 21:28+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
 "Language-Team: Tagalog <https://35.183.144.153/projects/ui-strings/"
 "jsx_strings/tl/>\n"
@@ -944,7 +944,7 @@ msgstr ""
 
 #: lib/components/feedback/explain_feedback_component.js:47
 msgid "How is PeaceGeeks and bc211 using the information collected?"
-msgstr "Ano ang ginagawa ng Arrival Advisor at bc211 sa data ko?"
+msgstr "Ano ang ginagawa ng PeaceGeeks at bc211 sa data ko?"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
