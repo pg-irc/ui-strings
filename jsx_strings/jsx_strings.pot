@@ -695,3 +695,7 @@ msgstr ""
 #: lib/components/feedback/explain_feedback_component.js:50
 msgid "When you give feedback about a service, PeaceGeeks collect and shares with bc211 your suggestions as well as the name of the service you're commenting on. We record the date and time the suggestion was received. If you choose to provide your email address, we collect that so that PeaceGeeks or bc211 may contact you regarding your suggested change. If you work at the service provider organization, you will have the option to also share your full name, job title and organization name. It is useful for us to know that the suggestion comes from someone who is familiar with the organization's work. See also PeaceGeeks' general <0>privacy policy</0> and bc211's <1>privacy page</1>."
 msgstr ""
+
+#: lib/components/feedback/explain_feedback_component.js:47
+msgid "How is PeaceGeeks and bc211 using the information collected?"
+msgstr ""
