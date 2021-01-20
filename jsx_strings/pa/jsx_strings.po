@@ -896,6 +896,49 @@ msgstr ""
 msgid "How is PeaceGeeks and bc211 using the information collected?"
 msgstr "Arrival Advisor ਅਤੇ bc211 ਮੇਰੇ ਡਾਟੇ ਨਾਲ ਕੀ ਕਰਦਾ ਹੈ?"
 
+#: lib/components/reviews/service_review_component.js:66
+msgid "Comment"
+msgstr ""
+
+#: lib/components/reviews/service_detail_ratings_component.js:21
+msgid "How was your experience with"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:57
+msgid "How was your experience with this service?"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:47
+msgid "Looks like you used the service,"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:63
+#, fuzzy
+#| msgid "Tell us more about this service"
+msgid "Tell us more about your experience:"
+msgstr "ਇਸ ਸੇਵਾ ਬਾਰੇ ਸਾਨੂੰ ਹੋਰ ਦੱਸੋ"
+
+#, fuzzy
+#| msgid ""
+#| "Your suggestions will be reviewed by our team before making changes to "
+#| "the service information."
+msgid ""
+"Your feedback is reviewed by our team and shared with the service provider."
+msgstr ""
+"ਸੇਵਾ ਜਾਣਕਾਰੀ ਵਿੱਚ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਦੀ ਪੜਤਾਲ ਕੀਤੀ "
+"ਜਾਵੇਗੀ।"
+
+msgid "Your feedback helps newcomers."
+msgstr ""
+
+msgid ""
+"Tell us about your experience with a service you have used. Service "
+"providers use that feedback to improve."
+msgstr ""
+
+msgid "Was this service helpful?"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
 

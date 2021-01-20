@@ -939,12 +939,55 @@ msgstr ""
 "nagtatrabaho ka sa organisasyon na nagbibigay ng serbisyoÂ maari mong piliin "
 "na ibahagi ang iyong buong pangalan, posisyon sa trabaho at pangalan ng "
 "organisasyon. Mahalaga sa amin na malaman na ang mungkahi ay nagmula s isang "
-"taong pamilyar sa gawain ng ogranisasyon. Tingnan din ang PeaceGeeks' <0>"
-"Privacy Policy</0> at bc211's <1>Terms of Use and Privacy</1>."
+"taong pamilyar sa gawain ng ogranisasyon. Tingnan din ang PeaceGeeks' "
+"<0>Privacy Policy</0> at bc211's <1>Terms of Use and Privacy</1>."
 
 #: lib/components/feedback/explain_feedback_component.js:47
 msgid "How is PeaceGeeks and bc211 using the information collected?"
 msgstr "Ano ang ginagawa ng PeaceGeeks at bc211 sa data ko?"
+
+#: lib/components/reviews/service_review_component.js:66
+msgid "Comment"
+msgstr ""
+
+#: lib/components/reviews/service_detail_ratings_component.js:21
+msgid "How was your experience with"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:57
+msgid "How was your experience with this service?"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:47
+msgid "Looks like you used the service,"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:63
+#, fuzzy
+#| msgid "Tell us more about this service"
+msgid "Tell us more about your experience:"
+msgstr "Sabihin pa sa amin ang tungkol sa serbisyong ito"
+
+#, fuzzy
+#| msgid ""
+#| "Your suggestions will be reviewed by our team before making changes to "
+#| "the service information."
+msgid ""
+"Your feedback is reviewed by our team and shared with the service provider."
+msgstr ""
+"Ang iyong mga mungkahi ay susuriin ng aming pangkat bago gumawa ng mga "
+"pagbabago sa impormasyon ng serbisyo."
+
+msgid "Your feedback helps newcomers."
+msgstr ""
+
+msgid ""
+"Tell us about your experience with a service you have used. Service "
+"providers use that feedback to improve."
+msgstr ""
+
+msgid "Was this service helpful?"
+msgstr ""
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
