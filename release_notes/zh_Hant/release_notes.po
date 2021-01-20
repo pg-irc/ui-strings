@@ -112,3 +112,20 @@ msgstr "我們的“建議更新”功能的隱私政策現在被翻譯成七種
 
 msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
 msgstr "改進了我們的“建議更新”功能。試一下！"
+
+msgid ""
+"We've added Organizations to Arrival Advisor! You can now view contact "
+"information and descriptions for organizations that provide a variety of "
+"services to support newcomers."
+msgstr ""
+
+msgid ""
+"Tell us about your experience with services! You can give feedback about a "
+"service by selecting the smiley faces at the bottom of a service page and "
+"providing an optional comment about your experience."
+msgstr ""
+
+msgid ""
+"Fixed: Previously, only the main branches of public libraries were listed on "
+"the app. You can now find branch locations for public libraries near you."
+msgstr ""

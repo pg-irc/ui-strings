@@ -118,3 +118,20 @@ msgstr ""
 
 msgid "Made improvements to our \"Suggest an update\" feature. Try it out!"
 msgstr "\"업데이트 제안하기\" 기능이 개선되었습니다. 지금 체험해보세요!"
+
+msgid ""
+"We've added Organizations to Arrival Advisor! You can now view contact "
+"information and descriptions for organizations that provide a variety of "
+"services to support newcomers."
+msgstr ""
+
+msgid ""
+"Tell us about your experience with services! You can give feedback about a "
+"service by selecting the smiley faces at the bottom of a service page and "
+"providing an optional comment about your experience."
+msgstr ""
+
+msgid ""
+"Fixed: Previously, only the main branches of public libraries were listed on "
+"the app. You can now find branch locations for public libraries near you."
+msgstr ""
