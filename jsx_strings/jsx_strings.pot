@@ -699,3 +699,41 @@ msgstr ""
 #: lib/components/feedback/explain_feedback_component.js:47
 msgid "How is PeaceGeeks and bc211 using the information collected?"
 msgstr ""
+
+#: lib/components/reviews/service_review_component.js:66
+msgid "Comment"
+msgstr ""
+
+#: lib/components/reviews/service_detail_ratings_component.js:21
+msgid "How was your experience with"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:57
+msgid "How was your experience with this service?"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:47
+msgid "Looks like you used the service,"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:63
+msgid "Tell us more about your experience:"
+msgstr ""
+
+msgid "Your feedback is reviewed by our team and shared with the service provider."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Your feedback is reviewed by our team and shared with the service provider."
+msgstr ""
+
+msgid "Your feedback helps newcomers."
+msgstr ""
+
+msgid "Tell us about your experience with a service you have used. Service providers use that feedback to improve."
+msgstr ""
+
+msgid "Was this service helpful?"
+msgstr ""
