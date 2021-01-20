@@ -723,9 +723,6 @@ msgstr ""
 msgid "Your feedback is reviewed by our team and shared with the service provider."
 msgstr ""
 
-msgid "Learn more"
-msgstr ""
-
 msgid "Your feedback helps newcomers."
 msgstr ""
 
