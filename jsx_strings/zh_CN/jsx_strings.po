@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
 "PO-Revision-Date: 2020-09-09 21:21+0000\n"
 "Last-Translator: Ian Lin <ian@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.144.153/projects/"
-"ui-strings/jsx_strings/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://35.183.144.153/projects/ui-"
+"strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -874,6 +874,47 @@ msgstr ""
 #: lib/components/feedback/explain_feedback_component.js:47
 msgid "How is PeaceGeeks and bc211 using the information collected?"
 msgstr "PeaceGeeks和bc211如何使用收集到的信息？"
+
+#: lib/components/reviews/service_review_component.js:66
+msgid "Comment"
+msgstr ""
+
+#: lib/components/reviews/service_detail_ratings_component.js:21
+msgid "How was your experience with"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:57
+msgid "How was your experience with this service?"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:47
+msgid "Looks like you used the service,"
+msgstr ""
+
+#: lib/components/reviews/service_review_component.js:63
+#, fuzzy
+#| msgid "Tell us more about this service"
+msgid "Tell us more about your experience:"
+msgstr "请提供该服务的更多信息"
+
+#, fuzzy
+#| msgid ""
+#| "Your suggestions will be reviewed by our team before making changes to "
+#| "the service information."
+msgid ""
+"Your feedback is reviewed by our team and shared with the service provider."
+msgstr "在更改服务信息之前，我们会先审核您的建议。"
+
+msgid "Your feedback helps newcomers."
+msgstr ""
+
+msgid ""
+"Tell us about your experience with a service you have used. Service "
+"providers use that feedback to improve."
+msgstr ""
+
+msgid "Was this service helpful?"
+msgstr ""
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "就近查找服务"

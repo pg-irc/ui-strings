@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-01-20 08:46-0700\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Mime-Version: 1.0\n"
+
+msgid "Help improve the experience for other newcomers!"
+msgstr ""
+
+msgid "Did you use any of your bookmarked services? Leave feedback for services you have used to inform service providers how to improve."
+msgstr ""
