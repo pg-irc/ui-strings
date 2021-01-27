@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-09-09 21:21+0000\n"
-"Last-Translator: Ian Lin <ian@peacegeeks.org>\n"
-"Language-Team: Chinese (Simplified) <https://35.183.144.153/projects/ui-"
-"strings/jsx_strings/zh_Hans/>\n"
+"PO-Revision-Date: 2021-01-27 20:58+0000\n"
+"Last-Translator: Jean <jean@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://35.182.246.36/projects/"
+"ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -877,48 +877,42 @@ msgstr "PeaceGeeks和bc211如何使用收集到的信息？"
 
 #: lib/components/reviews/service_review_component.js:66
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
 msgid "How was your experience with"
-msgstr ""
+msgstr "您怎么评价"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
-msgstr ""
+msgstr "您对服务的体验怎么样？"
 
 #: lib/components/reviews/service_review_component.js:47
 msgid "Looks like you used the service,"
-msgstr ""
+msgstr "看起来您使用过这项服务，"
 
 #: lib/components/reviews/service_review_component.js:63
-#, fuzzy
-#| msgid "Tell us more about this service"
 msgid "Tell us more about your experience:"
-msgstr "请提供该服务的更多信息"
+msgstr "请多讲讲您的体验："
 
 #: lib/components/reviews/service_review_component.js:57
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making changes to "
-#| "the service information."
 msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
-msgstr "在更改服务信息之前，我们会先审核您的建议。"
+msgstr "我们会审核您的反馈信息并分享给服务供应商。"
 
 #: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
-msgstr ""
+msgstr "您的反馈信息会对新移民有帮助。"
 
 #: lib/components/bookmarks/service_banner.js:15
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
-msgstr ""
+msgstr "请告诉我们您的服务使用体验。您的反馈将有助于服务提供商进行改进。"
 
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
-msgstr ""
+msgstr "这项服务对您有帮助吗？"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "就近查找服务"
