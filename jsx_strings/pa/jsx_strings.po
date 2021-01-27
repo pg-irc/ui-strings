@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-09-09 21:15+0000\n"
+"PO-Revision-Date: 2021-01-27 17:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://35.183.144.153/projects/ui-strings/"
+"Language-Team: Punjabi <https://35.182.246.36/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
@@ -898,50 +898,46 @@ msgstr "Arrival Advisor ਅਤੇ bc211 ਮੇਰੇ ਡਾਟੇ ਨਾਲ ਕ�
 
 #: lib/components/reviews/service_review_component.js:66
 msgid "Comment"
-msgstr ""
+msgstr "ਟਿੱਪਣੀ"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
 msgid "How was your experience with"
-msgstr ""
+msgstr "ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਤਜਰਬਾ ਕਿਵੇਂ ਸੀ"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
-msgstr ""
+msgstr "ਇਸ ਸੇਵਾ ਲਈ ਤੁਹਾਡਾ ਤਜਰਬਾ ਕਿਵੇਂ ਸੀ?"
 
 #: lib/components/reviews/service_review_component.js:47
 msgid "Looks like you used the service,"
-msgstr ""
+msgstr "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਸੇਵਾ ਵਰਤੀ ਹੈ,"
 
 #: lib/components/reviews/service_review_component.js:63
-#, fuzzy
-#| msgid "Tell us more about this service"
 msgid "Tell us more about your experience:"
-msgstr "ਇਸ ਸੇਵਾ ਬਾਰੇ ਸਾਨੂੰ ਹੋਰ ਦੱਸੋ"
+msgstr "ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਹੋਰ ਦੱਸੋ:"
 
 #: lib/components/reviews/service_review_component.js:57
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making changes to "
-#| "the service information."
 msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
 msgstr ""
-"ਸੇਵਾ ਜਾਣਕਾਰੀ ਵਿੱਚ ਤਬਦੀਲੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਦੀ ਪੜਤਾਲ ਕੀਤੀ "
-"ਜਾਵੇਗੀ।"
+"ਤੁਹਾਡੇ ਸੁਝਾਅ ਦੀ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲ ਕੀਤੀ ਜਾਵੇਗੀ ਅਤੇ ਸੇਵਾ ਪੂਰਕ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ "
+"ਜਾਵੇਗਾ।"
 
 #: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਸੁਝਾਅ ਨਵੇਂ ਆਉਣ ਵਾਲਿਆਂ ਦੀ ਮਦਦ ਕਰਦੇ ਹਨ।"
 
 #: lib/components/bookmarks/service_banner.js:15
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
 msgstr ""
+"ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀ ਗਈ ਕਿਸੇ ਸੇਵਾ ਨਾਲ ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਦੱਸੋ। ਉਸ ਸੁਝਾਅ ਨੂੰ "
+"ਸੇਵਾ ਪੂਰਕ ਸੁਧਾਰ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹਨ।"
 
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
-msgstr ""
+msgstr "ਕੀ ਸੇਵਾ ਫਾਇਦੇਮੰਦ ਸੀ?"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
