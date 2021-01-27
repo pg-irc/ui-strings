@@ -924,6 +924,7 @@ msgstr ""
 msgid "Tell us more about your experience:"
 msgstr "이 서비스에 대해 말해주십시오."
 
+#: lib/components/reviews/service_review_component.js:57
 #, fuzzy
 #| msgid ""
 #| "Your suggestions will be reviewed by our team before making changes to "
@@ -932,14 +933,17 @@ msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
 msgstr "제안하신 사항은 팀에서 검토 후 서비스 정보를 변경합니다. "
 
+#: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
 msgstr ""
 
+#: lib/components/bookmarks/service_banner.js:15
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
 msgstr ""
 
+#: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
 msgstr ""
 

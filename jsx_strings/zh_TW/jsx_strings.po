@@ -896,6 +896,7 @@ msgstr ""
 msgid "Tell us more about your experience:"
 msgstr "請提供該服務的更多信息"
 
+#: lib/components/reviews/service_review_component.js:57
 #, fuzzy
 #| msgid ""
 #| "Your suggestions will be reviewed by our team before making changes to "
@@ -904,14 +905,17 @@ msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
 msgstr "在更改服務信息之前，我們會先審核您的建議。"
 
+#: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
 msgstr ""
 
+#: lib/components/bookmarks/service_banner.js:15
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
 msgstr ""
 
+#: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
 msgstr ""
 
