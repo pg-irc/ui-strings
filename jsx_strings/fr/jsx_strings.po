@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2020-09-09 21:16+0000\n"
+"PO-Revision-Date: 2021-01-27 17:52+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://3.96.64.25/projects/ui-strings/jsx_strings/fr/"
-">\n"
+"Language-Team: French <https://35.182.246.36/projects/ui-strings/jsx_strings/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -955,46 +955,45 @@ msgstr "Quel usage PeaceGeeks et bc211 fait-elle de mes données?"
 
 #: lib/components/reviews/service_review_component.js:66
 msgid "Comment"
-msgstr ""
+msgstr "Commentaire"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
 msgid "How was your experience with"
-msgstr ""
+msgstr "Comment était votre expérience avec le service suivant :"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
-msgstr ""
+msgstr "Comment s’est passée votre expérience avec ce service?"
 
 #: lib/components/reviews/service_review_component.js:47
 msgid "Looks like you used the service,"
-msgstr ""
+msgstr "Il semble que vous avez utilisé le service suivant :"
 
 #: lib/components/reviews/service_review_component.js:63
-#, fuzzy
-#| msgid "Tell us more about this service"
 msgid "Tell us more about your experience:"
-msgstr "Parlez-nous de ce service."
+msgstr "Parlez-nous davantage de votre expérience :"
 
-#, fuzzy
-#| msgid ""
-#| "Your suggestions will be reviewed by our team before making changes to "
-#| "the service information."
+#: lib/components/reviews/service_review_component.js:57
 msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
 msgstr ""
-"Notre équipe examinera vos suggestions avant de modifier les renseignements "
-"liés aux services."
+"Notre équipe examine votre avis et le transmet au fournisseur de service."
 
+#: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
-msgstr ""
+msgstr "Votre avis aide les nouveaux arrivants."
 
+#: lib/components/bookmarks/service_banner.js:15
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
 msgstr ""
+"Parlez-nous de votre expérience avec le service que vous avez utilisé. Les "
+"fournisseurs de services utilisent les avis pour s’améliorer."
 
+#: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
-msgstr ""
+msgstr "Ce service était-il utile?"
 
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "TROUVER UN SERVICE À PROXIMITÉ"
