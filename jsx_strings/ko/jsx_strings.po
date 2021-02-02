@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-01-28 21:10+0000\n"
+"PO-Revision-Date: 2021-02-02 18:55+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://99.79.63.105/projects/ui-strings/jsx_strings/"
+"Language-Team: Korean <https://35.182.254.75/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -615,7 +615,7 @@ msgstr "검색 "
 
 #: lib/components/error_screens/error_screen_switcher_component.js:92
 msgid "Search for a different keyword"
-msgstr "다른 키워드로 검색하기"
+msgstr "다른 키워드로 검색하세요"
 
 #: lib/components/search/localized_place_holders.js:5
 #: lib/components/search/search_input_component.js:79
