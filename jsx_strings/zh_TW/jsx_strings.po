@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-01-27 21:01+0000\n"
-"Last-Translator: Jean <jean@peacegeeks.org>\n"
-"Language-Team: Chinese (Traditional) <https://35.182.246.36/projects/"
+"PO-Revision-Date: 2021-02-12 18:50+0000\n"
+"Last-Translator: Tomy Reyes <user@example.com>\n"
+"Language-Team: Chinese (Traditional) <https://52.60.58.163/projects/"
 "ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -879,8 +879,8 @@ msgid "Comment"
 msgstr "評論"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
-msgstr "您怎麼評價"
+msgid "How was your experience with {0}?"
+msgstr "您怎麼評價 {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"

@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-02-02 18:55+0000\n"
+"PO-Revision-Date: 2021-02-12 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Korean <https://35.182.254.75/projects/ui-strings/jsx_strings/"
+"Language-Team: Korean <https://52.60.58.163/projects/ui-strings/jsx_strings/"
 "ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -907,8 +907,8 @@ msgid "Comment"
 msgstr "코멘트"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
-msgstr "다음 서비스에 만족하셨나요?"
+msgid "How was your experience with {0}?"
+msgstr "다음 서비스에 만족하셨나요 {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
@@ -935,7 +935,9 @@ msgstr "여러분의 의견은 신규 이민자에게 도움이 됩니다"
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
-msgstr "경험하신 서비스에 대해 말해주세요. 보내주신 의견을 바탕으로 서비스를 개선합니다."
+msgstr ""
+"경험하신 서비스에 대해 말해주세요. 보내주신 의견을 바탕으로 서비스를 개선합니"
+"다."
 
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"

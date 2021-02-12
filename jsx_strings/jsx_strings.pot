@@ -705,8 +705,8 @@ msgid "Comment"
 msgstr ""
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
-msgstr ""
+msgid "How was your experience with {0}?"
+msgstr "How was your experience with {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"

@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-01-28 21:15+0000\n"
+"PO-Revision-Date: 2021-02-12 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Tagalog <https://99.79.63.105/projects/ui-strings/jsx_strings/"
+"Language-Team: Tagalog <https://52.60.58.163/projects/ui-strings/jsx_strings/"
 "tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -951,8 +951,8 @@ msgid "Comment"
 msgstr "Komento"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
-msgstr "Kamusta ang karanasan mo sa"
+msgid "How was your experience with {0}?"
+msgstr "Kamusta ang karanasan mo sa {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"

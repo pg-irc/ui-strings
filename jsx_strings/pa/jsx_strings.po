@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-01-27 17:50+0000\n"
+"PO-Revision-Date: 2021-02-12 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: Punjabi <https://35.182.246.36/projects/ui-strings/"
-"jsx_strings/pa/>\n"
+"Language-Team: Punjabi <https://52.60.58.163/projects/ui-strings/jsx_strings/"
+"pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -901,8 +901,8 @@ msgid "Comment"
 msgstr "ਟਿੱਪਣੀ"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
-msgstr "ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਤਜਰਬਾ ਕਿਵੇਂ ਸੀ"
+msgid "How was your experience with {0}?"
+msgstr "ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਤਜਰਬਾ ਕਿਵੇਂ ਸੀ {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
@@ -920,8 +920,7 @@ msgstr "ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਹੋਰ ਦ�
 msgid ""
 "Your feedback is reviewed by our team and shared with the service provider."
 msgstr ""
-"ਤੁਹਾਡੇ ਸੁਝਾਅ ਦੀ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲ ਕੀਤੀ ਜਾਵੇਗੀ ਅਤੇ ਸੇਵਾ ਪੂਰਕ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ "
-"ਜਾਵੇਗਾ।"
+"ਤੁਹਾਡੇ ਸੁਝਾਅ ਦੀ ਸਾਡੀ ਟੀਮ ਵਲੋਂ ਪੜਤਾਲ ਕੀਤੀ ਜਾਵੇਗੀ ਅਤੇ ਸੇਵਾ ਪੂਰਕ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 #: lib/components/bookmarks/service_banner.js:12
 msgid "Your feedback helps newcomers."
@@ -932,8 +931,8 @@ msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
 msgstr ""
-"ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀ ਗਈ ਕਿਸੇ ਸੇਵਾ ਨਾਲ ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਦੱਸੋ। ਉਸ ਸੁਝਾਅ ਨੂੰ "
-"ਸੇਵਾ ਪੂਰਕ ਸੁਧਾਰ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹਨ।"
+"ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀ ਗਈ ਕਿਸੇ ਸੇਵਾ ਨਾਲ ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਦੱਸੋ। ਉਸ ਸੁਝਾਅ ਨੂੰ ਸੇਵਾ ਪੂਰਕ ਸੁਧਾਰ ਕਰਨ "
+"ਲਈ ਵਰਤਦੇ ਹਨ।"
 
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
