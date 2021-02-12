@@ -907,7 +907,9 @@ msgid "Comment"
 msgstr "코멘트"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
+#, fuzzy
+#| msgid "How was your experience with"
+msgid "How was your experience with {0}?"
 msgstr "다음 서비스에 만족하셨나요?"
 
 #: lib/components/reviews/service_review_component.js:57
@@ -935,7 +937,9 @@ msgstr "여러분의 의견은 신규 이민자에게 도움이 됩니다"
 msgid ""
 "Tell us about your experience with a service you have used. Service "
 "providers use that feedback to improve."
-msgstr "경험하신 서비스에 대해 말해주세요. 보내주신 의견을 바탕으로 서비스를 개선합니다."
+msgstr ""
+"경험하신 서비스에 대해 말해주세요. 보내주신 의견을 바탕으로 서비스를 개선합니"
+"다."
 
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"

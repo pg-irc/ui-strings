@@ -920,7 +920,9 @@ msgid "Comment"
 msgstr "تعليق"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
+#, fuzzy
+#| msgid "How was your experience with"
+msgid "How was your experience with {0}?"
 msgstr "كيف كانت خبرة تعاملك مع"
 
 #: lib/components/reviews/service_review_component.js:57

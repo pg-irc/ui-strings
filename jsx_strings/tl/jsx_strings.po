@@ -951,7 +951,9 @@ msgid "Comment"
 msgstr "Komento"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-msgid "How was your experience with"
+#, fuzzy
+#| msgid "How was your experience with"
+msgid "How was your experience with {0}?"
 msgstr "Kamusta ang karanasan mo sa"
 
 #: lib/components/reviews/service_review_component.js:57
