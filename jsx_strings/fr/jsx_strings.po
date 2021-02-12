@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2020-06-12 08:46-0700\n"
-"PO-Revision-Date: 2021-01-27 17:52+0000\n"
+"PO-Revision-Date: 2021-02-12 18:50+0000\n"
 "Last-Translator: Tomy Reyes <user@example.com>\n"
-"Language-Team: French <https://35.182.246.36/projects/ui-strings/jsx_strings/"
+"Language-Team: French <https://52.60.58.163/projects/ui-strings/jsx_strings/"
 "fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -958,10 +958,8 @@ msgid "Comment"
 msgstr "Commentaire"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
-#, fuzzy
-#| msgid "How was your experience with"
 msgid "How was your experience with {0}?"
-msgstr "Comment était votre expérience avec le service suivant :"
+msgstr "Comment était votre expérience avec le service suivant : {0}?"
 
 #: lib/components/reviews/service_review_component.js:57
 msgid "How was your experience with this service?"
