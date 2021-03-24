@@ -995,6 +995,10 @@ msgstr ""
 msgid "Was this service helpful?"
 msgstr "Ce service était-il utile?"
 
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "TROUVER UN SERVICE À PROXIMITÉ"
 

@@ -943,6 +943,10 @@ msgstr ""
 msgid "Was this service helpful?"
 msgstr "본 서비스가 도움이 되었습니까? "
 
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "내 주변 서비스 찾기"
 

@@ -938,6 +938,10 @@ msgstr ""
 msgid "Was this service helpful?"
 msgstr "ਕੀ ਸੇਵਾ ਫਾਇਦੇਮੰਦ ਸੀ?"
 
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
 

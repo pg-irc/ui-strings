@@ -989,6 +989,10 @@ msgstr ""
 msgid "Was this service helpful?"
 msgstr "Nakatulong ba ang serbisyong ito?"
 
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr ""
+
 #~ msgid "FIND A SERVICE NEAR YOU"
 #~ msgstr "HUMANAP NG SERBISYONG MALAPIT SA IYO"
 
