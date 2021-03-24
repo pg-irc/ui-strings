@@ -735,3 +735,7 @@ msgstr ""
 #: lib/components/reviews/prompt_service_review_button.js:34
 msgid "Was this service helpful?"
 msgstr ""
+
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr ""
