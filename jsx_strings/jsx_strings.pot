@@ -1,737 +1,750 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-12 08:46-0700\n"
+"POT-Creation-Date: 2021-03-24 09:26-0700\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
-#: lib/components/feedback/choose_mode_modal.js:38
-msgid "Learn more"
-msgstr ""
-
-#: lib/components/header_menu/header_menu_component.js:59
+#: lib/components/header_menu/header_menu_component.js:64
 msgid "ABOUT THE APP"
-msgstr ""
+msgstr "ABOUT THE APP"
 
-#: lib/components/organizations/organization_detail_component.js:33
+#: lib/components/organizations/organization_tab_switcher.js:11
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:64
+#: lib/components/header_menu/header_menu_component.js:69
 msgid "About Arrival Advisor"
-msgstr ""
+msgstr "About Arrival Advisor"
 
-#: lib/components/services/service_detail_component.js:131
+#: lib/components/services/service_detail_component.js:181
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
-#: lib/components/addresses/addresses_component.js:15
-#: lib/components/addresses/addresses_component.js:39
+#: lib/components/addresses/addresses_component.js:14
+#: lib/components/addresses/addresses_component.js:42
 msgid "Address:"
-msgstr ""
+msgstr "Address:"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:31
 msgid "An error occurred"
-msgstr ""
+msgstr "An error occurred"
 
 #: lib/components/onboarding/onboarding_component.js:38
 msgid "Answer a few optional questions to get tailored recommendations for your needs."
-msgstr ""
+msgstr "Answer a few optional questions to get tailored recommendations for your needs."
 
 #: lib/components/recommended_topics/call_to_action.js:55
 msgid "Answer a few questions about your situation to get personalized recommendations of topics and services to help you settle in British Columbia."
-msgstr ""
+msgstr "Answer a few questions about your situation to get personalized recommendations of topics and services to help you settle in British Columbia."
 
 #: lib/components/recommended_topics/call_to_action.js:64
 msgid "Answer questions"
-msgstr ""
+msgstr "Answer questions"
 
 #: lib/components/disclaimer/disclaimer_component.js:20
 msgid "Arrival Advisor contains information from the BC Government’s Newcomer’s Guide, available at <0>www.welcomebc.ca</0>, and the BC211 database of service providers, available at <1>www.bc211.ca</1>."
-msgstr ""
+msgstr "Arrival Advisor contains information from the BC Government’s Newcomer’s Guide, available at <0>www.welcomebc.ca</0>, and the BC211 database of service providers, available at <1>www.bc211.ca</1>."
 
 #: lib/components/about/about_component.js:24
 msgid "Arrival Advisor is a free, multilingual, mobile app that helps immigrants and refugees in British Columbia, Canada find information and services to navigate their settlement journey. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
-msgstr ""
+msgstr "Arrival Advisor is a free, multilingual, mobile app that helps immigrants and refugees in British Columbia, Canada find information and services to navigate their settlement journey. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
 
 #: lib/components/disclaimer/disclaimer_component.js:38
 msgid "Arrival Advisor respects and maintains the privacy and anonymity of its users. Users do not need to provide personal information in order to use the app. The questionnaire is designed to assist in personalizing services and resources required by the user, and answers are only saved to enhance the usability of the app over time. Users of the Arrival Advisor app do so at their own discretion. The answers you provide will be used for the operation of this tool to provide you with guidance on resources and services that can help you adjust to life in Canada. Users cannot be identified by their answers to the questionnaire. The information is not used by Immigration, Refugees and Citizenship Canada for any other purpose and is not used for any immigration decision making."
-msgstr ""
+msgstr "Arrival Advisor respects and maintains the privacy and anonymity of its users. Users do not need to provide personal information in order to use the app. The questionnaire is designed to assist in personalizing services and resources required by the user, and answers are only saved to enhance the usability of the app over time. Users of the Arrival Advisor app do so at their own discretion. The answers you provide will be used for the operation of this tool to provide you with guidance on resources and services that can help you adjust to life in Canada. Users cannot be identified by their answers to the questionnaire. The information is not used by Immigration, Refugees and Citizenship Canada for any other purpose and is not used for any immigration decision making."
 
-#: lib/components/questionnaire/questionnaire_component.js:111
+#: lib/components/questionnaire/questionnaire_component.js:113
 msgid "Back"
-msgstr ""
+msgstr "Back"
 
 #: lib/components/recommended_topics/call_to_action.js:97
 msgid "Based on your answers, we recommend these topics for you:"
-msgstr ""
+msgstr "Based on your answers, we recommend these topics for you:"
 
 #: lib/components/bookmark_button_component.js:26
 msgid "Bookmark added"
-msgstr ""
+msgstr "Bookmark added"
 
 #: lib/components/bookmark_button_component.js:21
 msgid "Bookmark removed"
-msgstr ""
+msgstr "Bookmark removed"
 
 #: lib/components/onboarding/onboarding_component.js:28
 msgid "Bookmark the topics and services that you find helpful for future use."
-msgstr ""
+msgstr "Bookmark the topics and services that you find helpful for future use."
 
 #: lib/components/error_screens/error_screen_switcher_component.js:17
 msgid "Can't reach the internet"
-msgstr ""
+msgstr "Can't reach the internet"
 
-#: lib/components/help/help_component.js:135
+#: lib/components/help/help_component.js:154
 #: lib/components/link/link_component.js:36
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
-#: lib/components/feedback/choose_mode_modal.js:26
-#: lib/components/services/service_detail_component.js:106
+#: lib/components/feedback/choose_mode_modal.js:25
+#: lib/components/services/service_detail_component.js:156
 msgid "Change name or other details"
-msgstr ""
+msgstr "Change name or other details"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:21
 msgid "Check location services"
-msgstr ""
+msgstr "Check location services"
 
 #: lib/components/search/empty_component.js:33
 msgid "Child care"
-msgstr ""
+msgstr "Child care"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:100
 msgid "City - \"Vancouver\""
-msgstr ""
+msgstr "City - \"Vancouver\""
 
 #: lib/components/search/localized_place_holders.js:6
 msgid "City, address or postal code"
-msgstr ""
+msgstr "City, address or postal code"
 
-#: lib/components/feedback/feedback_component.js:55
-#: lib/components/feedback/other_remove_service_component.js:19
+#: lib/components/reviews/service_review_component.js:67
+msgid "Comment"
+msgstr "Comment"
+
+#: lib/components/feedback/feedback_component.js:53
+#: lib/components/feedback/other_remove_service_component.js:21
 msgid "Comment or suggest edits"
-msgstr ""
+msgstr "Comment or suggest edits"
 
-#: lib/components/help/help_component.js:41
+#: lib/components/help/help_component.js:44
 msgid "Contact Arrival Advisor team"
-msgstr ""
+msgstr "Contact Arrival Advisor team"
 
-#: lib/components/feedback/receive_updates_modal.js:25
+#: lib/components/feedback/contact_information_component.js:43
 msgid "Contact information"
-msgstr ""
+msgstr "Contact information"
 
 #: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
-msgstr ""
+msgstr "Created by"
 
-#: lib/components/help/help_component.js:106
-#: lib/components/help/help_component.js:127
+#: lib/components/help/help_component.js:124
+#: lib/components/help/help_component.js:146
 msgid "Delete all user data"
-msgstr ""
+msgstr "Delete all user data"
 
-#: lib/components/services/service_detail_component.js:82
+#: lib/components/services/service_detail_component.js:118
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: lib/components/feedback/discard_changes_modal.js:27
 msgid "Discard"
-msgstr ""
+msgstr "Discard"
 
 #: lib/components/feedback/discard_changes_modal.js:18
 msgid "Discard the changes you suggested?"
-msgstr ""
+msgstr "Discard the changes you suggested?"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:65
+#: lib/components/header_menu/header_menu_component.js:70
 msgid "Disclaimer"
-msgstr ""
+msgstr "Disclaimer"
 
-#: lib/components/help/help_component.js:129
+#: lib/components/help/help_component.js:148
 msgid "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
+msgstr "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
 
-#: lib/components/feedback/receive_updates_modal.js:34
+#: lib/components/feedback/contact_information_component.js:52
 msgid "Do you work at this service or organization?"
-msgstr ""
+msgstr "Do you work at this service or organization?"
 
 #: lib/components/link/link_component.js:37
-#: lib/components/services/service_list_component.js:59
+#: lib/components/services/service_list_component.js:63
 msgid "Don't show again"
-msgstr ""
+msgstr "Don't show again"
 
-#: lib/components/questionnaire/questionnaire_component.js:118
+#: lib/components/multiline_text_input_for_platform.js:42
+#: lib/components/questionnaire/questionnaire_component.js:120
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:89
 msgid "Double check for spelling"
-msgstr ""
+msgstr "Double check for spelling"
 
-#: lib/components/explore/explore_detail_component.js:24
+#: lib/components/explore/explore_detail_component.js:28
 msgid "EXPLORE TOPICS"
-msgstr ""
+msgstr "EXPLORE TOPICS"
 
-#: lib/components/services/service_detail_component.js:137
+#: lib/components/services/service_detail_component.js:187
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
-#: lib/components/feedback/receive_updates_modal.js:17
+#: lib/components/feedback/contact_information_component.js:114
 msgid "Email me updates"
-msgstr ""
+msgstr "Email me updates"
 
-#: lib/components/email/email_component.js:18
-#: lib/components/email/email_component.js:25
+#: lib/components/email/email_component.js:24
+#: lib/components/email/email_component.js:31
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: lib/components/search/empty_component.js:27
 msgid "Employment"
-msgstr ""
+msgstr "Employment"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:19
 msgid "Enable location services"
-msgstr ""
+msgstr "Enable location services"
 
 #: lib/components/search/empty_component.js:30
 msgid "English class"
-msgstr ""
+msgstr "English class"
 
 #: lib/components/error_screens/error_screen_switcher_component.js:86
 msgid "Ensure your search is in English"
-msgstr ""
+msgstr "Ensure your search is in English"
 
-#: lib/components/search/search_input_component.js:80
-#: lib/components/services/service_list_location_search_component.js:99
+#: lib/components/search/search_input_component.js:87
+#: lib/components/services/service_list_location_search_component.js:100
 msgid "Enter city, address, or postal code"
-msgstr ""
+msgstr "Enter city, address, or postal code"
 
-#: lib/components/feedback/receive_updates_modal.js:11
+#: lib/components/feedback/contact_information_component.js:19
 msgid "Enter email"
-msgstr ""
+msgstr "Enter email"
 
-#: lib/components/feedback/receive_updates_modal.js:28
+#: lib/components/feedback/contact_information_component.js:46
 msgid "Enter your email if you would like to be contacted about this issue"
-msgstr ""
+msgstr "Enter your email if you would like to be contacted about this issue"
 
-#: lib/components/feedback/receive_updates_modal.js:14
+#: lib/components/feedback/contact_information_component.js:22
 msgid "Enter your job title"
-msgstr ""
+msgstr "Enter your job title"
 
-#: lib/components/feedback/receive_updates_modal.js:12
+#: lib/components/feedback/contact_information_component.js:20
 msgid "Enter your name"
-msgstr ""
+msgstr "Enter your name"
 
-#: lib/components/feedback/receive_updates_modal.js:13
+#: lib/components/feedback/contact_information_component.js:21
 msgid "Enter your organization name"
-msgstr ""
+msgstr "Enter your organization name"
 
-#: lib/components/search/search_component.js:94
+#: lib/components/search/search_component.js:107
 msgid "FIND A SERVICE"
-msgstr ""
+msgstr "FIND A SERVICE"
 
-#: lib/components/help/help_component.js:69
+#: lib/components/help/help_component.js:77
 msgid "FOR ADDITIONAL ASSISTANCE"
-msgstr ""
+msgstr "FOR ADDITIONAL ASSISTANCE"
 
-#: lib/components/help/help_component.js:82
+#: lib/components/help/help_component.js:91
 msgid "Find a settlement agency near me"
-msgstr ""
+msgstr "Find a settlement agency near me"
 
 #: lib/components/topics/task_detail_content_component.js:54
 msgid "Find related services near me"
-msgstr ""
+msgstr "Find related services near me"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid "Find service providers near you that can help you through your settlement journey."
-msgstr ""
+msgstr "Find service providers near you that can help you through your settlement journey."
 
-#: lib/components/feedback/receive_updates_modal.js:17
+#: lib/components/feedback/contact_information_component.js:114
 msgid "Finish without email"
-msgstr ""
+msgstr "Finish without email"
 
 #: lib/components/about/about_component.js:31
 msgid "From finding a job to learning English, accessing health care, and more, Arrival Advisor has everything you need to get started in your new community. Explore topics and services without ever needing to create an account. Access important information no matter where you are: the newcomer topics provided by Arrival Advisor are saved to your phone so you can view them, even without internet. You can fill out some questions to get personalized recommendations of topics and services to settle in British Columbia. Arrival Advisor is anonymous and your answers are only used to operate the app's recommendations. We never save or share your personal data with funders or any third parties."
-msgstr ""
+msgstr "From finding a job to learning English, accessing health care, and more, Arrival Advisor has everything you need to get started in your new community. Explore topics and services without ever needing to create an account. Access important information no matter where you are: the newcomer topics provided by Arrival Advisor are saved to your phone so you can view them, even without internet. You can fill out some questions to get personalized recommendations of topics and services to settle in British Columbia. Arrival Advisor is anonymous and your answers are only used to operate the app's recommendations. We never save or share your personal data with funders or any third parties."
 
 #: lib/components/recommended_topics/call_to_action.js:46
 msgid "GETTING STARTED"
-msgstr ""
+msgstr "GETTING STARTED"
 
 #: lib/components/recommended_topics/call_to_action.js:49
 msgid "Get information based on your needs"
-msgstr ""
+msgstr "Get information based on your needs"
 
-#: lib/components/search/search_results_component.js:114
+#: lib/components/search/search_results_component.js:125
 msgid "Give feedback"
-msgstr ""
+msgstr "Give feedback"
 
 #: lib/components/recommended_topics/call_to_action.js:83
 msgid "Go back to questions"
-msgstr ""
+msgstr "Go back to questions"
 
 #: lib/components/app_settings_button_component.js:17
 msgid "Go to Settings"
-msgstr ""
+msgstr "Go to Settings"
 
-#: lib/components/help/help_component.js:56
+#: lib/components/about/about_component.js:64
+msgid "Hello world!"
+msgstr "Hello world!"
+
+#: lib/components/help/help_component.js:64
 msgid "Help & Support"
-msgstr ""
+msgstr "Help & Support"
 
-#: lib/components/feedback/explainer_component.js:36
+#: lib/components/feedback/explain_feedback_component.js:38
 msgid "How can I get my organization or service listed?"
-msgstr ""
+msgstr "How can I get my organization or service listed?"
 
-#: lib/components/feedback/explainer_component.js:25
-msgid "I found some inaccurate or missing services information in the app. What do I do?"
-msgstr ""
-
-#: lib/components/help/help_component.js:59
-msgid "If you are having difficulty with settlement in Canada, we suggest getting in touch with a settlement worker."
-msgstr ""
-
-#: lib/components/services/service_list_component.js:53
-msgid "Information about services is currently only available in English. For support in other languages, please"
-msgstr ""
-
-#: lib/components/about/about_component.js:51
-msgid "Information in this app is provided by the <0>Newcomers Guide to British Columbia</0> Copyright 2018 Province of British Columbia. All rights reserved."
-msgstr ""
-
-#: lib/components/help/help_component.js:30
-msgid "Information on BC211"
-msgstr ""
-
-#: lib/components/help/help_component.js:23
-msgid "Information on HealthLinkBC (8-1-1)"
-msgstr ""
-
-#: lib/components/help/help_component.js:16
-msgid "Information on emergency services (9-1-1)"
-msgstr ""
-
-#: lib/components/help/help_component.js:37
-msgid "Information on helplines"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:28
-msgid "Invalid location. Try:"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:53
-msgid "It took too long finding your location."
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:48
-msgid "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
-msgstr ""
-
-#: lib/components/feedback/receive_updates_modal.js:68
-msgid "Job Title"
-msgstr ""
-
-#: lib/components/feedback/discard_changes_modal.js:22
-msgid "Keep editing"
-msgstr ""
-
-#: lib/components/content_verification_component.js:9
-#: lib/components/content_verification_component.js:13
-msgid "Last verified:"
-msgstr ""
-
-#: lib/components/explore/explore_all_component.js:14
-msgid "Learn all about B.C."
-msgstr ""
-
-#: lib/components/help/help_component.js:25
-msgid "Multilingual health information services"
-msgstr ""
-
-#: lib/components/partial_localization/to_location_for_query.js:3
-#: lib/components/search/search_input_component.js:146
-#: lib/components/services/service_list_location_search_component.js:43
-#: lib/components/services/service_list_location_search_component.js:116
-msgid "My Location"
-msgstr ""
-
-#: lib/components/bookmarks/bookmarks_component.js:16
-msgid "My bookmarks"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:97
-msgid "My location"
-msgstr ""
-
-#: lib/components/feedback/receive_updates_modal.js:60
-#: lib/components/services/service_detail_component.js:78
-msgid "Name"
-msgstr ""
-
-#: lib/components/services/service_list_location_search_component.js:42
-msgid "Near"
-msgstr ""
-
-#: lib/components/search/empty_component.js:23
-msgid "Need suggestions? Try:"
-msgstr ""
-
-#: lib/components/questionnaire/new_topics_modal_component.js:25
-msgid "New topics have been recommended based on your answers!"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:119
-#: lib/components/questionnaire/questionnaire_component.js:101
-msgid "Next"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:26
-msgid "No results found. Try to:"
-msgstr ""
-
-#: lib/components/bookmarks/service_bookmarks_component.js:21
-#: lib/components/services/service_list_component.js:83
-msgid "No services to show"
-msgstr ""
-
-#: lib/components/recommended_topics/recommended_topics_component.js:14
-msgid "No topics to recommend"
-msgstr ""
-
-#: lib/components/bookmarks/topic_bookmarks_component.js:9
-#: lib/components/explore/explore_detail_component.js:13
-#: lib/components/topics/topic_detail_component.js:19
-msgid "No topics to show"
-msgstr ""
-
-#: lib/components/questionnaire/questionnaire_component.js:79
-msgid "OF"
-msgstr ""
-
-#: lib/components/link/link_component.js:35
-msgid "OK"
-msgstr ""
-
-#: lib/components/organizations/organization_detail_component.js:49
-msgid "ORGANIZATION"
-msgstr ""
-
-#: lib/components/recommended_topics/call_to_action.js:69
-msgid "Once you answer some questions, your recommendations will show up below. For now, here are some topics we recommend for everyone:"
-msgstr ""
-
-#: lib/components/link/link_component.js:33
-msgid "Opening External Link"
-msgstr ""
-
-#: lib/components/feedback/receive_updates_modal.js:64
-#: lib/components/services/service_detail_component.js:80
-msgid "Organization"
-msgstr ""
-
-#: lib/components/feedback/choose_mode_modal.js:28
-#: lib/components/feedback/other_remove_service_component.js:17
-msgid "Other suggestions"
-msgstr ""
-
-#: lib/components/disclaimer/disclaimer_component.js:50
-msgid "PeaceGeeks is not liable for any damages incurred as a result of or related to the use of the app. PeaceGeeks is not an immigration consultancy network, and therefore cannot provide advice or support directly related to immigration. Arrival Advisor exists to offer newcomers a directory of services and resources to assist settlement in Metro Vancouver and does not exist in an official Immigration Service capacity."
-msgstr ""
-
-#: lib/components/phone_numbers/phone_numbers_component.js:16
-msgid "Phone"
-msgstr ""
-
-#: lib/components/services/service_detail_component.js:133
-msgid "Phone numbers"
-msgstr ""
-
-#: lib/components/help/help_component.js:18
-msgid "Police, fire and medical emergencies"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:106
-msgid "Postal Code - \"V5Y 1V4\""
-msgstr ""
-
-#: lib/components/header_menu/header_menu_component.js:66
-msgid "Privacy policy"
-msgstr ""
-
-#: lib/components/feedback/other_remove_service_component.js:23
-msgid "Provide any additional information (optional)"
-msgstr ""
-
-#: lib/components/services/service_detail_component.js:102
-msgid "Provided by"
-msgstr ""
-
-#: lib/components/topics/topic_detail_component.js:41
-msgid "RELATED TOPICS"
-msgstr ""
-
-#: lib/components/expandable_content/expandable_content_component.js:83
-msgid "Read less"
-msgstr ""
-
-#: lib/components/expandable_content/expandable_content_component.js:83
-msgid "Read more"
-msgstr ""
-
-#: lib/components/recommended_topics/recommended_topics_component.js:36
-#: lib/components/topics/task_detail_content_component.js:32
-msgid "Recommended for you"
-msgstr ""
-
-#: lib/components/header_menu/header_menu_component.js:33
-msgid "SELECT YOUR LANGUAGE"
-msgstr ""
-
-#: lib/components/services/service_detail_component.js:97
-msgid "SERVICE"
-msgstr ""
-
-#: lib/components/bookmarks/bookmarks_component.js:19
-msgid "Save important topics and services to build your personal plan for settlement."
-msgstr ""
-
-#: lib/components/search/search_input_component.js:130
-#: lib/components/services/service_list_location_search_component.js:110
-msgid "Search"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:92
-msgid "Search for a different keyword"
-msgstr ""
-
-#: lib/components/search/localized_place_holders.js:5
-#: lib/components/search/search_input_component.js:79
-msgid "Search for services"
-msgstr ""
-
-#: lib/components/search/search_results_component.js:109
-msgid "Search is currently in beta and only available in English. For support in other languages, please"
-msgstr ""
-
-#: lib/components/questionnaire/new_topics_modal_component.js:40
-msgid "See recommendations"
-msgstr ""
-
-#: lib/components/welcome/welcome_component.js:38
-msgid "Select your language"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:24
-msgid "Server error"
-msgstr ""
-
-#: lib/components/about/about_component.js:60
-msgid "Server version:"
-msgstr ""
-
-#: lib/components/bookmarks/tab_switcher.js:12
-#: lib/components/organizations/organization_detail_component.js:40
-msgid "Services"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:37
-msgid "Services are not available offline. Please connect to the internet and try again."
-msgstr ""
-
-#: lib/components/help/help_component.js:32
-msgid "Services information and referral"
-msgstr ""
-
-#: lib/components/feedback/explainer_component.js:11
-msgid "Services listed on Arrival Advisor"
-msgstr ""
-
-#: lib/components/welcome/welcome_component.js:34
-msgid "Settling in Canada is now easier."
-msgstr ""
-
-#: lib/components/search/search_results_component.js:130
-msgid "Show more services"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:54
-#: lib/components/questionnaire/questionnaire_component.js:101
-msgid "Skip"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:119
-#: lib/components/welcome/welcome_component.js:49
-msgid "Start"
-msgstr ""
-
-#: lib/components/recommended_topics/recommended_topics_component.js:22
-msgid "Start settling in B.C."
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:103
-msgid "Street - \"1356 Kingsway Vancouver\""
-msgstr ""
-
-#: lib/components/feedback/submit_feedback_button.js:18
-msgid "Submit"
-msgstr ""
-
-#: lib/components/feedback/choose_mode_modal.js:21
-#: lib/components/feedback/feedback_component.js:41
-#: lib/components/services/service_detail_component.js:151
-msgid "Suggest an update"
-msgstr ""
-
-#: lib/components/feedback/other_remove_service_component.js:18
-msgid "Tell us more about this service"
-msgstr ""
-
-#: lib/components/header_menu/header_menu_component.js:67
-msgid "Terms of Use"
-msgstr ""
-
-#: lib/components/feedback/modal_container.js:11
-msgid "Thank you for your contribution!"
-msgstr ""
-
-#: lib/components/about/about_component.js:42
-msgid "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how you can support this project."
-msgstr ""
-
-#: lib/components/disclaimer/disclaimer_component.js:27
-msgid "The app provides information about relevant newcomer services, and is intended for general guidance and reference only. While we aim to provide accurate and timely information, we do not have control over the ongoing accuracy of the information or the quality of the services provided. If you discover that a piece of information is outdated or not useful, please let us know in the feedback section of the app. The inclusion of services and resources in this app does not imply an endorsement or recommendation of those services over others.  Utilization of services located through the app is undertaken at the risk of the user."
-msgstr ""
-
-#: lib/components/feedback/explainer_component.js:18
-msgid "The services listed on Arrival Advisor come from <0>bc211</0>, a nonprofit information and referral organization that publishes a searchable online directory of community, government, and social services in British Columbia. bc211’s staff members collect and update this services information."
-msgstr ""
-
-#: lib/components/about/about_component.js:56
-msgid "This is Arrival Advisor version:"
-msgstr ""
-
-#: lib/components/link/link_component.js:34
-msgid "This link will open in your device's browser."
-msgstr ""
-
-#: lib/components/feedback/choose_mode_modal.js:27
-#: lib/components/feedback/other_remove_service_component.js:22
-msgid "This service no longer exists"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:42
-msgid "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
-msgstr ""
-
-#: lib/components/bookmarks/tab_switcher.js:11
-msgid "Topics"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_component.js:48
-#: lib/components/services/empty_service_list_component.js:30
-msgid "Try again"
-msgstr ""
-
-#: lib/components/recommended_topics/call_to_action.js:79
-msgid "UPDATE MY RECOMMENDATIONS"
-msgstr ""
-
-#: lib/components/services/service_detail_component.js:135
-msgid "Website"
-msgstr ""
-
-#: lib/components/website/website_component.js:17
-#: lib/components/website/website_component.js:24
-msgid "Website:"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:107
-msgid "Welcome to Arrival Advisor"
-msgstr ""
-
-#: lib/components/error_screens/error_screen_switcher_component.js:56
-msgid "We’re having difficulty connecting to the server. Please try again later."
-msgstr ""
-
-#: lib/components/feedback/explainer_component.js:15
-msgid "Where do the services listed on Arrival Advisor come from?"
-msgstr ""
-
-#: lib/components/feedback/receive_updates_modal.js:38
-msgid "Yes"
-msgstr ""
-
-#: lib/components/feedback/explainer_component.js:28
-msgid "You can make a suggestion by clicking “Suggest an update” at the bottom of a service’s detail page in Arrival Advisor. Then, you can provide more information in the form to let us know what needs to be updated. You can choose to leave your contact email so that our team can follow up with you. The Arrival Advisor team will work with bc211 to review your suggestions before we make the final changes."
-msgstr ""
-
-#: lib/components/feedback/explainer_component.js:39
-msgid "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations and services are listed. If you believe that your organization or service fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the bc211 team can review your organization or service. Visit <2>http://www.bc211.ca</2> for more information."
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:23
-msgid "Your go-to guide to getting settled in your new community."
-msgstr ""
-
-#: lib/components/feedback/choose_mode_modal.js:37
-msgid "Your suggestions will be reviewed by our team before making changes to the service information."
-msgstr ""
-
-#: lib/components/search/search_results_component.js:112
-#: lib/components/services/service_list_component.js:56
-msgid "call BC211."
-msgstr ""
-
-#: lib/components/feedback/other_remove_service_component.js:24
-msgid "e.g. Service is permanently closed"
-msgstr ""
-
-#: lib/components/search/search_input_component.js:74
-msgid "{searchTermInput} near {searchLocationInput}"
-msgstr ""
-
-#: lib/components/feedback/explain_feedback_component.js:50
-msgid "When you give feedback about a service, PeaceGeeks collect and shares with bc211 your suggestions as well as the name of the service you're commenting on. We record the date and time the suggestion was received. If you choose to provide your email address, we collect that so that PeaceGeeks or bc211 may contact you regarding your suggested change. If you work at the service provider organization, you will have the option to also share your full name, job title and organization name. It is useful for us to know that the suggestion comes from someone who is familiar with the organization's work. See also PeaceGeeks' general <0>privacy policy</0> and bc211's <1>privacy page</1>."
-msgstr ""
-
-#: lib/components/feedback/explain_feedback_component.js:47
+#: lib/components/feedback/explain_feedback_component.js:46
 msgid "How is PeaceGeeks and bc211 using the information collected?"
-msgstr ""
+msgstr "How is PeaceGeeks and bc211 using the information collected?"
 
-#: lib/components/reviews/service_review_component.js:66
-msgid "Comment"
-msgstr ""
+#: lib/components/reviews/service_review_component.js:58
+msgid "How was your experience with this service?"
+msgstr "How was your experience with this service?"
 
 #: lib/components/reviews/service_detail_ratings_component.js:21
 msgid "How was your experience with {0}?"
 msgstr "How was your experience with {0}?"
 
-#: lib/components/reviews/service_review_component.js:57
-msgid "How was your experience with this service?"
-msgstr ""
+#: lib/components/feedback/explain_feedback_component.js:30
+msgid "I found some inaccurate or missing services information in the app. What do I do?"
+msgstr "I found some inaccurate or missing services information in the app. What do I do?"
 
-#: lib/components/reviews/service_review_component.js:47
+#: lib/components/help/help_component.js:67
+msgid "If you are having difficulty with settlement in Canada, we suggest getting in touch with a settlement worker."
+msgstr "If you are having difficulty with settlement in Canada, we suggest getting in touch with a settlement worker."
+
+#: lib/components/services/service_list_component.js:57
+msgid "Information about services is currently only available in English. For support in other languages, please"
+msgstr "Information about services is currently only available in English. For support in other languages, please"
+
+#: lib/components/about/about_component.js:51
+msgid "Information in this app is provided by the <0>Newcomers Guide to British Columbia</0> Copyright 2018 Province of British Columbia. All rights reserved."
+msgstr "Information in this app is provided by the <0>Newcomers Guide to British Columbia</0> Copyright 2018 Province of British Columbia. All rights reserved."
+
+#: lib/components/help/help_component.js:33
+msgid "Information on BC211"
+msgstr "Information on BC211"
+
+#: lib/components/help/help_component.js:26
+msgid "Information on HealthLinkBC (8-1-1)"
+msgstr "Information on HealthLinkBC (8-1-1)"
+
+#: lib/components/help/help_component.js:19
+msgid "Information on emergency services (9-1-1)"
+msgstr "Information on emergency services (9-1-1)"
+
+#: lib/components/help/help_component.js:40
+msgid "Information on helplines"
+msgstr "Information on helplines"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:28
+msgid "Invalid location. Try:"
+msgstr "Invalid location. Try:"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:53
+msgid "It took too long finding your location."
+msgstr "It took too long finding your location."
+
+#: lib/components/error_screens/error_screen_switcher_component.js:48
+msgid "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
+msgstr "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
+
+#: lib/components/feedback/contact_information_component.js:101
+msgid "Job Title"
+msgstr "Job Title"
+
+#: lib/components/feedback/discard_changes_modal.js:22
+msgid "Keep editing"
+msgstr "Keep editing"
+
+#: lib/components/content_verification_component.js:9
+#: lib/components/content_verification_component.js:13
+msgid "Last verified:"
+msgstr "Last verified:"
+
+#: lib/components/explore/explore_all_component.js:23
+msgid "Learn all about B.C."
+msgstr "Learn all about B.C."
+
+#: lib/components/feedback/choose_mode_modal.js:39
+#: lib/components/reviews/service_review_component.js:81
+msgid "Learn more"
+msgstr "Learn more"
+
+#: lib/components/reviews/service_review_component.js:53
 msgid "Looks like you used the service,"
-msgstr ""
+msgstr "Looks like you used the service,"
 
-#: lib/components/reviews/service_review_component.js:63
-msgid "Tell us more about your experience:"
-msgstr ""
+#: lib/components/help/help_component.js:28
+msgid "Multilingual health information services"
+msgstr "Multilingual health information services"
 
-#: lib/components/reviews/service_review_component.js:57
-msgid "Your feedback is reviewed by our team and shared with the service provider."
-msgstr ""
+#: lib/components/partial_localization/to_location_for_query.js:3
+#: lib/components/search/search_input_component.js:152
+#: lib/components/services/service_list_location_search_component.js:43
+#: lib/components/services/service_list_location_search_component.js:90
+#: lib/components/services/service_list_location_search_component.js:117
+msgid "My Location"
+msgstr "My Location"
 
-#: lib/components/bookmarks/service_banner.js:12
-msgid "Your feedback helps newcomers."
-msgstr ""
+#: lib/components/bookmarks/bookmarks_component.js:16
+msgid "My bookmarks"
+msgstr "My bookmarks"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:97
+msgid "My location"
+msgstr "My location"
+
+#: lib/components/feedback/contact_information_component.js:93
+#: lib/components/services/service_detail_component.js:114
+msgid "Name"
+msgstr "Name"
+
+#: lib/components/services/service_list_location_search_component.js:42
+msgid "Near"
+msgstr "Near"
+
+#: lib/components/search/empty_component.js:23
+msgid "Need suggestions? Try:"
+msgstr "Need suggestions? Try:"
+
+#: lib/components/questionnaire/new_topics_modal_component.js:25
+msgid "New topics have been recommended based on your answers!"
+msgstr "New topics have been recommended based on your answers!"
+
+#: lib/components/onboarding/onboarding_component.js:119
+#: lib/components/questionnaire/questionnaire_component.js:103
+msgid "Next"
+msgstr "Next"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:26
+msgid "No results found. Try to:"
+msgstr "No results found. Try to:"
+
+#: lib/components/bookmarks/service_bookmarks_component.js:20
+#: lib/components/services/service_list_component.js:87
+msgid "No services to show"
+msgstr "No services to show"
+
+#: lib/components/recommended_topics/recommended_topics_component.js:17
+msgid "No topics to recommend"
+msgstr "No topics to recommend"
+
+#: lib/components/bookmarks/topic_bookmarks_component.js:12
+#: lib/components/explore/explore_detail_component.js:16
+#: lib/components/topics/topic_detail_component.js:22
+msgid "No topics to show"
+msgstr "No topics to show"
+
+#: lib/components/questionnaire/questionnaire_component.js:81
+msgid "OF"
+msgstr "OF"
+
+#: lib/components/link/link_component.js:35
+msgid "OK"
+msgstr "OK"
+
+#: lib/components/organizations/organization_component.js:48
+msgid "ORGANIZATION"
+msgstr "ORGANIZATION"
+
+#: lib/components/recommended_topics/call_to_action.js:69
+msgid "Once you answer some questions, your recommendations will show up below. For now, here are some topics we recommend for everyone:"
+msgstr "Once you answer some questions, your recommendations will show up below. For now, here are some topics we recommend for everyone:"
+
+#: lib/components/link/link_component.js:33
+msgid "Opening External Link"
+msgstr "Opening External Link"
+
+#: lib/components/feedback/contact_information_component.js:97
+#: lib/components/services/service_detail_component.js:116
+msgid "Organization"
+msgstr "Organization"
+
+#: lib/components/feedback/choose_mode_modal.js:27
+#: lib/components/feedback/other_remove_service_component.js:19
+msgid "Other suggestions"
+msgstr "Other suggestions"
+
+#: lib/components/disclaimer/disclaimer_component.js:50
+msgid "PeaceGeeks is not liable for any damages incurred as a result of or related to the use of the app. PeaceGeeks is not an immigration consultancy network, and therefore cannot provide advice or support directly related to immigration. Arrival Advisor exists to offer newcomers a directory of services and resources to assist settlement in Metro Vancouver and does not exist in an official Immigration Service capacity."
+msgstr "PeaceGeeks is not liable for any damages incurred as a result of or related to the use of the app. PeaceGeeks is not an immigration consultancy network, and therefore cannot provide advice or support directly related to immigration. Arrival Advisor exists to offer newcomers a directory of services and resources to assist settlement in Metro Vancouver and does not exist in an official Immigration Service capacity."
+
+#: lib/components/phone_numbers/phone_numbers_component.js:16
+msgid "Phone"
+msgstr "Phone"
+
+#: lib/components/services/service_detail_component.js:183
+msgid "Phone numbers"
+msgstr "Phone numbers"
+
+#: lib/components/help/help_component.js:21
+msgid "Police, fire and medical emergencies"
+msgstr "Police, fire and medical emergencies"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:106
+msgid "Postal Code - \"V5Y 1V4\""
+msgstr "Postal Code - \"V5Y 1V4\""
+
+#: lib/components/header_menu/header_menu_component.js:71
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+#: lib/components/feedback/other_remove_service_component.js:25
+msgid "Provide any additional information (optional)"
+msgstr "Provide any additional information (optional)"
+
+#: lib/components/services/service_detail_component.js:149
+msgid "Provided by"
+msgstr "Provided by"
+
+#: lib/components/topics/topic_detail_component.js:45
+msgid "RELATED TOPICS"
+msgstr "RELATED TOPICS"
+
+#: lib/components/expandable_content/expandable_content_component.js:84
+msgid "Read less"
+msgstr "Read less"
+
+#: lib/components/expandable_content/expandable_content_component.js:84
+msgid "Read more"
+msgstr "Read more"
+
+#: lib/components/recommended_topics/recommended_topics_component.js:40
+#: lib/components/topics/task_detail_content_component.js:32
+msgid "Recommended for you"
+msgstr "Recommended for you"
+
+#: lib/components/header_menu/header_menu_component.js:38
+msgid "SELECT YOUR LANGUAGE"
+msgstr "SELECT YOUR LANGUAGE"
+
+#: lib/components/services/service_detail_component.js:139
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: lib/components/bookmarks/bookmarks_component.js:19
+msgid "Save important topics and services to build your personal plan for settlement."
+msgstr "Save important topics and services to build your personal plan for settlement."
+
+#: lib/components/search/search_input_component.js:136
+#: lib/components/services/service_list_location_search_component.js:111
+msgid "Search"
+msgstr "Search"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:92
+msgid "Search for a different keyword"
+msgstr "Search for a different keyword"
+
+#: lib/components/search/localized_place_holders.js:5
+#: lib/components/search/search_input_component.js:86
+msgid "Search for services"
+msgstr "Search for services"
+
+#: lib/components/search/search_results_component.js:120
+msgid "Search is currently in beta and only available in English. For support in other languages, please"
+msgstr "Search is currently in beta and only available in English. For support in other languages, please"
+
+#: lib/components/questionnaire/new_topics_modal_component.js:40
+msgid "See recommendations"
+msgstr "See recommendations"
+
+#: lib/components/welcome/welcome_component.js:38
+msgid "Select your language"
+msgstr "Select your language"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:24
+msgid "Server error"
+msgstr "Server error"
+
+#: lib/components/about/about_component.js:60
+msgid "Server version:"
+msgstr "Server version:"
+
+#: lib/components/bookmarks/tab_switcher.js:13
+#: lib/components/organizations/organization_tab_switcher.js:12
+msgid "Services"
+msgstr "Services"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:37
+msgid "Services are not available offline. Please connect to the internet and try again."
+msgstr "Services are not available offline. Please connect to the internet and try again."
+
+#: lib/components/help/help_component.js:35
+msgid "Services information and referral"
+msgstr "Services information and referral"
+
+#: lib/components/feedback/explain_feedback_component.js:18
+msgid "Services listed on Arrival Advisor"
+msgstr "Services listed on Arrival Advisor"
+
+#: lib/components/welcome/welcome_component.js:34
+msgid "Settling in Canada is now easier."
+msgstr "Settling in Canada is now easier."
+
+#: lib/components/search/search_results_component.js:142
+msgid "Show more services"
+msgstr "Show more services"
+
+#: lib/components/onboarding/onboarding_component.js:54
+#: lib/components/questionnaire/questionnaire_component.js:103
+msgid "Skip"
+msgstr "Skip"
+
+#: lib/components/onboarding/onboarding_component.js:119
+#: lib/components/welcome/welcome_component.js:49
+msgid "Start"
+msgstr "Start"
+
+#: lib/components/recommended_topics/recommended_topics_component.js:26
+msgid "Start settling in B.C."
+msgstr "Start settling in B.C."
+
+#: lib/components/error_screens/error_screen_switcher_component.js:103
+msgid "Street - \"1356 Kingsway Vancouver\""
+msgstr "Street - \"1356 Kingsway Vancouver\""
+
+#: lib/components/feedback/submit_feedback_button.js:22
+msgid "Submit"
+msgstr "Submit"
+
+#: lib/components/feedback/choose_mode_modal.js:20
+#: lib/components/feedback/feedback_component.js:42
+#: lib/components/services/service_detail_component.js:202
+msgid "Suggest an update"
+msgstr "Suggest an update"
 
 #: lib/components/bookmarks/service_banner.js:15
 msgid "Tell us about your experience with a service you have used. Service providers use that feedback to improve."
-msgstr ""
+msgstr "Tell us about your experience with a service you have used. Service providers use that feedback to improve."
 
-#: lib/components/reviews/prompt_service_review_button.js:34
+#: lib/components/feedback/other_remove_service_component.js:20
+msgid "Tell us more about this service"
+msgstr "Tell us more about this service"
+
+#: lib/components/reviews/service_review_component.js:64
+msgid "Tell us more about your experience:"
+msgstr "Tell us more about your experience:"
+
+#: lib/components/header_menu/header_menu_component.js:72
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: lib/components/services/thank_you_message_component.js:8
+msgid "Thank you for your contribution!"
+msgstr "Thank you for your contribution!"
+
+#: lib/components/about/about_component.js:42
+msgid "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how you can support this project."
+msgstr "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how you can support this project."
+
+#: lib/components/disclaimer/disclaimer_component.js:27
+msgid "The app provides information about relevant newcomer services, and is intended for general guidance and reference only. While we aim to provide accurate and timely information, we do not have control over the ongoing accuracy of the information or the quality of the services provided. If you discover that a piece of information is outdated or not useful, please let us know in the feedback section of the app. The inclusion of services and resources in this app does not imply an endorsement or recommendation of those services over others.  Utilization of services located through the app is undertaken at the risk of the user."
+msgstr "The app provides information about relevant newcomer services, and is intended for general guidance and reference only. While we aim to provide accurate and timely information, we do not have control over the ongoing accuracy of the information or the quality of the services provided. If you discover that a piece of information is outdated or not useful, please let us know in the feedback section of the app. The inclusion of services and resources in this app does not imply an endorsement or recommendation of those services over others.  Utilization of services located through the app is undertaken at the risk of the user."
+
+#: lib/components/feedback/explain_feedback_component.js:25
+msgid "The services listed on Arrival Advisor come from <0>bc211</0>, a nonprofit information and referral organization that publishes a searchable online directory of community, government, and social services in British Columbia. bc211’s staff members collect and update this services information."
+msgstr "The services listed on Arrival Advisor come from <0>bc211</0>, a nonprofit information and referral organization that publishes a searchable online directory of community, government, and social services in British Columbia. bc211’s staff members collect and update this services information."
+
+#: lib/components/about/about_component.js:56
+msgid "This is Arrival Advisor version:"
+msgstr "This is Arrival Advisor version:"
+
+#: lib/components/link/link_component.js:34
+msgid "This link will open in your device's browser."
+msgstr "This link will open in your device's browser."
+
+#: lib/components/feedback/choose_mode_modal.js:26
+#: lib/components/feedback/other_remove_service_component.js:24
+msgid "This service no longer exists"
+msgstr "This service no longer exists"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:42
+msgid "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
+msgstr "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
+
+#: lib/components/bookmarks/tab_switcher.js:12
+msgid "Topics"
+msgstr "Topics"
+
+#: lib/components/error_screens/error_screen_component.js:48
+#: lib/components/services/empty_service_list_component.js:30
+msgid "Try again"
+msgstr "Try again"
+
+#: lib/components/recommended_topics/call_to_action.js:79
+msgid "UPDATE MY RECOMMENDATIONS"
+msgstr "UPDATE MY RECOMMENDATIONS"
+
+#: lib/components/reviews/prompt_service_review_button.js:27
 msgid "Was this service helpful?"
-msgstr ""
+msgstr "Was this service helpful?"
+
+#: lib/components/services/service_detail_component.js:185
+msgid "Website"
+msgstr "Website"
+
+#: lib/components/website/website_component.js:23
+#: lib/components/website/website_component.js:30
+msgid "Website:"
+msgstr "Website:"
+
+#: lib/components/onboarding/onboarding_component.js:107
+msgid "Welcome to Arrival Advisor"
+msgstr "Welcome to Arrival Advisor"
+
+#: lib/components/error_screens/error_screen_switcher_component.js:56
+msgid "We’re having difficulty connecting to the server. Please try again later."
+msgstr "We’re having difficulty connecting to the server. Please try again later."
+
+#: lib/components/feedback/explain_feedback_component.js:49
+msgid "When you give feedback about a service, PeaceGeeks collect and shares with bc211 your suggestions as well as the name of the service you're commenting on. We record the date and time the suggestion was received. If you choose to provide your email address, we collect that so that PeaceGeeks or bc211 may contact you regarding your suggested change. If you work at the service provider organization, you will have the option to also share your full name, job title and organization name. It is useful for us to know that the suggestion comes from someone who is familiar with the organization's work. See also PeaceGeeks' general <0>privacy policy</0> and bc211's <1>privacy page</1>."
+msgstr "When you give feedback about a service, PeaceGeeks collect and shares with bc211 your suggestions as well as the name of the service you're commenting on. We record the date and time the suggestion was received. If you choose to provide your email address, we collect that so that PeaceGeeks or bc211 may contact you regarding your suggested change. If you work at the service provider organization, you will have the option to also share your full name, job title and organization name. It is useful for us to know that the suggestion comes from someone who is familiar with the organization's work. See also PeaceGeeks' general <0>privacy policy</0> and bc211's <1>privacy page</1>."
+
+#: lib/components/feedback/explain_feedback_component.js:22
+msgid "Where do the services listed on Arrival Advisor come from?"
+msgstr "Where do the services listed on Arrival Advisor come from?"
+
+#: lib/components/feedback/contact_information_component.js:56
+msgid "Yes"
+msgstr "Yes"
+
+#: lib/components/feedback/explain_feedback_component.js:33
+msgid "You can make a suggestion by clicking “Suggest an update” at the bottom of a service’s detail page in Arrival Advisor. Then, you can provide more information in the form to let us know what needs to be updated. You can choose to leave your contact email so that our team can follow up with you. The Arrival Advisor team will work with bc211 to review your suggestions before we make the final changes."
+msgstr "You can make a suggestion by clicking “Suggest an update” at the bottom of a service’s detail page in Arrival Advisor. Then, you can provide more information in the form to let us know what needs to be updated. You can choose to leave your contact email so that our team can follow up with you. The Arrival Advisor team will work with bc211 to review your suggestions before we make the final changes."
+
+#: lib/components/feedback/explain_feedback_component.js:41
+msgid "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations and services are listed. If you believe that your organization or service fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the bc211 team can review your organization or service. Visit <2>http://www.bc211.ca</2> for more information."
+msgstr "You can read <0>bc211’s Inclusion Policy here</0> to see what organizations and services are listed. If you believe that your organization or service fits the inclusion criteria, you can email <1>updates@bc211.ca</1> so the bc211 team can review your organization or service. Visit <2>http://www.bc211.ca</2> for more information."
+
+#: lib/components/bookmarks/service_banner.js:12
+msgid "Your feedback helps newcomers."
+msgstr "Your feedback helps newcomers."
+
+#: lib/components/reviews/service_review_component.js:78
+msgid "Your feedback is reviewed by our team and shared with the service provider."
+msgstr "Your feedback is reviewed by our team and shared with the service provider."
+
+#: lib/components/onboarding/onboarding_component.js:23
+msgid "Your go-to guide to getting settled in your new community."
+msgstr "Your go-to guide to getting settled in your new community."
+
+#: lib/components/feedback/choose_mode_modal.js:36
+msgid "Your suggestions will be reviewed by our team before making changes to the service information."
+msgstr "Your suggestions will be reviewed by our team before making changes to the service information."
+
+#: lib/components/search/search_results_component.js:123
+#: lib/components/services/service_list_component.js:60
+msgid "call BC211."
+msgstr "call BC211."
+
+#: lib/components/feedback/other_remove_service_component.js:26
+msgid "e.g. Service is permanently closed"
+msgstr "e.g. Service is permanently closed"
+
+#: lib/components/search/search_input_component.js:81
+msgid "{searchTermInput} near {searchLocationInput}"
+msgstr "{searchTermInput} near {searchLocationInput}"
